@@ -21,7 +21,7 @@ description:
 <h1><span style="color:#e01b6a;">Honors</span></h1>
 <ul>
 <li>Bloomberg Beta <a href="http://www.npr.org/blogs/alltechconsidered/2014/10/05/351851015/fortune-tellers-step-aside-big-data-looks-for-future-entrepreneurs">Future Founder</a></li>
-<li>Co-Founder, #ThisIsGrit, winning hackathon project for the &#8220;White House + Dept of Ed&#8221;</li>
+<li>Co-Founder, <a href="https://www.youtube.com/channel/UCZK66JujoN3KY3sak2kEa2w">#ThisIsGrit</a>, winning hackathon project for the &#8220;White House + Dept of Ed&#8221;</li>
 <li>Selected Interviewee, 2014 PBS <a href="http://roadtripnation.com/roadtrip/teach-roadtrip">Teach Roadtrip Nation</a></li>
 <li>Kapor <a href="http://prezi.com/lv0l3abqfh-i/kapor-capital-fellows-2012/">Capital Fellow</a></li>
 <li>Selected Attendee, <a href="http://youtu.be/TjisSInTmYo?t=1m2s">TEDx</a>Summit, Qatar</li>
