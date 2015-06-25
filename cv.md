@@ -1,10 +1,11 @@
 ---
 layout:  post-no-feature
 permalink: /cv/index.html
-title: CV
 description: 
 
 ---
+
+<a href="{{ site.url }}/OmojuMillerCV.pdf" class="download" title="Download CV as PDF">Download CV</a>	
 
 <p style="padding-left:210px;"><span style="color:#ffffff;">&#8211;</span></p>
 <h1><span style="color:#e01b6a;">Publications</span></h1>
