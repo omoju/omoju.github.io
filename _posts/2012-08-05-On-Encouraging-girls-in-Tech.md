@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "On Encouraging girls in Tech"
+title: "On Encouraging Girls in Tech"
 
 comments: true
 category: articles

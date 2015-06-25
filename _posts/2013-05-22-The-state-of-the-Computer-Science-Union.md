@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "The state of the Computer Science Union"
+title: "The State of the Computer Science Union"
 comments: true
 category: articles
 ---
