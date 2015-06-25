@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "The #GetYourLife Reading List"
+title: "The GetYourLife Reading List"
 
 comments: true
 category: articles
