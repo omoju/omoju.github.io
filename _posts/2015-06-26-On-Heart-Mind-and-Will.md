@@ -6,7 +6,7 @@ comments: true
 category: articles
 ---
 
-I just finished reading Kentaro Toyama's tour de force on the misunderstood effects of tech for social good - [The Geek Heresy](http://geekheresy.org/). His basic thesis is technology alone is neither necessary nor even sufficient to bring about social change. Where technology has triumphed, there have always been people who had the heart, mind and will to use tech to catalyze change. What often happens is that technology in and of itself just amplifies the underlying existing social structures. We all love to tout how technology is going to make the world a better place, how technology is going to radically transform the world. But according to Toyama, we are misguided and uninformed optimist who are doomed to fail at our task. 
+I just finished reading Kentaro Toyama's tour de force on the misunderstood effects of tech for social good - [The Geek Heresy](http://geekheresy.org/). His basic thesis is technology alone is neither necessary nor even sufficient to bring about social change. Where technology has triumphed, there has always been people who had the heart, mind, and will to use tech to catalyze change. What often happens is that technology in and of itself just amplifies the underlying existing social structures. We all love to tout how technology is going to make the world a better place, how technology is going to radically transform the world. But according to Toyama, we are misguided and uninformed optimist who are doomed to fail at our task. 
 
 It is rather ironic, that out of most industries, ours is among the least diverse in its workforce in the nation. We who march under the banner of "Technology is going to radically transform the world for the better." Not to pick on any one tech company in the valley because all of their performance on this issue is abysmal. But since they put the numbers out there, I will pick Facebook. In 2013, Facebook hired only 7 Black people. Only 7. That was it! Stop laughing Google, you are not doing any better either. How is it that we who have decided to change the world into a better place through technology can't seem to find a solution for equity in our own institutions? If we can't do this at home, what makes us think we can do this at scale?
 
@@ -40,7 +40,7 @@ Often these interviews test you through a series of meetings. Some contain techn
 
 Here in lies the major challenge, now you are asking a bunch of White and Asian men to judge let say a Latino woman to determine if she is smart enough and if she is will fit in with them. Until hiring decisions don't come down to this, it will be virtually impossible to achieve inclusion in tech.
 
-Until we get the heart and will to change how technical interviews are done, we will not achieve inclusion. Until the founders of companies make this issue a personal cause, nothing will change. A company is not going to evolve its cultural DNA without the leadership of its founder. 
+Until we get the heart and will to change how technical interviews are done, we will not achieve inclusion. Until the founders of companies make this issue a personal cause, nothing will change. A company is not going to evolve its cultural DNA without the leadership of its founder. Lets us take a lesson from Toyama's book on the need for heart, mind, and will as a necessary pre-requisite for social change.
  
 
 <small>
