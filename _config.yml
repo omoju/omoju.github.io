@@ -23,9 +23,7 @@ links:
     url: /about
   - title: CV 
     url: /cv 
-  - title: Github
-    url: https://github.com/omoju
-    external: true
+  
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
