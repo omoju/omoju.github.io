@@ -14,3 +14,11 @@ category: articles
 
 <br>
 Which one do you want to be? Do you want coding food from the microwave, or want the Michelin Chef? Both of them will satiate your hunger, but they are not the same thing. Pick wisely my friends. 	
+
+<small>
+	NO. I.D. interview H/T [@AllThingMitch](https://twitter.com/AllThingsMitch) <br>
+<small/>
+<small>
+	[The Code: A Conversation With Dion &quot;No I.D.&quot; Wilson (Pt. 1) - Forbes](http://www.forbes.com/sites/julianmitchell/2015/06/30/the-code-a-conversation-with-dion-no-i-d-wilson-pt-1/)
+</small>
+
