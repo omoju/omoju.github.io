@@ -53,3 +53,7 @@ permalink:   /:categories/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+# for pagination
+paginate: 10
+paginate_path: "/articles/page:num/" 
