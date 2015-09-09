@@ -52,12 +52,20 @@ small {
 }
 
 blockquote, blockquote p {
-    font-style: italic;
-    line-height: 1.3em;
-    text-align: center;
-    color: lighten($black, .2);
-    margin-bottom: $lh;
+    font: 18px $sans;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    padding-left: 15px;
+  
+
+     /*Borders - (Optional)*/
+    border-left: 1px solid #8AB9D1;
+    border-right: 1px solid #8AB9D1;
 }
+
+
+
 
 
 /*   Code Formatting    */

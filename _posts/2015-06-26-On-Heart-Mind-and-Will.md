@@ -10,7 +10,7 @@ I just finished reading Kentaro Toyama's tour de force on the misunderstood effe
 
 It is rather ironic, that out of most industries, ours is among the least diverse in its workforce in the nation. We who march under the banner of "Technology is going to radically transform the world for the better." Not to pick on any one tech company in the valley because all of their performance on this issue is abysmal. But since they put the numbers out there, I will pick Facebook. In 2013, Facebook hired only 7 Black people. Only 7. That was it! Stop laughing Google, you are not doing any better either. How is it that we who have decided to change the world into a better place through technology can't seem to find a solution for equity in our own institutions? If we can't do this at home, what makes us think we can do this at scale?
 
->I realized after reading Kentaro's book, that what we in the tech industry lack is the heart, and the will to solve this problem.
+> >I realized after reading Kentaro's book, that what we in the tech industry lack is the heart, and the will to solve this problem.
 
 This is not a tech-bashing post. I am a technologist, I have worked at, and attended august institutions that I am criticizing. This was something that just baffled me to no end. Part of my professional responsibilities is to wrestle with these kinds of challenges and to determine how technology can be deployed to address it. 
 
