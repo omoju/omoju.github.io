@@ -8,7 +8,7 @@ category: articles
 
  ![IMAGE ALT TEXT HERE]({{ site.url }}/images/DominicanChapel.jpg)
 
-I have often wondered, what would happen when African ways of knowing meet Western thought. Today I don't have to wonder about that anymore, I know the answer, I now know what happens when the African embraces technology but does not fore go he's African ways of knowing. A glourious thing is created, in CS it is often called the "CS + X for all X" approach. 
+Today I don't have to wonder about that anymore, I know the answer, I now know what happens when the African embraces technology but does not forgo he's African ways of knowing. A glourious thing is created, in CS it is often called the "CS + X for all X" approach. 
 
 Demas Nwoko is an example of an individual who took his African ways of knowing and melded it with Western technological insights. He gave birth to an African Vernacular Architecture. His Dominocan Chapel in Ibadan, pictured above is a masterwork of that vernacular. 
 
