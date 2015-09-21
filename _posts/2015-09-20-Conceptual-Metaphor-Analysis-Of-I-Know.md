@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "A Conceptual Metaphor Analysis of `I Know'"
+title: "A Conceptual Metaphor Analysis of 'I Know'"
 description: "We need to understand why rappers use words like “copping” to stand for buying drug or use the language of food “bread”, “cheddar”, “dough”, to stand for money. We need to understand why in rap lyrics we constantly trip over novel conceptual metaphors. "
 comments: true
 category: articles
