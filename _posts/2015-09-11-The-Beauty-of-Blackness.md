@@ -17,3 +17,7 @@ I suddenly realized he as never had a “Black Experience." He has only lived th
 > > That much bandied about American phrase "towards a more perfect union", is the story of Black life in America. The first slaves landed on her shores 1619. It took Black people another 300+ years to get to the civil rights bill of the 1960s. Consequently, we can say that Black people have had their freedom for 40+ years now. And in that time, they have been able to send one of their own to the White House. That story is truly emblematic of the capacity of the Black experience to lead to self-transcendence. That is remarkable! That is the beauty of Blackness. This is what I wanted to share with you.
 
 
+
+
+
+
