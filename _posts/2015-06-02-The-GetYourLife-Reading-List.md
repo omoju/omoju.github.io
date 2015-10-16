@@ -7,9 +7,12 @@ category: articles
 ---
 
 
- [![IMAGE ALT TEXT HERE]({{ site.url }}/images/SoundOfDrums.png)](http://www.youtube.com/watch?v=wzPZC7KL3ew)
+<center>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/0i1XnnQ-LQg" frameborder="0" allowfullscreen></iframe>
+</center>
 
 
+<br>
 
 I admit, I am super extra. I put this list together for a then boyfriend, who I believe had lost his way, had stopped hearing <a href="https://www.youtube.com/watch?v=wzPZC7KL3ew">the sound of the drums.</a> This is my get your life list. Do you guys have one? Please tell me am not the only OCD bibliophile.
 <ol>
