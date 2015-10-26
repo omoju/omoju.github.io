@@ -4,6 +4,9 @@ title: "My campaign for education access"
 ---
 
 
-[![IMAGE ALT TEXT HERE]({{ site.url }}/images/screen-shot-2012-08-31-at-2-29-41-pm1.png)](http://youtu.be/pueL5eTi4FA)
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pueL5eTi4FA" frameborder="0" allowfullscreen></iframe>
+</center>
 
 For the next 10 years, I want to be a social entreprener focused on education. Education not for the upper class 1% but education at large for everybody. 
