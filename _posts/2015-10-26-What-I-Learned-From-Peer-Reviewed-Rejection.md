@@ -10,13 +10,12 @@ category: articles
 
 I finally have a [hiphopathy](http://www.omojumiller.com/hiphopathy) paper accepted to a peer-reviewed publication. This is a HUGE deal to me, especially after several rejections of the same idea, 2x from SIGCSE, as well as 1x from the NSF GRFP. At some point I thought this idea was complete folly, and doomed to ne’er see the light of peer-reviewed scholarship. But I stuck to my crazy rap data science idea, with the support of my advisor whose belief in me never wavered, and here we are. She asked me to submit to this, I submitted and finally got accepted.
 
-![SWEXSYS]({{ site.url }}/images/swexsys.png)
 
 Before, I started my academic career at Cal, I have done pretty well for myself in terms of publishing my work. While at the University of Memphis, I had published four papers in the span of two years. I guess I got what Paulo Coelho refers to as [beginners luck](http://www.goodreads.com/quotes/32467-every-search-begins-with-beginner-s-luck-and-every-search-ends). In my very first attempt at getting my research out the door, I was the [first author](http://www.actapress.com/PaperInfo.aspx?PaperID=15878&reason=500). My paper had been accepted at an A.I. conference in Austria. I was really feeling myself. The next set of papers were wildly successful, and one of them still remains the most cited paper in the area of [sensor ontology](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&citation_for_view=E7z_wrwAAAAJ%3Au5HHmVD_uO8C).
 
 When I got to Berkeley, I assumed I would just continue to waltz through the doors of peer-reviewed publications. I was dead wrong. I encountered one rejection after another. I had what was truly my very own original idea, to use rap lyrics as an object of computation in the context of an intro data science module, as a means of maximizing participation in CS. I thought everyone would love it! I thought I would be applauded for my originality. Instead, I hit a brick wall. It seemed like as far as my reviewers were concerned I was “crazy” and my idea wasn’t fit for them to either publish in their periodicals or give money to.
 
-![NSF, Rejected]({{ site.url }}/images/nsf.png)
+
 
 One rejection wasn’t going to shake me, so I continued with my line of inquiry. I spoke and wrote about it to anyone who would listen. I got undergraduate research students to help me build some prototypes. I persisted against that brick wall, by just doing something. Every now and again, I would get a win. My research team and I got a breakthrough when a poster on the work got accepted at the [California Cognitive Science Conference](http://cssa.berkeley.edu/ccsc13.html).
 
