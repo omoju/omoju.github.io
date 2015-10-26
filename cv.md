@@ -13,7 +13,6 @@ description:
 
 
 <br/>
-<p style="padding-left:210px;"><span style="color:#ffffff;">&#8211;</span></p>
 <h1><span style="color:#e01b6a;">Publications</span></h1>
 <p class="MsoNormal" style="margin-bottom:6pt;text-align:justify;text-justify:inter-ideograph;line-height:normal;"><strong>O.Miller</strong> (2014) &#8220;<a href="http://dl.acm.org/citation.cfm?id=2604994">Its deeper than rap, toward culturally responsive CS</a>,&#8221; XRDS: Crossroads, The ACM Magazine for Students, New York, NY, pp. 28-30.</p>
 <p class="MsoNormal" style="margin-bottom:6pt;text-align:justify;text-justify:inter-ideograph;line-height:normal;"><strong>O.Miller</strong> (2013) &#8220;<a href="http://kaporcenter.org/wp-content/uploads/2013/10/Kapor_CodingLandscape_R3.pdf">Winning with both sides of the coin</a>,&#8221; Coding Nation Report, Kapor Center for Social Impact, Oakland CA, pp. 6-7.</p>
