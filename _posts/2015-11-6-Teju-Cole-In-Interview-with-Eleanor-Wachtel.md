@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "Teju Cole in Interview with Eleanor Wachtel - On Blackness, Obama, America and Learning Ones Place in it"
+title: "Teju Cole in Interview with Eleanor Wachtel - On Becoming"
 description: "And each one of us ... we all have to figure out what is our relationship to this culture. And  the great thing is that most of us end up embracing it and try to be responsible to our role, our privileges and our disadvantages within that rather complex system."
 comments: true
 category: articles
