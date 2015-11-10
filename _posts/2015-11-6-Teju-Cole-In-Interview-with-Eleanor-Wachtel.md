@@ -19,7 +19,7 @@ I am a big fan of Teju Cole. Today, he reposted this interview he had with Elean
 
 Here are his words:
 
-I think in part that was an exploration for me of what it was like to first arrive in the US and find this society that is obsessed with race and the way that plays out in your relationship with other Black Americans who have had race imposed on them and who then experience their lives primarily in racial terms. But also to experience-but this takes a lot of time-and realize that for non-Black people, particularly the White people that you’re interacting with, are interacting with you on the basis of your **race**. You might not immediately notice, but  that is what is happening. This was initially, quite difficult for me. 
+>>I think in part that was an exploration for me of what it was like to first arrive in the US and find this society that is obsessed with race and the way that plays out in your relationship with other Black Americans who have had race imposed on them and who then experience their lives primarily in racial terms. But also to experience-but this takes a lot of time-and realize that for non-Black people, particularly the White people that you’re interacting with, are interacting with you on the basis of your **race**. You might not immediately notice, but  that is what is happening. This was initially, quite difficult for me. 
 
 Who are this people that are laying various sorts of claims on me? What does it mean? 
 
