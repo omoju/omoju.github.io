@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "Hiphopathy - Introduction "
+title: "Hiphopathy, A Dissertation In Seven Acts: Introduction"
 description: "One of most pressing questions for my generation to answer is that of
 maximizing participation. In my field of computer science (CS), there is
 a near absence of women and underrepresented ethnic-minorities (African
