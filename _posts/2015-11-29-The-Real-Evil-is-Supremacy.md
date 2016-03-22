@@ -1,0 +1,46 @@
+---
+layout: post-no-feature
+title: "The Real Evil is Supremacy"
+description: "At the root of many of these ills lies supremacist ideals. This is not an America problem, it is not an European problem, it is not an African problem, it is a human problem."
+comments: true
+category: articles
+--- 
+
+
+I find myself confronted more and more with the issue of inequality, in particular its manifestation around race. I often ask myself why is it that I can no longer ignore these issues? What has happened to make me more sensitive to it now? It might be because I live in the Bay Area where we have been wrestling with this issue, it could also be that I am that worn cliche, a woman in tech and all its attendant isms.
+
+When confronted with such inequality, it is easy to get lulled into justifiable anger, into hatred, into negativity. Not only does that not solve anything, that actually robs you of your lightness of being, and most importantly, your capacity to love. Anger while it might be justified, will eventually rob you of your humanity, if left unchecked. So anger can’t be the correct response when seeking to find solutions to the glaring inequality that we see in the world today.
+
+If you belong to a racial minority in terms of population distribution depending on what part of the world you live in, it is easy to turn your gripe into dislike of the majority. I have seen people do it over and over and over again. They internalize their anger and become racist themselves. If anger isn’t the correct response, then what is the appropriate response? While I don’t know what that is, I do know that “Supremacy”is the real culprit, and this includes all of us.
+
+At the root of many of these ills lies supremacist ideals. This is not an America problem, it is not an European problem, it is not an African problem, it is a human problem. This is not to excuse or reduce the terror and indignities that have been suffered by many, especially those belonging to minority groups.
+When I say supremacy, I mean two things, the first being the notion that there is only ONE right way, ONE best way, ONE best prototype, ONE acceptable norm, ONE way of being. I grew up in a syncretistic, metropolitan experience, splitting my life between post-colonial Nigeria and Britain. I learned two ways of being. I learned how to code-switch. Until I came to America, I didn’t realize I spoke English with a decidedly British accent. Some of my Nigerian colleagues thought I was a poser, that I was putting on the accent, but I wasn’t. Hours spent in deep deliberation helped me to realize that my summers in Britain were the only time in my young life that I was limited to speaking mostly one language, English.
+
+At home in Lagos, I spoke a mixture of Pidgin, English, and Yoruba. There was a natural tendency to ginger up language because I moved fluidly between several socio-economic groups, with whom I had real relationships with in the course of a day. I grew up speaking a spicy mixture of the three often in the same speech. However in London, outside of the family residence, I HAD to reduce my speech to just one tongue. This experience let me realize subconsciously that different places in the world have cultural norms that one has to adhere to in order to fit into the culture, to achieve *cultural fit*.
+Unfortunately, what I have come to discover here in Silicon Valley and the larger Bay Area, is a strong sense of cultural assimilation. The glorification of the *mono-culture*, of the one way of being, and even worse, the acceptance of that **one** way as the **best** and **only** way. This didn’t start here in the valley, this started long before.
+
+I saw the glorification of this one way of being, rise to a gory crescendo on my recent trip to Paris, as well as in the recent events in South Africa. You see, the underbelly of supremacist ideals in a world where historically, the flow of capital has coalesced around racial stratification as was the case in colonial Africa, the United States, and apartheid South Africa, sometimes has the after effect of twisting the minds of the oppressed into a noxious brew of self loathing.
+
+The aspiration to power, aspiration to wealth, especially if ones sees that the persons with the “power” and “wealth” mostly have a lighter hue, can twist the minds of the oppressed, can twist the minds of those who do not conform to the commonly held stereotypes around power and wealth towards a hatred of things that look like them, things in their tortured mind that reminds them of their powerlessness. 
+
+This is one side of the coin. Lest my readers think that I am mainly speaking to the experiences of Black and Brown peoples, I am not. I am speaking to all of us humans who have been touched by the ideals of the so called *Enlightenment*, which lay the foundation of the western hemisphere’s ways of thought. The fathers of the Enlightenment held an anachronistic belief in “Scientific Racism.” Leaders like Hume, Kant, and many of their elk held on to ideas of European superiority. Here is Hume in his own words touting his supremacists beliefs in an excerpt from his essay *Of National Characters*.
+
+>>“I am apt to suspect the negroes and in general all other species of men (for there are four or five different kinds) to be naturally inferior to the whites. There never was a civilized nation of any other complexion than white, nor even any individual eminent either in action or speculation.”- David Hume
+
+To unpack these unintended consequences of supremacy, I will share two seemingly unrelated experiences, one from Paris, the other from South Africa.
+
+### The sickness that ails Paris, is fully realized in South Africa.
+
+As you no doubt have heard by now, some indigenous Black South Africans have turned against their other Brown skinned brothers and sisters. They have taken up arms against them, and have started slaughtering them in the streets, in their stores and everywhere they can be found, mostly in the townships.
+These brothers have turned against their own because of their perception that it is this foreigners that have taken all the jobs that they would have been entitled to. To some extent they are right. Nevertheless, we the world, looking in from the outside are missing the point. This isn’t just a case of afrophobia, it is the fully realized embodiment of supremacy as embodied by a racist doctrine. In our small minds we think racism must be white on black, or the lighter people’s of the world tormenting, twisting and terrorizing the lived experiences of the darker peoples. What is happening in the townships have nothing to do with the White South Africans, or so it seems on the surface.
+
+Apartheid ended in a day. Overnight, Black South Africans had the freedoms they fought fervently for. They were free to apply for any jobs they wanted. However, because they were denied real education, this gift of freedom couldn’t be truly realized. Instead of real education, Bantu education was forced upon Black South Africans. Bantu education was a system of education that prepared Black South Africans for unskilled jobs. The then Minister of native affairs, Hendrik Verwoerd, is reported to have said
+
+>>“There is no place for [the Bantu] in the European community above the level of certain forms of labour ... What is the use of teaching the Bantu child mathematics when it cannot use it in practice?”
+
+How could they ever have hoped to get the much sort after white collar jobs, which are the staple of pulling ones self up by ones bootstraps? Assuming by some stroke of luck or circumstance those coveted job lands on their lap, one can imagine that it would be hard to have pride in ones service, when everyday ones job reminds one of much one does not really know, how much one has been denied through the apartheid system. It is systems like this, that cultivate a sense of low self worth in a person, which left unchecked leads to violence, especially when disempowered Black South Africans turn around and see the Nigerian immigrant, who doesn’t have the apartheid inheritance of poor education and racial oppression, thriving better than they.
+
+What happened at the fall of apartheid in South Africa was not real freedom, it just wasn’t for its Black citizens. Real freedom would have been to overnight wipe away generations of oppression. To somehow miraculously give back to all Black South Africans, all the generations of good education and the wealth that would have accrued by true access to education, overnight. You can tear down the rules, but that does nothing to correct for the real EVIL of institutional oppression.
+The end of apartheid wasn’t the beginning of true freedom, yes, it was a kind of freedom, but freedom without justice. In order to have true freedom, it needs to be coupled with justice, a means of restoring to the wronged all knowledge and assets denied. In South Africa, we witness the aftermath of supremacy and its unintended consequences.
+
+From San Francisco, to Paris, to Johannesburg, the million dollar question we all are wrestling with is “How do we systematically close the gap created by several generations of institutional and social privilege, engendered by supremacist frameworks?” Whoever comes up with an answer, might just be the one to save our world. Are you the one?
