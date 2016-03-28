@@ -5,7 +5,7 @@ description:
 
 ---
 
-<a href="{{ site.url }}/OmojuMillerCV.pdf" class="download" title="Download CV as PDF">Download CV</a>	
+<a href="https://www.linkedin.com/in/omojumiller" class="download" title="LinkedIn">LinkedIn</a>	
 
 
 
