@@ -32,12 +32,11 @@ Looking back on my undergraduate career, I had a great time. My classes were tou
 
 ## Computational System
 Towards the end of my junior year, I was talking with my computer graphics professor, Edward Ordman, who mentioned that his friend had just started a company and was looking for software engineers. I reached out and was hired as an intern, the company was called Thoughtware Learning Technologies, Inc. That internship would later become a full-time position.
-
 The company was an education training company that had be founded to commercialize some of the A.I. research that was been done on campus. unbeknownst to me, the University of Memphis housed the Institute of Intelligence Systems, with highly accomplished researchers like Stan Franklin, Art Graesser, Daniel McNamara and others. While I was taking classes from these guys as an undergraduate, they were busy putting their mark on cognitive systems.
-
-It was at Thoughtware that I first truly caught the bug for the application of A.I. I was busy building these online courses for fortune 500 companies with little bits of A.I. built into it, to give the end user a better experience of testing their knowledge. The company got funded from the valley, we rode the wave of the first dot com bubble. The bubble busted, I saw the writing on the wall and headed back to University of Memphis to further my knowledge of A.I. 
-
+It was at Thoughtware that I first truly caught the bug for the application of A.I. I was busy building these online courses for fortune 500 companies with little bits of A.I. built into it, to give the end user a better experience of testing their knowledge. The company got funded from the valley, we rode the wave of the first dot com bubble. The bubble busted, I saw the writing on the wall and headed back to University of Memphis to further my knowledge of A.I.
 I became a student of Dr David Russomanno, this time in the engineering department, where I started pursuing an a masters in intelligent systems. I had been deeply fascinated by what where then called “expert systems” which are better know today by the name “cognitive computing.” The most famous of these systems is IBM’s Watson, the jeopardy winner. With Dr Russomanno, we focused on the semantic web.
+
+![Me, my colleague Echo Azar and another colleague of ours in our lab at Memphis. Yeah we were NERDs. 2006]({{ site.url }}/images/15CompIntl/OmojuMemphisEECELab.JPG)
 
 The work that I personally focused on dealt with sensor knowledge modeling techniques using RDF and OWL. We developed an ontology named OntoSensor. When I saw Dr Russomanno last October, he told me that one of our papers is still the most cited paper in its area. Under Dr Russomanno’s guidance, I published my first scholarly paper as first author, and got some other publications out. It was around that time that I started hatching the idea for Hiphopathy. 
 
