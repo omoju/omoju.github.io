@@ -17,18 +17,19 @@ If someone had told me that I would at one point be a software engineer, a compu
 To put things in perspective, the first web page went live in 1991. By 1994, there were fewer than 3000 websites around, today there are well over billion. Even by 1994, the web was still mostly for hardcore hobbyist.
 
 By 1996, I found myself in Memphis, TN. Growing up, I spent most of my summers in London, so living abroad wasn’t so novel. However, I had never visited the American South. That summer, in addition to visiting London, my family and I planned to visit NYC for my cousins wedding. That summer trip was the beginning of my life in the states. I literally ended up staying in this country by complete happenstance.
-My uncles had persuaded my father to allows us to stay in the US because the universities in Nigeria where once again on strike. Since my sister and entered the country on a visitor’s visa, it meant that we had to get accepted into an American university in less than a few months and transition our status to F1 before we our visa ran out. In 3 weeks, my sister and I studied and passed our ACT exams. Think about how badass that is? To be told:
+
+My uncles had persuaded my father to allows us to stay in the US because the universities in Nigeria where once again on strike. My sister and I entered the country on a visitor’s visa, which meant that we had to get accepted into an American university in less than a few months and transition our status to F1 before we our visa ran out. In 3 weeks, my sister and I studied and passed our ACT exams. Think about how badass that is? To be told:
 
 >you have to take this extremely high-stakes exam, get a strong score and oh, by the way, you have 21 days to do it.
 
-You will be amazed what you can do, when you are forced to do it. We did exactly just that and gained acceptance to LeMoyne Owen college, an HBCU in Memphis. I started at LeMoyne Owen college January 1997. My first semester at there, I took a class titled “Management Information System.”
+You will be amazed what you can do, when you are forced to do it. We did exactly just that and gained acceptance to LeMoyne Owen college, an HBCU in Memphis. I started at LeMoyne Owen college January 1997. My first semester there, I took a class titled “Management Information System.”
  
 >I took that class, discovered the internet and my life changed forever. 
 
 It was game over, I had found what I wanted to do. I wanted to be a computer scientist. I wanted to know everything about what made this thing possible. By that fall, I transferred to the University of Memphis and became a CS major.
 
 ## University of Memphis 
-Looking back on my undergraduate career, I had a great time. My classes were tough but intellectually stimulating. That was all I needed. I got As and Bs in all my CS classes, except for darn Assembly language. While I was perhaps the only Black girl in my year, and for the most part, probably one of three in the major, I wasn’t actually aware of it. Even though I clearly was Black, my identity was solidly African, as a result I honest did not process race the same way my American classmates did. It has taken me over 10 years to see the world as Americans do.
+Looking back on my undergraduate career, I had a great time. My classes were tough but intellectually stimulating. That was all I needed. I got As and Bs in all my CS classes, except for darn Assembly language. While I was perhaps the only Black girl in my year, and for the most part, probably one of three in the major, I wasn’t actually aware of it. Even though I clearly was Black, my identity was solidly African, as a result I honestly did not process race the same way my American classmates did. It has taken me over 10 years to see the world as Americans do.
 
 ## Computational System
 Towards the end of my junior year, I was talking with my computer graphics professor, Edward Ordman, who mentioned that his friend had just started a company and was looking for software engineers. I reached out and was hired as an intern, the company was called Thoughtware Learning Technologies, Inc. That internship would later become a full-time position.
@@ -37,7 +38,7 @@ The company was an education training company that had be founded to commerciali
 
 It was at Thoughtware that I first truly caught the bug for the application of A.I. I was busy building these online courses for fortune 500 companies with little bits of A.I. built into it, to give the end user a better experience of testing their knowledge. The company got funded from the valley, we rode the wave of the first dot com bubble. The bubble busted, I saw the writing on the wall and headed back to University of Memphis to further my knowledge of A.I.
 
-I became a student of Dr David Russomanno, this time in the engineering department, where I started pursuing an a masters in intelligent systems. I had been deeply fascinated by what where then called “expert systems” which are better know today by the name “cognitive computing.” The most famous of these systems is IBM’s Watson, the jeopardy winner. With Dr Russomanno, we focused on the semantic web.
+I became a student of Dr David Russomanno, this time in the engineering department, where I started pursuing a masters in intelligent systems. I had been deeply fascinated by what where then called “expert systems” which are better know today by the name “cognitive computing.” The most famous of these systems is IBM’s Watson, the jeopardy winner. With Dr Russomanno, we focused on the semantic web.
 
 ![Me, my colleague Echo Azar and another colleague of ours in our lab at Memphis. Yeah we were NERDs. 2006]({{ site.url }}/images/15CompIntl/OmojuMemphisEECELab.JPG)
 
@@ -52,7 +53,7 @@ I hosted some aspects of the Science Olympiad, I held talks for local high schoo
 
 ![Omoju and her son Roju, 2008]({{ site.url }}/images/15CompIntl/omojuRoju08.jpeg)
 
-Two years, turned into three, life happened and I found myself facing the dissolution of my marriage. There is nothing like a divorce, and the identity crisis that comes with it, that forces you to re-evaluate your life and who you are. I decided that if life was going to serve me lemons, then not only would I make lemonade, I was going to re-invent the lemonade market and take it global. I decided I was finally going to listen to my intuition, the small voice in my head, and go on to pursue a PhD in Computer Science Education, even thought I didn’t know if such a thing even existed. This was in 2009, *edtech* wasn’t a thing. 
+Two years, turned into three, life happened and I found myself facing the dissolution of my marriage. There is nothing like a divorce, and the identity crisis that comes with it, that forces you to re-evaluate your life and who you are. I decided that if life was going to serve me lemons, then not only would I make lemonade, I was going to re-invent the lemonade market and take it global. I decided I was finally going to listen to my intuition, the small voice in my head, and go on to pursue a PhD in Computer Science Education, even though I didn’t know if such a thing existed. This was in 2009, edtech wasn’t a thing.
 
 The voice had been telling me to ask bigger questions like “why was I the only one I often saw in CS?,” “If you are going to do hiphopathy, and believe that African Americans ability to code-switch effortlessly could give you deeper insights into conceptual metaphors, shouldn’t you go get some African Americans into the field?” and so on.
 
