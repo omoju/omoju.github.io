@@ -10,7 +10,7 @@ category: articles
 ![Omoju 2014 White House Tree Lighting Ceremony]({{ site.url }}/images/15CompIntl/omojuWHMadeWithCode.jpg)
  
 
-It started in 1994, Fadeyi, Lagos. My high school introduced a mandatory computer science (CS) class taught by Mr Onyeka. He often wore a white buba and sokoto and often had a bad case of razor bumps on the back of his neck, which made paying attention in class difficult, since he was always writing on the board with his back to us.
+It started in 1994, Fadeyi, Lagos. My high school introduced a mandatory computer science (CS) class taught by Mr Onyeka. He often wore a white buba and sokoto and had a bad case of razor bumps on the back of his neck. It was rather distracting learning his material because those razor bumps were all I could focus on.
 
 If someone had told me that I would at one point be a software engineer, a computer scientist and now data scientist, I would have laughed them off. I hated CS class because it focused mainly on things like ALU (Arithmetic and Logic Unit), registers and so on; the logical components that made up the computer itself. My Onyeka didn’t make it anymore fun either, since we hardly ever got to actually see, let alone touch a computer.
 
