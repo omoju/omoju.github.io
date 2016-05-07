@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
-title: "15+ years of computational intelligence: How I became an expert in both human and machine intelligence"
-description: I am writing this essay to say thank you. Thank you to my University of Memphis, and UC Berkeley families."
+title: "15+ years of computational intelligence."
+description: "How I became an expert in both human and machine intelligence."
 comments: true
 category: articles
 --- 
