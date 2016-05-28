@@ -27,7 +27,7 @@ I admit, I am super extra. I put this list together for a then boyfriend, who I 
 	<li><span class="text_exposed_show">Chinua Achebe - Things Fall Apart</span></li>
 	<li><span class="text_exposed_show">Chinua Achebe - The Education of a British-Protected Child</span></li>
 	<li><span class="text_exposed_show">Chris Abani - Graceland</span></li>
-	<li><span class="text_exposed_show">Gordon Parks - Half Past Autumn: A Retrospective</span></li>
+	<li><span class="text_exposed_show">Gordon Parks - Voices in the Mirror: An Autobiography</span></li>
 	<li><span class="text_exposed_show">Helene Cooper - The House at Sugar Beach: In Search of a Lost African Childhood</span></li>
 	<li><span class="text_exposed_show">Isabel Wilkerson - The Warmth of other suns: The Epic Story of America's Great Migration </span></li>
 	<li><span class="text_exposed_show">Joseph Campbell - The Power of Myths</span></li>
