@@ -6,7 +6,8 @@ description:
 ---
 
 <a href="https://www.linkedin.com/in/omojumiller" class="download" title="LinkedIn">LinkedIn</a> |
-Download [CV](http://omojumiller.com/OmojuMillerCV.pdf)
+<a href="https://github.com/omoju">Github</a> |
+[CV](http://omojumiller.com/OmojuMillerCV.pdf)
 
 
 ## Publications
