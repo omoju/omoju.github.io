@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "In Praise of Seymour Papert, the father of AI."
-description: ""
+description: "Seymour’s dream isn’t dead because he is, instead, he has left his work to us his devotees to continue."
 comments: true
 category: articles
 ---
@@ -36,8 +36,9 @@ LOGO came built in to support procedures, children learned to write their own pr
 [Lewis](http://dl.acm.org/citation.cfm?id=1734383) found that “students that learned LOGO had on average higher confidence in their ability to program,” than their counterparts that learned Scratch. Seymour designed LOGO specifically to on-board children into the world of professional developers. These block-based languages have done the opposite. They “dumbed” down computation. They almost managed to strip it of all its power. Just look at this ad for a new “coding” toy where the cutesy little girl is “playing” coding.
 
 <center>
-<iframe width="560" height="315" src="https://youtu.be/I9Qm18it47A" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v8Up-BfOCKg" frameborder="0" allowfullscreen></iframe>
 </center>
+
 
 Do you think the cutesy girl in the video is doing anything remotely close to what a professional developer does? How is she going to transfer that knowledge from playing around with blocks to a text-based-language like python? Oh don’t get me started on the fact that her brother gets to do real coding in a professional language, on a professional text editor, but she has to go play coding. Thank God Seymour is dead.
 
