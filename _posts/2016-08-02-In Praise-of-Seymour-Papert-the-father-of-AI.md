@@ -7,10 +7,6 @@ category: articles
 ---
 
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v8Up-BfOCKg" frameborder="0" allowfullscreen></iframe>
-</center>
-
 ![SEYMOUR PAPERT]({{ site.url }}/images/InPraiseSeymour/seymour.jpeg)
 
 A few years ago, something beyond magical happened to me, I read Mindstorms: Children, Computers and Powerful Ideas, Seymour Papert’s seminal work on human cognition w.r.t. to computation. Until the announcement of his death this morning, I didn’t realize just how much he meant to me. Micheal Jackson died, I mourned but didn’t cry. Prince died, I mourned but didn’t cry. Seymour died and I broke down into a complete mess.
@@ -37,10 +33,7 @@ LOGO came built in to support procedures, children learned to write their own pr
 
 >While they are successful at introducing some aspects of computation to students, they have a negative effect on student’s self-reported perception of being programmers, coders, or devs.
 
-[Lewis](http://dl.acm.org/citation.cfm?id=1734383) found that “students that learned LOGO had on average higher confidence in their ability to program,” than their counterparts that learned Scratch. Seymour designed LOGO specifically to on-board children into the world of professional developers. These block-based languages have done the opposite. They “dumbed” down computation. They almost managed to strip it of all its power. Just look at this ad for a new “coding” toy where the cutesy little girl is “playing” coding.
-
-
-Do you think the cutesy girl in the video is doing anything remotely close to what a professional developer does? How is she going to transfer that knowledge from playing around with blocks to a text-based-language like python? Oh don’t get me started on the fact that her brother gets to do real coding in a professional language, on a professional text editor, but she has to go play coding. Thank God Seymour is dead.
+[Lewis](http://dl.acm.org/citation.cfm?id=1734383) found that “students that learned LOGO had on average higher confidence in their ability to program,” than their counterparts that learned Scratch. Seymour designed LOGO specifically to on-board children into the world of professional developers. These block-based languages have done the opposite. They “dumbed” down computation. They almost managed to strip it of all its power.
 
 Seeing all the effort that is going into computational thinking, and the President’s [CSForAll](https://www.whitehouse.gov/blog/2016/01/30/computer-science-all) initiative I can’t help but think, “but we have done this before, and nothing changed.” The same fervor surrounded us, Papertesque LOGO disciples. In the 80s LOGO was supposed to usher in a revolution in computer science education. Seymour gave us a vision of what computers could really mean in education. It was supposed to be a revolution!. And yet nothing happened. School was able to kill that which was birthed when children, computers and powerful ideas come together.
 
