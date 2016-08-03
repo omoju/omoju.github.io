@@ -7,20 +7,17 @@ category: articles
 ---
 
 
-![Berkeley Logo]({{ site.url }}/images/InPraiseSeymour/BerkeleyLogo.jpeg)
+![SEYMOUR PAPERT]({{ site.url }}/images/InPraiseSeymour/seymour.jpeg)
 
 A few years ago, something beyond magical happened to me, I read Mindstorms: Children, Computers and Powerful Ideas, Seymour Papert’s seminal work on human cognition w.r.t. to computation. Until the announcement of his death this morning, I didn’t realize just how much he meant to me. Micheal Jackson died, I mourned but didn’t cry. Prince died, I mourned but didn’t cry. Seymour died and I broke down into a complete mess.
-
-![SEYMOUR PAPERT]({{ site.url }}/images/InPraiseSeymour/seymour.jpeg)
 
 Something about his death made me feel an intellectual hopelessness. The only thing that kept coming to my mind was “who will carry on the work?” “Who will be true to the way Seymour saw the world?” “Who will continue the great experiment that Seymour started when he brought children and computers together?” “Who will be the custodian of powerful ideas?” “Who”. “Who.” “WHO.” And then I realized that [Lorena Barba](https://medium.com/@lorenaabarba/computational-thinking-i-do-not-think-it-means-what-you-think-it-means-6d39e854fa90#.y1hq6o9jw) exists, she has continued on the same path that Seymour forged. And the biggest of all, I realized instead of looking for others to lead, to be the custodians, to carry the torch, I realized that I could be my own superman.
 
 Seymour’s dream isn’t dead because he is, instead, he has left his work to us his devotees to continue. It is now time for us to step up to the plate. Some of you will say
+
 >“why is she despondent, after all, there is the lifelong kindergarten group at MIT who continue his work.”
 
 Others will say, “Mitchel Resnick, but Mitchel Resnick.” You will be correct, that group exist, but they do not continue the work, nay, through the success of Scratch and its community, they have actually retarded the work.
-
-![SEYMOUR PAPERT]({{ site.url }}/images/InPraiseSeymour/seymourturtle.jpeg)
 
 Papert in the 1980s created the LOGO programming environment to demonstrate how children’s computational thinking skills can be harnessed through the use of a computational object to think with, in his case, the “LOGO turtle.”
 
