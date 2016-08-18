@@ -6,7 +6,7 @@ comments: true
 category: articles
 ---
 
-I am a film fanatic. I suspect my father is too. Growing up in Lagos we were fed a steady diet of films from the golden age of Hollywood. We had a vast library of RKO movies. I grew up watching Ginger Rogers and Fred Astaire fly down to Rio.
+We had a vast library of RKO movies. I grew up watching Ginger Rogers and Fred Astaire fly down to Rio.
 
 [![Flying Down to Rio]({{ site.url }}/images/Movies/flyingDownToRio.jpg)](http://www.youtube.com/watch?v=pVpFBoj-zeY)
 
