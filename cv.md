@@ -54,7 +54,7 @@ Omoju Miller. 2013. “[Winning with Both Sides of the Coin.”](http://kaporcen
 
 ### Talks
 
-Panelist  "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, 2016 (Forthcoming).
+Panelist "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, 2016 (Forthcoming).
 
 Keynote “15+ Years of Learning Computational Intelligence.” Annual OUSD Dinner with a Scientist, California, May 2016.
 
