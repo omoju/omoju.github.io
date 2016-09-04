@@ -1,13 +1,13 @@
 ---
 layout:  post-no-feature
 permalink: /cv/index.html
-description: 
+description:
 
 ---
 
 <a href="https://www.linkedin.com/in/omojumiller" class="download" title="LinkedIn">LinkedIn</a> |
 <a href="https://github.com/omoju">Github</a> |
-[CV](http://omojumiller.com/OmojuMillerCV.pdf)
+[CV](http://omojumiller.com/Omoju_Miller_MasterCV_September_2016.pdf)
 
 
 ## Publications
@@ -54,6 +54,7 @@ Omoju Miller. 2013. “[Winning with Both Sides of the Coin.”](http://kaporcen
 
 ### Talks
 
+Panelist  "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, 2016 (Upcoming).
 
 Keynote “15+ Years of Learning Computational Intelligence.” Annual OUSD Dinner with a Scientist, California, May 2016.
 
@@ -96,13 +97,11 @@ Invited panelist, “Social Justice in the Age of Big Data.” Swinging and Flow
 
 ### Press, Podcast & Coverage
 
-- [Q&A with CS Ed Reformer and PhD Candidate Omoju Miller](http://best.berkeley.edu/2015/03/11/best-labber-in-berkeley-byte-qa-with-cs-ed-reformer-and-phd-candidate-omoju-miller/),Berkeley Bytes, March 11, 2014.
-- [Fortune-Tellers, Step Aside: Big Data Looks For Future Entrepreneurs](http://www.npr.org/sections/alltechconsidered/2014/10/05/351851015/fortune-tellers-step-aside-big-data-looks-for-future-entrepreneurs),NPR’s All Tech Considered, October 5, 2014.
-- [African Americans on the role of Higher Education in Innovation](https://www.blacksintechnology.net/the-road-to-50-podcast-african-americans-on-the-role-of-higher-education-in-innovation/),#BITTechTalk, December, 2014.
-- [RoadTrip Nation: Omoju’s Open Road](http://roadtripnation.com/leader/omoju-miller), Pivot TV, March, 2015.
-- [Redesigning Computer Science 101 Education with Omoju Miller](http://hanselminutes.com/488/redesigning-computer-science-101-education-with-omoju-miller), The Hanselman Minutes Podcast: Fresh Air for Developers, August, 2015.
-- [Learners Guild, Investing in You to Code,](https://www.youtube.com/watch?v=T0wQRr4RuqM&ab_channel=HBCUtoStartup) HBCU to Startup Podcast, March, 2016.
-- [The Science of People in Tech](http://audio.javascriptair.com/e/022-jsair-the-science-of-people-in-tech-with-kate-edwards-omoju-miller-and-steve-andrews/), JavaScript Air Podcast, May, 2016.
 - [Everybody’s Got Questions(Yup)](https://www.youtube.com/watch?v=q5mmE05e82I&ab_channel=ScienceWithTom),Featured in Science with Tom parody rap video, May 2016.
-
-
+- [The Science of People in Tech](http://audio.javascriptair.com/e/022-jsair-the-science-of-people-in-tech-with-kate-edwards-omoju-miller-and-steve-andrews/), JavaScript Air Podcast, May, 2016.
+- [Learners Guild, Investing in You to Code,](https://www.youtube.com/watch?v=T0wQRr4RuqM&ab_channel=HBCUtoStartup) HBCU to Startup Podcast, March, 2016.
+- [Redesigning Computer Science 101 Education with Omoju Miller](http://hanselminutes.com/488/redesigning-computer-science-101-education-with-omoju-miller), The Hanselman Minutes Podcast: Fresh Air for Developers, August, 2015.
+- [RoadTrip Nation: Omoju’s Open Road](http://roadtripnation.com/leader/omoju-miller), Pivot TV, March, 2015.
+- [African Americans on the role of Higher Education in Innovation](https://www.blacksintechnology.net/the-road-to-50-podcast-african-americans-on-the-role-of-higher-education-in-innovation/), #BITTechTalk, December, 2014.
+- [Fortune-Tellers, Step Aside: Big Data Looks For Future Entrepreneurs](http://www.npr.org/sections/alltechconsidered/2014/10/05/351851015/fortune-tellers-step-aside-big-data-looks-for-future-entrepreneurs), NPR’s All Tech Considered, October 5, 2014.
+- [Q&A with CS Ed Reformer and PhD Candidate Omoju Miller](http://best.berkeley.edu/2015/03/11/best-labber-in-berkeley-byte-qa-with-cs-ed-reformer-and-phd-candidate-omoju-miller/), Berkeley Bytes, March 11, 2014.
