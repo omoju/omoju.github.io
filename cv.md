@@ -15,7 +15,7 @@ description:
 ### Conference proceedings
 
 
-Forthcoming. Omoju Miller. “Gaining Insights into the Effects of Culturally Responsive Curriculum on Historically Underrepresented Students’ Desire for Computer Science.” *Proceedings of the 123rd ASEE Annual Conference, New Orleans, LA.*
+Omoju Miller. 2016. “Gaining Insights into the Effects of Culturally Responsive Curriculum on Historically Underrepresented Students’ Desire for Computer Science.” *Proceedings of the 123rd ASEE Annual Conference, New Orleans, LA*.
 
 D.J. Russomanno, C. Kothari and O. Thomas. 2005. “[Building a Sensor Ontology: A Practical Approach Leveraging ISO and OGC Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&sortby=pubdate&citation_for_view=E7z_wrwAAAAJ:u5HHmVD_uO8C).” *The 2005 International Conference on Artificial Intelligence, Las Vegas, NV* 637–643.
 
@@ -54,7 +54,7 @@ Omoju Miller. 2013. “[Winning with Both Sides of the Coin.”](http://kaporcen
 
 ### Talks
 
-Panelist  "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, 2016 (Upcoming).
+Panelist  "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, 2016 (Forthcoming).
 
 Keynote “15+ Years of Learning Computational Intelligence.” Annual OUSD Dinner with a Scientist, California, May 2016.
 
