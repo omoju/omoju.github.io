@@ -1,6 +1,6 @@
 title:            Omoju Miller
 tagline:          Data Scientist. Start-up Advisor. Educator.
-description:      
+description:
 canonical: http://omojumiller.com
 
 # Owner/author information
@@ -21,10 +21,10 @@ tools:
 links:
   - title: About
     url: /about
-  - title: CV
-    url: /cv
   - title: portfolio
     url: /portfolio
+  - title: CV
+    url: /cv
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
