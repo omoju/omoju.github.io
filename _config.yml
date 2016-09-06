@@ -1,12 +1,12 @@
 title:            Omoju Miller
-tagline:          PhD Candidate UC Berkeley. Software Technologist. Start-up Advisor. Educator.
-description:      Computer Scientist that gets into the messiness of society
+tagline:          Data Scientist. Start-up Advisor. Educator.
+description:      
 canonical: http://omojumiller.com
 
 # Owner/author information
 owner:
   name:           Omoju Miller
-  email:          omojumiller@gmail.com
+  email:          omojumiller@cal.berkeley.edu
   twitter:        omojumiller
   github:         omoju
   location:       "California, Bay Area"
@@ -21,9 +21,11 @@ tools:
 links:
   - title: About
     url: /about
-  - title: CV 
-    url: /cv 
-  
+  - title: CV
+    url: /cv
+  - title: portfolio
+    url: /portfolio
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
@@ -56,4 +58,4 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # for pagination
 paginate: 10
-paginate_path: "/articles/page:num/" 
+paginate_path: "/articles/page:num/"
