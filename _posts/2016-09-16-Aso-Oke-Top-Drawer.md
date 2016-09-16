@@ -1,13 +1,13 @@
 ---
 layout: post-no-feature
 title: "Àsó Oké - Top Drawer"
-description: "Deola Sagoe belongs alongside Demas Nwoko, Ikiré Jones ... African artist who transform their medium through their communion with the west. "
+description: "Deola Sagoe belongs alongside Demas Nwoko, Ikiré Jones ... African artist who transform their medium through their communion with the west."
 comments: true
 category: articles
 ---
 
 <center>
-<iframe width="560" height="315" src="https://youtu.be/kDRGKnaCj2I" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kDRGKnaCj2I" frameborder="0" allowfullscreen></iframe>
 </center>
 
 <br>
