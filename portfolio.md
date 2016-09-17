@@ -14,11 +14,11 @@ This work presents a data-drive approach at examining the socio-curricular facto
 ---
 
 [Hiphopathy](https://github.com/omoju/hiphopathy)   
-A Socio-Curricular Study of Introductory CS Anchored with Data Science Using Rap Lyrics.
+A Socio-Curricular Study of Introductory CS Anchored with Data Science Using Rap Lyrics. The goal of this work is to connect cultural relevance to computing by introducing elementary techniques of natural language processing with a corpus of hip-hop data. This curricular unit was implemented on **edX** MOOClet, *[BJC.3x: Data, Information and the Internet](https://www.edx.org/course/beauty-joy-computing-cs-principles-part-uc-berkeleyx-bjc-3x).* The coursed launched in 2015 with over 20,000 students.
 
 ---
 [Model the Dynamics of Gender in Intro CS](https://github.com/omoju/genderCSExperience)   
-A supervised learning project using eXtreme Gradient Boosting Trees.
+A supervised learning project using eXtreme Gradient Boosting Trees. This project creates predictive model for understanding the dynamics of gender in intro CS at Berkeley for the years 2014 through 2015. This work builds on previous research done in fulfillment of a Computer Science Education Ph.D., HipHopathy, A Socio-Curricular Study of Introductory Computer Science.
 
 ---
 
@@ -28,7 +28,8 @@ In 2000, Enron was one of the largest companies in the United States. By 2002, i
 ---
 
 [A Student Intervention System](https://github.com/omoju/studentIntervention)   
-Identify students who might need early intervention.
+A student intervention supervised learning project with highly unbalanced dataset. The goal of this project is to identify students who might need early intervention.
+
 
 ---
 
