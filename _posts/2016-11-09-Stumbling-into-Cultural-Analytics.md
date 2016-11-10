@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "The Invention of Gender Analytics"
+title: "Stumbling into Cultural Analytics"
 description: "Data-driven method applied to the experience of intro CS at Universities."
 comments: true
 category: articles
