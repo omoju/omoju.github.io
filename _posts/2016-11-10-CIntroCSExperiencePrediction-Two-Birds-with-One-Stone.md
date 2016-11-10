@@ -12,7 +12,7 @@ Before I delve into the issue of educating women and girls, I will make a quick 
 ![The result of the 2016 Presidential election, and the most common jobs in each state]({{ site.url }}/images/CSExperience/map_election_jobs.png)
 
 
-Like all the other techies out there, I was thrilled!!!!! But then the reality set in. I thought we would have a generation before this piece of AI would go into production. I thought there would be enough time for us to figure out how to retrain adults en masse for the new economy jobs. Turns out that wasn't true. The future is here.
+Once the Otto Uber beer run happened, like all the other techies out there, I was thrilled!!!! But then the reality set in. I thought we would have a generation before this piece of AI would go into production. I thought there would be enough time for us to figure out how to retrain adults en masse for the new economy jobs. Turns out that wasn't true. The future is here.
 
 As automation continues to gain ground, so too are the new industries it helps to create. This new era is creating a new kind of worker, the highly-skilled knowledge worker, in particular, the highly-skilled *technology* knowledge worker.
 
