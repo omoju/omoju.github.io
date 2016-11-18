@@ -14,6 +14,7 @@ This is the second part in a series outlining how I determined the leading facto
 <br>
 
 
+
 As part of my doctoral study, I decided to investigate the socio-curricular factors that affect the decision to participate in introductory computer science through a data-driven lens. To do this, I designed a research study examining the role of computer science self-identity centered around the experiences of undergraduates in two introductory computer science classes at UC Berkeley.
 
 Once I completed that study, I didn't stop; I decided to ask new questions of the data. Specifically *what were the leading factors that made female students choose intro CS*? With that, the project I titled [IntroCSExperiencePrediction](https://github.com/omoju/IntroCSExperiencePrediction) was born.
@@ -21,7 +22,7 @@ Once I completed that study, I didn't stop; I decided to ask new questions of th
 To solve this problem, I will undertake the following course of action:   
 
 1. Explore the dataset.   
-Usually, I would explore the dataset to ensure its integrity and understand the context. But in this case, I will skip this step since I designed the study and collected the data, I am versed of the context. Further, I have done previous work on this dataset, so I know its boundaries.
+Explore the dataset to ensure its integrity and understand the context.
 2. Identify features that I can potentially use.   
 If possible, I should engineer features which might provide greater discrimination of the dataset.
 3. With the understanding that this a "classification" task, explore a couple of classifiers such as:
@@ -39,9 +40,9 @@ If possible, I should engineer features which might provide greater discriminati
 
 The student dataset that I will be using for this project has unbalanced classes as can be seen in the image above. It is important to pay attention to this class unbalance as it can cause the accuracy metric that is routinely used to judge classifiers to breakdown as the classes become more skewed.
 
-Taking into account the unbalanced dataset, and the nature of the problem itself, instead of using accuracy as my evaluation criteria, I will use the **expected value** framework. This framework allows me to evaluate each classifier with respect to the "potential" business value of the decisions it makes on the data.  In real life scenarios, there is often a cost associated with misclassifying data. To really drive this idea home, permit me to take a detour into the world of credit assessment.
+Taking into account the unbalanced dataset, and the nature of the problem itself, instead of using accuracy as my evaluation criteria, I will use the **expected value** framework. This structure allows me to evaluate each classifier concerning the "potential" business value of the decisions it makes on the data.  In real life scenarios, there is often a cost associated with misclassifying data. To drive this idea home, permit me to take a detour into the world of credit assessment.
 
-Machine learning applications are often used to determine whether a candidate should be given a loan or not. In this scenario, there is a real cost to a business if a good candidate is misclassified to be a risky candidate. When that happens, the business loses money it otherwise would have made from issuing the loan. So, in evaluating the effectiveness of a  classifier in separating such a dataset, we want to have a cost associated with a misclassification and a reward/benefit associated with a correct classification. A way to do that is to use the expected value framework whose equation is shown below:
+Machine learning applications are often used to determine whether a candidate should be given a loan or not. In this scenario, there is a real cost to a business if a good candidate is misclassified to be a risky candidate. When that happens, the business loses money it otherwise would have made from issuing the loan. So, in evaluating the effectiveness of a  classifier in separating such a dataset, we want to have a cost associated with a misclassification and a reward/benefit associated with a correct classification. A way to do that is to use the expected value framework:
 
 <img src="{{ site.url }}/images/CSExperience/expectedValue_equ.png" alt="Expected Value Equation" style="width: 600px;"/>
 <img src="{{ site.url }}/images/CSExperience/expectedValueCalculation.png" alt="Expected Value Calculation" style="width: 600px;"/> <span style="font-size:0.5em">
@@ -55,7 +56,7 @@ This equation states that the expected value of a classifier is the expected rat
 
 ### Dataset
 
-The dataset I used in this project consists of survey responses. I developed the survey instruments to measure undergraduate students' self-reported attitudes along the following dimensions:
+The dataset I used in this project consists of survey responses. I developed the questionnaire instruments to measure undergraduate students' self-reported attitudes along the following dimensions:
 
 - `atcs`: CS beliefs
 - `atcsgender`: Gendered belief about CS ability
@@ -64,13 +65,13 @@ The dataset I used in this project consists of survey responses. I developed the
 - `blg`: CS belonging
 - `cltrcmp`: Collegiality
 
-In addition, I also collected data around students' background using the following dimensions.
+Besides, I also collected data on students' background using the following dimensions.
 
 - `prcs`: Prior collegiate CS exposure
 - `mtr`: CS mentors and role models
 - University demographics
 
-Majority of the questionnaire I developed uses a 5-point Likert scale (where 1 = Strongly Disagree, 3 = Neutral and, 5 = Strongly Agree). I created a code book to facilitate my ease of analysis and the interpretability of results. A copy of the code book is at the end of this post. The dataset consists of 45 features with 882 instances. Further, the dataset breakdowns into 494 male instances versus 388 female instances.
+The majority of the questionnaire I developed uses a 5-point Likert scale (where 1 = Strongly Disagree, 3 = Neutral and, 5 = Strongly Agree). I created a code book to facilitate my ease of analysis and the interpretability of results. A copy of the code book is at the end of this post. The dataset consists of 45 features with 882 instances. Further, the dataset breakdowns into 494 male cases versus 388 female examples.
 
 #### Missing Values
 The dataset with 45 features had two features with missing data.
@@ -81,21 +82,21 @@ The dataset with 45 features had two features with missing data.
 
 #### Data Preprocessing
 
-To prepare the data for classification, all features need to be transformed into numeric data. This dataset has several non-numeric columns that need converting. Many of them take on `yes` and `no` values, e.g. `prcs_2`. I can reasonably convert these into `1/0` (binary) values. For the features whose values are `Nan`, I will convert this to the mean value of the feature. Further, I will remove all whitespaces from feature names because I know in advance that the tree plotting function for Xgboost will fail without de-spacing those names. In addition to the preprocessing I outlined, I will scale the dataset using a minimax scaler to ensure that I get a good output for the SVM algorithm.
+In preparation for classification, all features need to transform into a numeric format. This dataset has several non-numeric columns that need converting. Many of them take on `yes` and `no` values, e.g. `prcs_2`. I can reasonably convert these into `1/0` (binary) values. For the features whose values are `Nan`, I will convert this to the mean value of the feature. Further, I will remove all whitespaces from feature names because I know in advance that the tree plotting function for Xgboost will fail without de-spacing those names. In addition to the preprocessing I outlined, I will scale the dataset using a minimax scaler to ensure that I get a good output for the SVM algorithm.
 
 ### Summarizing the Data
 
 <img src="{{ site.url }}/images/CSExperience/atcs.png" alt="CDensity estimation for dimension atcs." style="width: 450px;"/>
 
-I created a density estimation for some dimensions in the data to gain an rough understanding of student experiences. The distributions of most of the dimensions looked very similarly to that of `atcs`. Most of the data is either skewed to the left or skewed to the right. As a result, I rejected using descriptive statistics to summarize the data in favor quantiles represented by box plots as can be seen in the figure below.
+I created a density estimation for some dimensions in the data to gain a rough understanding of student experiences. The distributions of most of the dimensions looked very similarly to that of `atcs`. Most of the data is either skewed to the left or skewed to the right. As a result, I rejected using descriptive statistics to summarize the data in favor quantiles represented by box plots as can be seen in the figure below.
 
 <img src="{{ site.url }}/images/CSExperience/atcs_quantile.png"  style="width: 450px;"/>
 
-So what does image tell me about the data? From it, I can see that the median of this dimension is approximately at the 75 percentile, which based on the Likert scale dataset means that majority students generally agree with the attitudinal questions asked about their CS beliefs. For computational thinking, from the image below, I see that most of the data in this dimension also follows a similar distribution.
+So what does image tell me about the data? From it, I can see that the median of this dimension is approximately at the 75 percentile, which based on the Likert scale dataset means that majority students agree with the attitudinal questions asked about their CS beliefs. For computational thinking, from the image below, I see that most of the data in this dimension also follows a similar distribution.
 
 <img src="{{ site.url }}/images/CSExperience/atct_quantile.png"  style="width: 450px;"/>
 
-When it comes to gendered beliefs about CS ability, I can see that the distribution for the dimension `atcsgender` is really skewed to the right, i.e., most students *strongly disagree* with the statements. This does not come as a surprise, what I found fascinating is that the median for `atcsgender_2` is at the 25 percentile, which corresponds to "neutral." You can see this in the boxplot in the image.  While students do not agree that women are smarter than men, half of them are undecided about this statement!
+When it comes to gendered beliefs about CS ability, I can see that the distribution for the dimension `atcsgender` is really skewed to the right, i.e., most students *strongly disagree* with the statements. This finding does not come as a surprise, what I found fascinating is that the median for `atcsgender_2` is at the 25 percentile, which corresponds to "neutral." You can see this in the boxplot in the image.  While students do not agree that women are smarter than men, half of them are undecided about this statement!
 
 - `atcsgender_1`: Women are less capable of success in CS than men.
 - `atcsgender_2`: Women are smarter than men.
