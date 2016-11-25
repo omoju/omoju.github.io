@@ -45,10 +45,11 @@ Taking into account the unbalanced dataset, and the nature of the problem itself
 Machine learning applications are often used to determine whether a candidate should be given a loan or not. In this scenario, there is a real cost to a business if a good candidate is misclassified to be a risky candidate. When that happens, the business loses money it otherwise would have made from issuing the loan. So, in evaluating the effectiveness of a  classifier in separating such a dataset, we want to have a cost associated with a misclassification and a reward/benefit associated with a correct classification. A way to do that is to use the expected value framework:
 
 <img src="{{ site.url }}/images/CSExperience/expectedValue_equ.png" alt="Expected Value Equation" style="width: 600px;"/>
-<img src="{{ site.url }}/images/CSExperience/expectedValueCalculation.png" alt="Expected Value Calculation" style="width: 600px;"/> <span style="font-size:0.5em">
-Expected rates multiplied by the cost-benefit weighted by the class priors. Image from "Provost and Fawcett. Data Science for Business: What You Need to Know About Data Mining and Data-analytic Thinking, 2013."
-</span>
-
+<figure>
+  <img src="{{ site.url }}/images/CSExperience/expectedValueCalculation.png" alt="Expected Value Calculation" style="width: 600px;"/>
+  <figcaption> Expected rates multiplied by the cost-benefit weighted by the class priors. Image from "Provost and Fawcett. Data Science for Business: What You Need to Know About Data Mining and Data-analytic Thinking, 2013."
+  </figcaption>
+</figure>
 This equation states that the expected value of a classifier is the expected rates multiplied by the cost/benefit value of each entry in the confusion matrix, weighted by the class priors. For this project, I have assigned a penalty of -2 for each false classification of the female class and a reward of 5 for each correct assignment. I came up with this numbers arbitrarily based on my desire to pick the classifier that best separated out the female class.  
 
 
@@ -160,7 +161,7 @@ Next time, I will conclude the project by going through steps two through five. 
 - `clet_1` I work well in teams.
 - `clet_2` I think about the ethical, legal, and social implications of computing.
 - `cltrcmp_1` I am comfortable interacting with peers from different backgrounds than my own (based on race, sexuality, income, and so on.)
-- `cltrcmp_2` I have good cultural competence, or the ability to interact effectively with people from diverse backgrounds.
+- `cltrcmp_2` I have go od cultural competence, or the ability to interact effectively with people from diverse backgrounds.
 
 #### Demographics
 - `gender` Could I please know your gender
