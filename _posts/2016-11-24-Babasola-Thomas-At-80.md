@@ -88,9 +88,9 @@ My father has an impressive fashion sense. I write this while aboard a Virgin At
   <figcaption> My father with his grand nephew, New York City, 2003.
   </figcaption>
 </figure>
-Whatever sense of style I have, I got a significant amount from my Dad who relishes the art of dress. As a teenager, I served as my father’s defacto butler. I loved helping him gather all the various pieces that were brought together to create a distinct look. If I had to say what my father’s aesthetic is, it seems to be fashioned after Prince Philip, Duke of Edinburgh (Philip Mountbatten).  
+Whatever sense of style I have, I got a significant amount from my Dad who relishes the art of dress. As a teenager, I served as my father’s defacto butler. I loved helping him gather all the various pieces that were brought together to create a distinct look. If I had to say what my father’s aesthetic is, it seems to be fashioned after Prince Philip, Duke of Edinburgh, the husband of Britain’s Queen Elizabeth.
 
-Whilst in the West, it was always a well-cut suit, often light brown, or grey, paired with a white shirt or at the most extreme a light blue shirt, a gold Rolex (presidential bracelet) on his wrist, a diamond signet ring on his pinkie finished off with a loafer of some kind. He hardly wore monks, wingtips or brogues. In Winter, the loafers were switched for a black napa leather Chelsea boot, a black cashmere top coat and a checkered cream and tan wool scarf.
+Whilst in the West, it is always a well-cut suit, often light brown, or grey, paired with a white shirt or at the most extreme a light blue shirt, a gold Rolex (presidential bracelet) on his wrist, a diamond signet ring on his pinkie finished off with a loafer of some kind. He hardly wears monks, wingtips or brogues. In Winter, the loafers are switched for a black napa leather Chelsea boot, a black cashmere top coat and a checkered cream and tan wool scarf.
 
 <figure>
   <img src="{{ site.url }}/images/BabasolaThomas80/Daddy_Mummy_GranKids_70.JPG" alt="Daddy" style="width: 450px;">
@@ -98,7 +98,7 @@ Whilst in the West, it was always a well-cut suit, often light brown, or grey, p
   </figcaption>
 </figure>
 
-While in Nigeria, it was always agbada. He didn’t adhere to conventions at all. Most Nigerian business men and COEs wore the western business uniform, the suit. Not my Dad, for him it was full agbada; not even buba sokoto, full agbada. When it came to parties, my father often out dressed the celebrant, while most would consider this poor taste, not my father. He couldn’t honestly give two f**ks. He lives life by his rules.
+While in Nigeria, it is always agbada. He doesn’t adhere to conventions at all. Most Nigerian business men and COEs wear the western business uniform, the suit. Not my Dad, for him it was full agbada; not even buba sokoto, <i>full</i> agbada. When it comes to parties, my father often out dresses the celebrant, while most would consider this poor taste, not my father. He doesn’t honestly give two f**ks. He lives life by his rules.
 
 <center>
 . . .
@@ -106,7 +106,7 @@ While in Nigeria, it was always agbada. He didn’t adhere to conventions at all
 <br/>
 Now at 80, he still wears his agbada, watch, and ring. Age has caught up to him now; his mobility is somewhat impaired, and he has since given up the loafers for shoes with more cushioning and support. But that’s about it. His mind is still as razor sharp as it has ever been.
 
-This past Tuesday, over 800 people showed up to celebrate my father with my family and I. The young man who gambled away his allowance grew up to be a very successful entrepreneur who expanded on his parents' wealth by mastering the stock market. To them he is this titan, to me, my brother and sister, he is just Daddy. To his grand children, he's the grandfather that spoils them. I feel sorry for the grandkids because they did not get to see him in his full element. They never had the privilege of arriving at school smelling of a mixture of Hoyo de Monterrey and Kouros. They never got to experience the horizontal overtake maneuver that my father sometimes did while driving us in London.
+This past Tuesday, over 800 people showed up to celebrate my father with my family and I. The young man who gambled away his allowance grew up to be a very successful entrepreneur who expanded on his parents’ wealth by growing a company and mastering the stock market. To many of his adoring fans, he is this titan, to my brother, my sister, and I, he is just Daddy. To his grand children, he’s the grandfather that spoils them. I feel somewhat sorry for the grandkids because they did not get to see him in his full element. They never had the privilege of arriving at school smelling of a mixture of Hoyo de Monterrey and Kouros. They never got to experience the horizontal overtake maneuver that my father sometimes did while driving us in London.
 
 <figure>
   <img src="{{ site.url }}/images/BabasolaThomas80/Daddy_and_buddies_Paris.JPG" alt="Daddy" style="width: 450px;">
