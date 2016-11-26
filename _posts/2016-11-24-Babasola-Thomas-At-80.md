@@ -109,7 +109,7 @@ Now at 80, he still wears his agbada, watch, and ring. Age has caught up to him 
 This past Tuesday, over 800 people showed up to celebrate my father with my family and I. The young man who gambled away his allowance grew up to be a very successful entrepreneur who expanded on his parents’ wealth by growing a company and mastering the stock market. To many of his adoring fans, he is this titan, to my brother, my sister, and I, he is just Daddy. To his grand children, he’s the grandfather that spoils them. I feel somewhat sorry for the grandkids because they did not get to see him in his full element. They never had the privilege of arriving at school smelling of a mixture of Hoyo de Monterrey and Kouros. They never got to experience the horizontal overtake maneuver that my father sometimes did while driving us in London.
 
 <figure>
-  <img src="{{ site.url }}/images/BabasolaThomas80/Daddy_and_buddies_Paris.JPG" alt="Daddy" style="width: 450px;">
+  <img src="{{ site.url }}/images/BabasolaThomas80/Daddy_and_buddies_Paris.jpg" alt="Daddy" style="width: 450px;">
   <figcaption> My father and some of his buddies at Charle De Gaulle Airport, Paris. Sometime in the 80s.
   </figcaption>
 </figure>
