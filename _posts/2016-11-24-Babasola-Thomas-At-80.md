@@ -67,7 +67,7 @@ Upon arriving back in England, he went head long into his favorite past time, ga
 
 <figure>
   <img src="{{ site.url }}/images/BabasolaThomas80/Daddy_Mummyshop_London.JPG" alt="Daddy" style="width: 450px;">
-  <figcaption> My father, his sister, cousins and friends as students in London in the 60s. My father is the gentleman sitted on the left.
+  <figcaption> My father, his sister, cousins and friends as students in London in the 60s. My father is the gentleman seated on the left.
   </figcaption>
 </figure>
 
