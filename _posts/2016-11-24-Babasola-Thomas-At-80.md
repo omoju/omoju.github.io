@@ -98,7 +98,7 @@ Whilst in the West, it was always a well-cut suit, often light brown, or grey, p
   </figcaption>
 </figure>
 
-While in Nigeria, it was always agbada. He didn’t adhere to conventions at all. Most Nigerian business men and COEs wore the western business uniform, the suit. Not my Dad, for him it was full agbada; not even buba sokoto, full agbada. When it came to parties, my father often out dressed the celebrant, while most would consider this poor taste, not my father. He couldn’t honestly give two f**ks. He lived life by his rules.
+While in Nigeria, it was always agbada. He didn’t adhere to conventions at all. Most Nigerian business men and COEs wore the western business uniform, the suit. Not my Dad, for him it was full agbada; not even buba sokoto, full agbada. When it came to parties, my father often out dressed the celebrant, while most would consider this poor taste, not my father. He couldn’t honestly give two f**ks. He lives life by his rules.
 
 <center>
 . . .
