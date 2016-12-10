@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "The Rise of the Merchant Princess"
-description: ""
+description: "Ìyá Álaàfiá, aka Josephine Olaitan Thomas (nee Koya), was born March 29th, 1907 to one of the ruling families in Ìjebu Ódé."
 comments: true
 category: articles
 ---
@@ -33,7 +33,7 @@ Her parents had four daughters of which she was the second. By the time she beca
 with the managers of Lipton’s in England.   
 **Omoju:** Also, I remember, nì gba tí a kere, em, St Paul’s church came to interview her. And they wrote her up in the church magazine.   
 **Daddy:** Yes, because she was very religious. You know. Because, because of her connection, you know, she believes in the anglican church's preaching and their preachers, the reverend, so she was very active in the church, and chaired it for so many years. She was the chairman of the harvest committee, you know, raising money, a lot of money for the church, the annual harvest, and for so many years she was a member of the parish council.   
-**Omoju:** So, at the time of her death, how much do you think, roughly, in today’s money, her estate was worth?
+**Omoju:** So, at the time of her death, how much do you think, roughly, in today’s money, her estate was worth?    
 **Daddy:** Hmmm, [long pause], half a billion (Naira as of 2013)
 
 <figure>
@@ -70,7 +70,7 @@ with the managers of Lipton’s in England.
 
 <figure>
   <img src="{{ site.url }}/images/RiseMerchantPrincess/mama_egbe_oni_ciga.jpg" alt="Mama">
-  <figcaption> Mama, on her 70th birthday with the ègbé ní sigá. Date 1976
+  <figcaption> Mama, in the middle flanked by the ègbé ní sigá on her 70th birthday. Date 1977
   </figcaption>
 </figure>
 
@@ -113,7 +113,7 @@ the idea of me staying with Lai’s apartment given to her, se o ye é?
 
 <figure>
   <img src="{{ site.url }}/images/RiseMerchantPrincess/mama_65th_bday.jpg" alt="Mama">
-  <figcaption> Mama, in the middle, on her 65th birthday. Date 1971
+  <figcaption> Mama, in the middle, on her 65th birthday. Date 1972
   </figcaption>
 </figure>
 
