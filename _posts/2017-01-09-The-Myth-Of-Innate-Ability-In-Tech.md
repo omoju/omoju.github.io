@@ -32,3 +32,19 @@ Recently, folks are beginning to use a something called *neo-Piagetian* theory t
 From everything we know, we have discovered that learning is a progression through legitimate developmental phases that start with preoperational reasoning, through to concrete reasoning, and finally arriving at the formal reasoning we have come to associate with expert programmers. Even though we cannot prove it absolutely, from research, we have seen that there isn't some special *innate* pre-determiner for technical aptitude. All those that have tried to make such a claim have woefully failed at this task.
 
 One of the best aspects of solving problems using computation is wrestling with failure. I believe it this aspect of computer science that makes people look to experts in the field with awe. Tech is an area that always challenges what is possible. Often that challenge is done by pushing the boundaries of what we know, specifically by investigating why what we are aware off fails at the boundaries. To the uninformed, this can make us look like superheroes, and as such lead us to falsely believe you must be "born" with some super powers. As my friend Moyin as said, "[No, I don't have it in my blood. I worked hard for it](https://medium.com/@moyinoluwa/i-dont-have-it-in-my-blood-37fbdfbddfcc#.mpashjnos)."
+
+### Cited Works
+
+- K. Anders Ericsson, Roy W. Roring, and Kiruthiga Nandagopal. Giftedness and evidence for reproducibly superior performance: an account based on the expert performance framework. *High Ability Studies*, 18(1):3–56, June 2007.
+
+- Richard Bornat and Saeed Dehnadi. [The Camel has Two Humps](http://www.eis.mdx.ac.uk/research/PhDArea/saeed/paper1.pdf). Working paper, Middlesex University, 2006.
+
+- Jeff Atwood. [Separating Programming Sheep from Non- Programming Goats](http://blog.codinghorror.com/separating-programming-sheep-from-non-programming-goats/), 2006.
+
+- Secret Geek. ‘[Alan Kay on the Camel has Two Humps](http://www.secretgeek.net/camel_kay)’, 2008.
+
+- Richard Bornat, Saeed Dehnadi, and Simon. Mental models, consistency and programming aptitude. In *Proceedings of the Tenth Conference on Australasian Computing Education - Volume 78*, ACE ’08, pages 53–61, Darlinghurst, Australia, Australia, 2008. Australian Computer Society, Inc.
+
+- Retraction Watch. [The camel doesn’t have two humps: Programming "aptitude test" canned for overzealous conclusion](http://retractionwatch.com/2014/07/18/the-camel-doesnt-have-two-humps-programming-aptitude-test-canned-for-overzealous-conclusion/), 2014.
+
+- Raymond Lister. Concrete and other Neo-Piagetian Forms of Reasoning in the Novice Programmer. In *Proceedings of the Thirteenth Australasian Computing Education Conference - Volume 114*, ACE ’11, pages 9–18, Darlinghurst, Australia, Australia, 2011. Australian Computer Society, Inc.
