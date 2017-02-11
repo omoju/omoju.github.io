@@ -12,49 +12,11 @@ description:
 
 ## Publications
 
-### Conference proceedings
-
-
-Omoju Miller. 2016. “Gaining Insights into the Effects of Culturally Responsive Curriculum on Historically Underrepresented Students’ Desire for Computer Science.” *Proceedings of the 123rd ASEE Annual Conference, New Orleans, LA*.
-
-D.J. Russomanno, C. Kothari and O. Thomas. 2005. “[Building a Sensor Ontology: A Practical Approach Leveraging ISO and OGC Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&sortby=pubdate&citation_for_view=E7z_wrwAAAAJ:u5HHmVD_uO8C).” *The 2005 International Conference on Artificial Intelligence, Las Vegas, NV* 637–643.
-
-D.J. Russomanno, C. Kothari and O. Thomas. 2005. “[Sensor Ontologies: From Shallow to Deep Models.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&citation_for_view=E7z_wrwAAAAJ:u-x6o8ySG0sC)” *Proceedings of the 37th Southeastern Symposium on Systems Theory, IEEE
-Press, Tuskegee, AL* 107–112.
-
-O. Thomas and D.J. Russomanno. 2005. “[Applying the Semantic Web Expert System Shell to Sensor Fusion using Dempster-Shafer Theory.](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&citation_for_view=E7z_wrwAAAAJ:d1gkVwhDpl0C)” *Proceedings of the 37th Southeastern Symposium on Systems Theory, IEEE Press, Tuskegee, AL*. 11–14.
-
-O.A. Thomas and D.J. Russomanno. 2004. “[SWEXSYS: A Semantic Web Expert System Shell](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&citation_for_view=E7z_wrwAAAAJ:2osOgNQ5qMEC).” *Proceedings of the IASTED International Conference on Artificial Intelligence and Applications, part of the 23rd Multi-Conference on Applied Informatics, Innsbruck, Austria* 240–245.
-
-### Workshops and Presentations
-
-Jennifer Arguello, Tiffany Price, Alexis Martin, Frieda McAlear, Omoju Miller, Dan Garcia. 2015. “Engaging Underrepresented Youth in Computer Science.” *Computer Science Teachers Association (CSTA) in Grapevine, TX.*
-
-Omoju Miller. 2015. “Towards a Global Framework for Culturally Resonant Learning.” *2015 Sage Assembly in Paris, France.*
-
-Omoju Miller and Oluwole Solana. 2014. “From San Francisco to
-Johannesburg, introducing girls to Computer Science in Industry
-supported programs.” *2014 Grace Hopper Conference in Pheonix, AZ.*
-
-Daniel D Garcia, Brian Harvey, Tiffany Barnes, Dan Armendariz, Jon McKinsey, Zachary MacHardy, Omoju Miller, Barry Peddycord III, Eugene Lemon, Sean Morris, Josh Paley. 2014. “[AP CS Principles and the Beauty and Joy of Computing Curriculum.”](http://dl.acm.org/citation.cfm?id=2539026)*Proceedings of the 45th ACM Technical Symposium on Computer Science Education,* 746–746.
-
-Brian Harvey, Daniel D Garcia, Tiffany Barnes, Nathaniel Titterton, Omoju Miller, Dan Armendariz, Jon McKinsey, Zachary Machardy, Eugene Lemon, Sean Morris, Josh Paley. 2014. “[Snap!(Build your own Blocks).”](http://dl.acm.org/citation.cfm?id=2539022) *Proceedings of the 45th ACM Technical Symposium on Computer Science Education,* 749–749.
-
-Omoju Miller, Jordan Arnesen, Eric Chu, Grayson Flood, Kevin Funkhouser, Alex Greenspan, Daniel Hsu. 2013. “Hiphopathy: A Computational Thinking Process to Encourage Empathy.” *2013 California Cognitive Science Conference, Berkeley, CA.*
-
-### Essays and Reviews
-
-Frieda McAlear, Omoju Miller, Dan Garcia, Alexis Martin. 2016. “[Equity in Computer Science: From Exposure to Entrepreneurship.”](http://www.csta.acm.org/Communications/sub/CSTAVoice_Files/csta_voice_01_2016.pdf) *Computer Science Teacher’s Association (CSTA) Voice,* 9–10.
-
-Omoju Miller. 2014. “[Its Deeper than Rap, Toward Culturally Responsive CS.” ](http://dl.acm.org/citation.cfm?id=2604994)*XRDS: Crossroads, The ACM Magazine for Students,* 28–30.
-
-Omoju Miller. 2013. “[Winning with Both Sides of the Coin.”](http://kaporcenter.org/wp-content/uploads/2013/10/Kapor_CodingLandscape_R3.pdf) *Coding Nation Report* 6–7.
-
----
-
 ### Talks
 
-Panelist "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, 2016 (Forthcoming).
+Invited speaker “What Makes a Coder.” Etsy, New York, New York, February 2016.
+
+Panelist "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, October 2016.
 
 Keynote “15+ Years of Learning Computational Intelligence.” Annual OUSD Dinner with a Scientist, California, May 2016.
 
@@ -95,7 +57,51 @@ Invited panelist, “Social Justice in the Age of Big Data.” Swinging and Flow
 
 ---
 
+### Conference proceedings
+
+
+Omoju Miller. 2016. “Gaining Insights into the Effects of Culturally Responsive Curriculum on Historically Underrepresented Students’ Desire for Computer Science.” *Proceedings of the 123rd ASEE Annual Conference, New Orleans, LA*.
+
+D.J. Russomanno, C. Kothari and O. Thomas. 2005. “[Building a Sensor Ontology: A Practical Approach Leveraging ISO and OGC Models](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&sortby=pubdate&citation_for_view=E7z_wrwAAAAJ:u5HHmVD_uO8C).” *The 2005 International Conference on Artificial Intelligence, Las Vegas, NV* 637–643.
+
+D.J. Russomanno, C. Kothari and O. Thomas. 2005. “[Sensor Ontologies: From Shallow to Deep Models.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&citation_for_view=E7z_wrwAAAAJ:u-x6o8ySG0sC)” *Proceedings of the 37th Southeastern Symposium on Systems Theory, IEEE
+Press, Tuskegee, AL* 107–112.
+
+O. Thomas and D.J. Russomanno. 2005. “[Applying the Semantic Web Expert System Shell to Sensor Fusion using Dempster-Shafer Theory.](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&citation_for_view=E7z_wrwAAAAJ:d1gkVwhDpl0C)” *Proceedings of the 37th Southeastern Symposium on Systems Theory, IEEE Press, Tuskegee, AL*. 11–14.
+
+O.A. Thomas and D.J. Russomanno. 2004. “[SWEXSYS: A Semantic Web Expert System Shell](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&citation_for_view=E7z_wrwAAAAJ:2osOgNQ5qMEC).” *Proceedings of the IASTED International Conference on Artificial Intelligence and Applications, part of the 23rd Multi-Conference on Applied Informatics, Innsbruck, Austria* 240–245.
+
+### Workshops and Presentations
+
+Jennifer Arguello, Tiffany Price, Alexis Martin, Frieda McAlear, Omoju Miller, Dan Garcia. 2015. “Engaging Underrepresented Youth in Computer Science.” *Computer Science Teachers Association (CSTA) in Grapevine, TX.*
+
+Omoju Miller. 2015. “Towards a Global Framework for Culturally Resonant Learning.” *2015 Sage Assembly in Paris, France.*
+
+Omoju Miller and Oluwole Solana. 2014. “From San Francisco to
+Johannesburg, introducing girls to Computer Science in Industry
+supported programs.” *2014 Grace Hopper Conference in Pheonix, AZ.*
+
+Daniel D Garcia, Brian Harvey, Tiffany Barnes, Dan Armendariz, Jon McKinsey, Zachary MacHardy, Omoju Miller, Barry Peddycord III, Eugene Lemon, Sean Morris, Josh Paley. 2014. “[AP CS Principles and the Beauty and Joy of Computing Curriculum.”](http://dl.acm.org/citation.cfm?id=2539026)*Proceedings of the 45th ACM Technical Symposium on Computer Science Education,* 746–746.
+
+Brian Harvey, Daniel D Garcia, Tiffany Barnes, Nathaniel Titterton, Omoju Miller, Dan Armendariz, Jon McKinsey, Zachary Machardy, Eugene Lemon, Sean Morris, Josh Paley. 2014. “[Snap!(Build your own Blocks).”](http://dl.acm.org/citation.cfm?id=2539022) *Proceedings of the 45th ACM Technical Symposium on Computer Science Education,* 749–749.
+
+Omoju Miller, Jordan Arnesen, Eric Chu, Grayson Flood, Kevin Funkhouser, Alex Greenspan, Daniel Hsu. 2013. “Hiphopathy: A Computational Thinking Process to Encourage Empathy.” *2013 California Cognitive Science Conference, Berkeley, CA.*
+
+### Essays and Reviews
+
+Frieda McAlear, Omoju Miller, Dan Garcia, Alexis Martin. 2016. “[Equity in Computer Science: From Exposure to Entrepreneurship.”](http://www.csta.acm.org/Communications/sub/CSTAVoice_Files/csta_voice_01_2016.pdf) *Computer Science Teacher’s Association (CSTA) Voice,* 9–10.
+
+Omoju Miller. 2014. “[Its Deeper than Rap, Toward Culturally Responsive CS.” ](http://dl.acm.org/citation.cfm?id=2604994)*XRDS: Crossroads, The ACM Magazine for Students,* 28–30.
+
+Omoju Miller. 2013. “[Winning with Both Sides of the Coin.”](http://kaporcenter.org/wp-content/uploads/2013/10/Kapor_CodingLandscape_R3.pdf) *Coding Nation Report* 6–7.
+
+---
+
+
+
 ### Press, Podcast & Coverage
+
+- [Can You Stump Nick Craver?,](https://soundcloud.com/stack-exchange/stack-overflow-podcast-91-can-you-stump-nick-craver) Featured in Stack Overflow Podcast \#91, October 2016.
 
 - [Everybody’s Got Questions(Yup)](https://www.youtube.com/watch?v=q5mmE05e82I&ab_channel=ScienceWithTom),Featured in Science with Tom parody rap video, May 2016.
 - [The Science of People in Tech](http://audio.javascriptair.com/e/022-jsair-the-science-of-people-in-tech-with-kate-edwards-omoju-miller-and-steve-andrews/), JavaScript Air Podcast, May, 2016.

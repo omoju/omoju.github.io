@@ -21,6 +21,8 @@ tools:
 links:
   - title: About
     url: /about
+  - title: demo
+    url: /demo
   - title: portfolio
     url: /portfolio
   - title: CV
