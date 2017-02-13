@@ -16,11 +16,6 @@ description:
 </center>
 <br/>
 
-
-
-
-
-
 What do YouTube, Career Builder, and most restaurants have in common? They all rely on a hierarchical taxonomy to organize items in their area. For example, [YouTube](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36411.pdf) uses a taxonomy to understand automatically which category a video belongs. Similarly, [Career Builder](https://arxiv.org/abs/1606.00917) uses a taxonomy to learn which category a job title belongs.
 
 For my project during my data science fellowship at Insight data science, I consulted for a YC backed company that built accounts payable software for restaurant businesses. This company has developed an app that allows restaurants to scan in their invoices. From these scanned invoices, the company uses a taxonomy to label items. As their data consultant, I created a model which predicted the node in the taxonomy for any given item.
