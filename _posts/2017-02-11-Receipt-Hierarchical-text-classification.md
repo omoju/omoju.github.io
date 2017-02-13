@@ -44,7 +44,7 @@ One of the limitations of this method is that most nodes have un-balanced classe
 </figure>
 With the training sets done, I vectorized them using a mean embedding vectorizer. For each category, I created an AdaBoost binary classifier. I chose to use the AdaBoost after I experimented with several classifiers like LinearSVM and Decision Trees. I first selected Decision Tree since it outperformed the LinearSVM for this problem. However, I quickly realized my aim was to get predicted probabilities as output for the class instead of simple binary output which the Decision Tree gave. For that reason, I switched to AdaBoost, which is a *boosted* decision tree.
 
-I train each classifier using a k=5 kfold cross-validation skim. I fitted the resulting classifier and retrieved the predicted probability for each data point in the dataset, which resulted in *k* vectors for *k* categories.
+I train each classifier using a k=5 kfold cross-validation scheme. I fitted the resulting classifier and retrieved the predicted probability for each data point in the dataset, which resulted in *k* vectors for *k* categories.
 
 ### Engineered Features
 In addition to the text-based labels, I also wanted to leverage some insight I got into the data to engineer some features. After some preliminary data exploration, I noticed a  trend; certain types items only occurred at certain levels in the tree. This insight resulted in selecting the tree depth for each item as an additional feature.
