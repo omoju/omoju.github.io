@@ -5,12 +5,10 @@ description: "A hierarchical classification system for the restaurant domain"
 comments: true
 category: articles
 ---
-
 <center>
 <iframe src="https://docs.google.com/presentation/d/1VYUDQdA91KWiy3KkZz4pEE9dJTv-p74N93F0LOH4MGE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="300" height="269" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </center>
 <br/>
-<center>
 
 What do YouTube, Career Builder, and most restaurants have in common? They all rely on a hierarchical taxonomy to organize items in their area. For example, [YouTube](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36411.pdf) uses a taxonomy to understand automatically which category a video belongs. Similarly, [Career Builder](https://arxiv.org/abs/1606.00917) uses a taxonomy to learn which category a job title belongs.
 
