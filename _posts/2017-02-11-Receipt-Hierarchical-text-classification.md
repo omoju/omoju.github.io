@@ -58,6 +58,10 @@ For each data point, I assigned the deepest class node in the tree to which it b
 I feed these features and labels into a multi-label, multi-class AdaBoost classifier. I took 75% of the data for training and 25% for testing. Once again I do a 5 fold cross-validation scheme, fit the final classifier, and retrieve the predicted class probabilities.
 
 ### Result
-With the understanding that chance is 1/141 * 100 = 0.7%, my approach achieves a Precision of 17%, Recall of 19% and FScore of 15% for the last level of the tree.
+With the understanding that chance is 1/118 * 100 = 0.8%, my approach achieves:    
+**Precision**: *96%*       
+**Recall**: *95%*          
+**F Score**: *95%*           
+**Classes**: *118*           
 
 The value of this method is that I can take a look at the results, determine which individual text-based classifiers have poor results, and optimize and tune that specific classifier. In the case of the chocolate classifier, I see that the minority class is minuscule. To deal with this great imbalance in the data, I synthetically resample it and retrain the classifier.
