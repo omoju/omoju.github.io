@@ -12,22 +12,22 @@ category: articles
 
 What do YouTube, Career Builder, and most restaurants have in common? They all rely on a hierarchical taxonomy to organize items in their area. For example, [YouTube](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36411.pdf) uses a taxonomy to understand automatically which category a video belongs. Similarly, [Career Builder](https://arxiv.org/abs/1606.00917) uses a taxonomy to learn which category a job title belongs.
 
-For my project during my data science fellowship at Insight data science, I consulted for a YC backed company that built accounts payable software for restaurant businesses. This company has developed an app that allows restaurants to scan in their invoices. From these scanned invoices, the company uses a taxonomy to label items. As their data consultant, I created a model which predicted the node in the taxonomy for any given item.
+For my project during my data science fellowship at Insight data science, I consulted for a YC backed company that built accounts payable software for restaurant business. This company has developed an app that allows restaurants to scan in their invoices. From these scanned invoices, the company uses a taxonomy to label items. As their data consultant, I created a model which predicted the node in the taxonomy for any given item.
 
 <figure>
   <img src="{{ site.url }}/images/taxonomic_classification/hc_2.png" style="width: 650px;">
 </figure>
 
-From the data files, I could infer the taxonomy which had 2000+ nodes spread on a tree with 4+ levels. The dataset had the item's name, the path on the category it belonged as well as some other metadata around pricing. From looking at the problem, it was clear that this was a multi-class, multi-label problem that would have a non-trivial solution.
+From the data files, I built a taxonomy of 2000+ nodes spread over four layers. The dataset had an item’s name, its path from the root to the leaf node as well as some other metadata around pricing. From looking at the problem, it was clear that this was a multi-class, multi-label problem that would have a non-trivial solution.
 
-The current approach used focused exclusively on the item's name, for example, a data point in the dataset would have an object's name as "Strauss Yogurt" or "Organic spinach." The first challenge with this approach lay in the fact that the item label was quite short, roughly about four to eight words.  Further, when modifiers like *gluten free*, *organic*, or *pesticide free* wherein the item's label, this added a layer of misinformation causing items like *organic milk* and *organic beer* to be classified in the same class.
+The current approach used focused exclusively on the item's name, for example, a data point in the dataset would have an object's name as "Straus Yogurt" or "Organic spinach." The first challenge with this approach lay in the fact that the item label was quite short, roughly about four to eight words.  Further, when modifiers like *gluten free*, *organic*, or *pesticide free* wherein the item's label, this added a layer of misinformation causing items like *organic milk* and *organic beer* to be classified in the same class.
 
 I took an entirely different approach. I got inspiration from the approach that Google, used in organizing YouTube videos and decided to shift the unit of analysis from item *name* to the *categories* themselves. My approach combines information from both the text-based labels as well as the item's metadata.
 
 This method achieves two crucial things. First, by focusing on individual categories, each time a new category of item is added to the restaurant domain, instead of having to retrain the classifier on the entire dataset, all we have to do is gather enough data for that category, and train a classifier for it. This way, the approach can scale beautifully as the taxonomy grows. Second, moving the unit of analysis from text labels to categories, it becomes easier to correctly separate "organic cream" and "organic beer."
 
 ### Data Preprocessing
-For the item labels, I tokenized them, then stemmed them using a Snowball stemmer, after which I used Word2Vec to extract word embeddings from the resulting bag of words.
+For the item labels, I tokenized them, then stemmed them using a Snowball stemmer, after which I used Word2Vec to extract word embeddings from the resulting bag of words. I then used the embeddings to vectorize the item label for each datapoint.
 
 ### Text-Based Classifiers     
 The aim of moving to a category-based solution is to embed knowledge of the taxonomy into classifiers. To do this, I had to figure out how to get positive and negative samples for each category. For every category node, I decided that itself, as well as all its descendants, were *positive* samples for that class. All other nodes that were neither the categories ancestor(s) or itself were set as *negative* samples.  The figure below gives a visual explanation of selecting category training set. I did this for each category node in the tree that had enough data.
@@ -55,7 +55,7 @@ After training the *k=141* classifiers, I extracted the *k* vectors; I carefully
 #### Labeling
 For each data point, I assigned the deepest class node in the tree to which it belonged as its label. For example, an item named "bacon ends" belonged to classes [Food, Meats, Pork]. For such an item, I assigned it is label as "Pork."
 
-I feed these features and labels into a multi-label, multi-class AdaBoost classifier. I took 75% of the data for training and 25% for testing. Once again I do a 5 fold cross-validation scheme, fit the final classifier, and retrieve the predicted class probabilities.
+I feed these features and labels into a multi-label, multi-class Random Forest classifier. I took 75% of the data for training and 25% for testing. Once again I do a 5 fold cross-validation scheme, fitted the final classifier, and retrieve the predicted classes.
 
 ### Result
 With the understanding that chance is 1/118 * 100 = 0.8%, my approach achieves:    
