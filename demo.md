@@ -65,14 +65,12 @@ For each data point, I assigned the deepest class node in the tree to which it b
 I feed these features and labels into a multi-label, multi-class Random Forest classifier. I took 75% of the data for training and 25% for testing. Once again I do a 5 fold cross-validation scheme, fitted the final classifier, and retrieve the predicted classes.
 
 ### Result
-|Tree Level|mapping|Precision|Recall|Chance|
-|---|---|---|---|---|
-|One |92% |94% |90% | 25%|
-|Two | 66%| 80%| 64%| 7.0%|
-|Three | 47%|60% |48% | 2.5%|
-|Four|39% |44% |50% |3.0% |          
+
+<figure>
+  <img src="{{ site.url }}/images/taxonomic_classification/result.png" style="width: 500px;">
+</figure>                  
 
 The value of this method is that I can take a look at the results, determine which individual text-based classifiers have poor results, and optimize and tune that specific classifier. In the case of the chocolate classifier, I see that the minority class is minuscule. To deal with this great imbalance in the data, I synthetically resample it and retrain the classifier.
 
 ### Insights
-From this project, I learned that certain wines are quite hard to separate for example, Pinot Noir, Cabernet Sauvignon and Sauvignon blanc. Similarly, it's easy for the classifier to conflate butter and olive oil in general; as dairy and oil actually have a lot in common. 
+From this project, I learned that certain wines are quite hard to separate for example, Pinot Noir, Cabernet Sauvignon and Sauvignon blanc. Similarly, it's easy for the classifier to conflate butter and olive oil in general; as dairy and oil actually have a lot in common.
