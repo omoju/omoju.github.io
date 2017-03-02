@@ -44,9 +44,16 @@ One of the limitations of this method is that most nodes have un-balanced classe
 <figure>
   <img src="{{ site.url }}/images/taxonomic_classification/hc_5.png" style="width: 450px;">
 </figure>
-With the training sets done, I vectorized them using a mean embedding vectorizer. For each category, I created an AdaBoost binary classifier. I chose to use the AdaBoost after I experimented with several classifiers like LinearSVM and Decision Trees. I first selected Decision Tree since it outperformed the LinearSVM for this problem. However, I quickly realized my aim was to get predicted probabilities as output for the class instead of simple binary output which the Decision Tree gave. For that reason, I switched to AdaBoost, which is a *boosted* decision tree.
+With the training sets done, I vectorized them using a mean embedding vectorizer.
 
-I train each classifier using a k=5 kfold cross-validation scheme. I fitted the resulting classifier and retrieved the predicted probability for each data point in the dataset, which resulted in *k* vectors for *k* categories.
+
+
+For each category, I created a Random Forest binary classifier. I chose to use Random Forest after I experimented with several classifiers like LinearSVM and Decision Trees, and AdaBoost. Based on the performance of the base classifiers, I first selected the Decision Tree classifier since it outperformed the LinearSVM for this problem.
+
+However, I quickly realized my aim was to get predicted probabilities as output for the categories instead of simple binary output which the Decision Tree gave. For that reason, I switched to AdaBoost, which is a *boosted* decision tree. Even though the performance of the AdaBoost classifier on my success metric was good, I decided against it because of the extremely long training time. For that reason, I finally settled on the Random Forest classifier which gave both good results on the performance metric as well as ran in a tenth of the time after I choose the parallelizing option and ran it with the four cores available on my laptop.
+
+
+I trained each classifier using a k=5 k-fold cross-validation scheme. I fitted the resulting classifier and retrieved the predicted probability for each data point in the dataset, which resulted in *k* vectors for *k* categories.
 
 ### Engineered Features
 In addition to the text-based labels, I also wanted to leverage some insight I got into the data to engineer some features. After some preliminary data exploration, I noticed a  trend; certain types items only occurred at certain levels in the tree. This insight resulted in selecting the tree depth for each item as an additional feature.
@@ -54,9 +61,7 @@ In addition to the text-based labels, I also wanted to leverage some insight I g
 I also noticed that several items had the same words as nodes along the tree branch as the items name. I calculated how often these item name matches occurred and turned that into another engineered feature.
 
 ### Final Model Architecture
-<figure>
-  <img src="{{ site.url }}/images/taxonomic_classification/hc_4.png" style="width: 450px;">
-</figure>
+
 After training the *k=141* classifiers, I extracted the *k* vectors; I carefully combined them with the engineered features, and the other raw metadata taking care to ensure that I assigned the right probabilities to the right data points in my training set.
 
 #### Labeling
@@ -70,7 +75,4 @@ I feed these features and labels into a multi-label, multi-class Random Forest c
   <img src="{{ site.url }}/images/taxonomic_classification/result.png" style="width: 500px;">
 </figure>                  
 
-The value of this method is that I can take a look at the results, determine which individual text-based classifiers have poor results, and optimize and tune that specific classifier. In the case of the chocolate classifier, I see that the minority class is minuscule. To deal with this great imbalance in the data, I synthetically resample it and retrain the classifier.
-
-### Insights
-From this project, I learned that certain wines are quite hard to separate for example, Pinot Noir, Cabernet Sauvignon and Sauvignon blanc. Similarly, it's easy for the classifier to conflate butter and olive oil in general; as dairy and oil actually have a lot in common.
+The value of this method is that I can take a look at the results, determine which individual text-based classifiers have poor results, and optimize and tune that specific classifier.
