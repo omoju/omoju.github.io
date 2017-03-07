@@ -4,9 +4,7 @@ permalink: /portfolio/index.html
 description:
 
 ---
-## Portfolio
 
----
 
 [Receipt.ID](https://github.com/omoju/receiptdID)   
 A multi-label, multi-class, hierarchical classification system implemented in a two layer feed forward network. It trains individual Random Forest text-based classifiers and combines the result with other features. Receipt.ID is built to scale with an application as the taxonomy for the domain in which it is applied grows.
