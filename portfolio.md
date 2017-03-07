@@ -4,9 +4,19 @@ permalink: /portfolio/index.html
 description:
 
 ---
-
 ## Portfolio
 
+---
+
+[Receipt.ID](https://github.com/omoju/receiptdID)   
+A multi-label, multi-class, hierarchical classification system implemented in a two layer feed forward network. It trains individual Random Forest text-based classifiers and combines the result with other features. Receipt.ID is built to scale with an application as the taxonomy for the domain in which it is applied grows.
+
+---
+
+[Model the Dynamics of Gender in Intro CS](https://github.com/omoju/genderCSExperience)   
+A supervised learning project using eXtreme Gradient Boosting Trees. This project creates predictive model for understanding the dynamics of gender in intro CS at Berkeley for the years 2014 through 2015. This work builds on previous research done in fulfillment of a Computer Science Education Ph.D., HipHopathy, A Socio-Curricular Study of Introductory Computer Science.
+
+---
 
 [Investigating Why Underrepresented Students Choose CS](https://github.com/omoju/investigatingWhyURMsChooseCS)   
 This work presents a data-drive approach at examining the socio-curricular factors that lead historically underrepresented students’ retention and attrition in introductory Computer Science at UC Berkeley.
@@ -15,10 +25,6 @@ This work presents a data-drive approach at examining the socio-curricular facto
 
 [Hiphopathy](https://github.com/omoju/hiphopathy)   
 A Socio-Curricular Study of Introductory CS Anchored with Data Science Using Rap Lyrics. The goal of this work is to connect cultural relevance to computing by introducing elementary techniques of natural language processing with a corpus of hip-hop data. This curricular unit was implemented on **edX** MOOClet, *[BJC.3x: Data, Information and the Internet](https://www.edx.org/course/beauty-joy-computing-cs-principles-part-uc-berkeleyx-bjc-3x).* The coursed launched in 2015 with over 20,000 students.
-
----
-[Model the Dynamics of Gender in Intro CS](https://github.com/omoju/genderCSExperience)   
-A supervised learning project using eXtreme Gradient Boosting Trees. This project creates predictive model for understanding the dynamics of gender in intro CS at Berkeley for the years 2014 through 2015. This work builds on previous research done in fulfillment of a Computer Science Education Ph.D., HipHopathy, A Socio-Curricular Study of Introductory Computer Science.
 
 ---
 
