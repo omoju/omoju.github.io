@@ -5,7 +5,7 @@ description:
 
 ---
 
-<a href="https://www.linkedin.com/in/omojumiller" class="download" title="LinkedIn">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/omojumiller">LinkedIn</a> |
 <a href="https://github.com/omoju">Github</a> |
 [CV](http://omojumiller.com/Omoju_Miller_MasterCV_2017.pdf)
 
