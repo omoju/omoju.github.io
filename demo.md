@@ -76,3 +76,6 @@ I feed these features and labels into a multi-label, multi-class Random Forest c
 </figure>                  
 
 The value of this method is that I can take a look at the results, determine which individual text-based classifiers have poor results, and optimize and tune that specific classifier.
+
+### Code
+You can find the code to receipt.ID [here](https://github.com/omoju/receiptdID)
