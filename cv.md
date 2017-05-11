@@ -7,7 +7,7 @@ description:
 
 <a href="https://www.linkedin.com/in/omojumiller">LinkedIn</a> |
 <a href="https://github.com/omoju">Github</a> |
-[CV](http://omojumiller.com/Omoju_Miller_MasterCV_2017.pdf)
+[CV](http://omojumiller.com/Omoju_Miller_MasterCV.pdf)
 
 
 ## Publications
@@ -65,7 +65,7 @@ Omoju Miller. 2013. “[Winning with Both Sides of the Coin.”](http://kaporcen
 
 ### Talks
 
-Invited speaker “What Makes a Coder.” Etsy, New York, New York, February 2016.
+Invited speaker “[What Makes a Coder](https://youtu.be/HsqoG0X5rcM).” Etsy, New York, New York, February 2016.
 
 Panelist "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, October 2016.
 
