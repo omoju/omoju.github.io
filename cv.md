@@ -10,6 +10,30 @@ description:
 [CV](http://omojumiller.com/Omoju_Miller_MasterCV.pdf)
 
 
+## Talks
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BFWVHSeakkg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</center>
+
+Invited speaker “[On learning AI:  The myth of innate ability in tech](https://youtu.be/BFWVHSeakkg).” TEDxSanFrancisco, San Francisco, California, October 2017.
+
+Panelist “Black Work, Black Wealth, Black Futures.” Data For Black Lives, MIT, Massachusetts, November 2017.
+
+Invited speaker “[What Makes a Coder](https://youtu.be/HsqoG0X5rcM).” Etsy, New York, New York, February 2016.
+
+Panelist "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, October 2016.
+
+Keynote “15+ Years of Learning Computational Intelligence.” Annual OUSD Dinner with a Scientist, California, May 2016.
+
+Invited speaker “Breaking Barriers: Changing the Landscape.” Andela, Lagos, Nigeria, January 2016.
+
+Keynote “Moonshot Thinking.” Joint Board of Advisors Meeting, Purdue School of Engineering and Technology, IUPUI, Indiana, October 2015.
+
+Keynote, “[Inventing the Mythical Creature: Or How to Stay, Lead, and Delight in Tech as a Woman.](https://www.youtube.com/watch?v=owXez6sIRbY&ab_channel=IUCEWIT)” Annual Celebration of the IU Center of Excellence for Women in Technology (CEWiT), Indiana, October 2014.
+
+Invited presenter, “#ThisIsGrit.” White House Department of Education EdDataPalooza, Washington DC, January 2014.
+
 ## Publications
 
 ---
@@ -35,68 +59,9 @@ O.A. Thomas and D.J. Russomanno. 2004. “SWEXSYS: A Semantic Web Expert System 
 
 ---
 
-### Workshops and Presentations
-
-Jennifer Arguello, Tiffany Price, Alexis Martin, Frieda McAlear, Omoju Miller, Dan Garcia. 2015. “Engaging Underrepresented Youth in Computer Science.” *Computer Science Teachers Association (CSTA) in Grapevine, TX.*
-
-Omoju Miller. 2015. “Towards a Global Framework for Culturally Resonant Learning.” *2015 Sage Assembly in Paris, France.*
-
-Omoju Miller and Oluwole Solana. 2014. “From San Francisco to
-Johannesburg, introducing girls to Computer Science in Industry
-supported programs.” *2014 Grace Hopper Conference in Pheonix, AZ.*
-
-Daniel D Garcia, Brian Harvey, Tiffany Barnes, Dan Armendariz, Jon McKinsey, Zachary MacHardy, Omoju Miller, Barry Peddycord III, Eugene Lemon, Sean Morris, Josh Paley. 2014. “[AP CS Principles and the Beauty and Joy of Computing Curriculum.”](http://dl.acm.org/citation.cfm?id=2539026)*Proceedings of the 45th ACM Technical Symposium on Computer Science Education,* 746–746.
-
-Brian Harvey, Daniel D Garcia, Tiffany Barnes, Nathaniel Titterton, Omoju Miller, Dan Armendariz, Jon McKinsey, Zachary Machardy, Eugene Lemon, Sean Morris, Josh Paley. 2014. “[Snap!(Build your own Blocks).”](http://dl.acm.org/citation.cfm?id=2539022) *Proceedings of the 45th ACM Technical Symposium on Computer Science Education,* 749–749.
-
-Omoju Miller, Jordan Arnesen, Eric Chu, Grayson Flood, Kevin Funkhouser, Alex Greenspan, Daniel Hsu. 2013. “Hiphopathy: A Computational Thinking Process to Encourage Empathy.” *2013 California Cognitive Science Conference, Berkeley, CA.*
-
----
-
-### Essays and Reviews
-
-Frieda McAlear, Omoju Miller, Dan Garcia, Alexis Martin. 2016. “[Equity in Computer Science: From Exposure to Entrepreneurship.”](http://www.csta.acm.org/Communications/sub/CSTAVoice_Files/csta_voice_01_2016.pdf) *Computer Science Teacher’s Association (CSTA) Voice,* 9–10.
-
-Omoju Miller. 2014. “[Its Deeper than Rap, Toward Culturally Responsive CS.” ](http://dl.acm.org/citation.cfm?id=2604994)*XRDS: Crossroads, The ACM Magazine for Students,* 28–30.
-
-Omoju Miller. 2013. “[Winning with Both Sides of the Coin.”](http://kaporcenter.org/wp-content/uploads/2013/10/Kapor_CodingLandscape_R3.pdf) *Coding Nation Report* 6–7.
-
----
-
-### Talks
-
-Invited speaker “[What Makes a Coder](https://youtu.be/HsqoG0X5rcM).” Etsy, New York, New York, February 2016.
-
-Panelist "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, October 2016.
-
-Keynote “15+ Years of Learning Computational Intelligence.” Annual OUSD Dinner with a Scientist, California, May 2016.
-
-Invited panelist “SPIE Women in Optics.” SPIE Photonics West Annual Conference, California, February 2016.
-
-Invited speaker “Breaking Barriers: Changing the Landscape.” Andela, Lagos, Nigeria, January 2016.
-
-Invited panelist “Behind the Click: Intersection of Women of Color in STEM and Social Justice.” Black Girls Code, California, December 2015.
-
-Keynote “Moonshot Thinking.” Joint Board of Advisors Meeting, Purdue School of Engineering and Technology, IUPUI, Indiana, October 2015.
-
-Keynote “Breaking Barriers: Changing the Landscape.” Youth Start Up Weekend at Castlemont High School, California, May 2015.
-
-Invited speaker, “Breaking Barriers: Changing the Landscape.” Office of Institutional Diversity, Harvey Mudd College, California, December 2014.
-
-Keynote, “[Inventing the Mythical Creature: Or How to Stay, Lead, and Delight in Tech as a Woman.](https://www.youtube.com/watch?v=owXez6sIRbY&ab_channel=IUCEWIT)” Annual Celebration of the IU Center of Excellence for Women in Technology (CEWiT), Indiana, October 2014.
-
-Invited presenter, “Made With Code.” Annual Dreamforce Developer’s Conference, San Francisco, October 2014.
-
-Invited presenter, “Inventing the Mythical Creature: Or How to Stay, Lead, and Delight in Tech as a Woman.” Focus 100, New York, September 2014.
-
-Invited presenter, “#ThisIsGrit.” White House Department of Education EdDataPalooza, Washington DC, January 2014.
-
-Invited panelist, “Social Justice in the Age of Big Data.” Swinging and Flowing: Inclusion and Diversity in the Age of Data. The Data and Democracy Initiative @ CITRIS Berkeley, Berkeley, April 2012.
-
----
-
 ### Grants, Honors, & Awards
 
+- Member, World Economic Forum (Expert Network: AI and Robotics), Davos, Switzerland, 2017.
 - Levo 100: Transformer, Levo League, California, 2015.
 - Bloomberg Beta Future Founder, Bloomberg Beta, California, 2014.
 - Winner, White House Dept of Edu EdDataPalooza, Washington DC, January 2014
@@ -109,6 +74,8 @@ Invited panelist, “Social Justice in the Age of Big Data.” Swinging and Flow
 ---
 
 ### Press, Podcast & Coverage
+
+- [Berkeley PhD's 4-Step Plan to a STEM Pipeline That Works for Everyone](http://observer.com/2017/02/omoju-miller-etsy-stem-pipeline/) The Observer, February 16, 2017.
 
 - [Can You Stump Nick Craver?,](https://soundcloud.com/stack-exchange/stack-overflow-podcast-91-can-you-stump-nick-craver) Featured in Stack Overflow Podcast \#91, October 2016.
 
