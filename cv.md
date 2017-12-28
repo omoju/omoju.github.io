@@ -18,7 +18,8 @@ description:
 
 
 
-</br>
+<br>
+
 Invited speaker “[On learning AI:  The myth of innate ability in tech](https://youtu.be/BFWVHSeakkg).” TEDxSanFrancisco, San Francisco, California, October 2017.
 
 Panelist “Black Work, Black Wealth, Black Futures.” Data For Black Lives, MIT, Massachusetts, November 2017.
