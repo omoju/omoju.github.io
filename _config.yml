@@ -6,7 +6,7 @@ canonical: http://omojumiller.com
 # Owner/author information
 owner:
   name:           Omoju Miller
-  email:          omojumiller@cal.berkeley.edu
+  email:          omojumiller@berkeley.edu
   twitter:        omojumiller
   github:         omoju
   location:       "California, Bay Area"
@@ -19,14 +19,15 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: CV
+    url: /cv
   - title: About
     url: /about
   - title: demo
     url: /demo
   - title: portfolio
     url: /portfolio
-  - title: CV
-    url: /cv
+
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
