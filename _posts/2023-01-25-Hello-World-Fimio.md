@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Hello World It's Fimio"
-description: "Introducing Fimio."
+description: "A did a thing in 2022, I founded a Web3 Startup!"
 comments: true
 category: articles
 ---
@@ -9,7 +9,8 @@ category: articles
   <img src="{{ site.url }}/images/fimio-logo.png" alt="Fimio">
 </figure>
 
-Hi everyone! I am proud to share my next thing, [Fimio](https://fimio.xyz/), with you all. 
+ 
+Hi everyone! I am proud to share my next thing, Fimio, with you all.
 
 The web has had an outsize impact on my life. As a freshman in the late 90s, I discovered the web and decided then and there it was going to be my future. I have seen the rise of e-commerce, of social media, of open-source, and their impact on the world.
 
