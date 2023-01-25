@@ -13,71 +13,45 @@ description:
 ## Talks
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BFWVHSeakkg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Bufm7VR4nfg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </center>
 
 
 
 <br>
 
-Invited speaker “[On learning AI:  The myth of innate ability in tech](https://youtu.be/BFWVHSeakkg).” TEDxSanFrancisco, San Francisco, California, October 2017.
+Keynote, "[Cognitive Apprenticeship - Experience in Open Source](https://www.youtube.com/watch?v=JShvXcL66NQ)," Linux Conference Australia - Linux.conf.au, January, 2021.
 
-Panelist “Black Work, Black Wealth, Black Futures.” Data For Black Lives, MIT, Massachusetts, November 2017.
+Speaker, "[Science in the Age of Data: Accelerating Human Progress](https://www.youtube.com/watch?v=JHS9yQMUzb0)," JupyterCon, October, 2020.
 
-Invited speaker “[What Makes a Coder](https://youtu.be/HsqoG0X5rcM).” Etsy, New York, New York, February 2016.
+Keynote, "[Africa - The Next Frontier](https://www.youtube.com/watch?v=uC5ZRaK8Ebc)," DLD Munich, Munich, January, 2020.
 
-Panelist "Moral Machines: How philosophy can help AI decide right from wrong." Grace Hopper Celebration of Women in Computing, Texas, October 2016.
+Speaker, "[Why is machine learning seeing exponential growth in its communities?](https://www.oreilly.com/library/view/oreilly-tensorflow-world/0636920333111/video328051.html)," O'Reilly TensorFlow World, Santa Clara, October, 2019.
 
-Keynote “15+ Years of Learning Computational Intelligence.” Annual OUSD Dinner with a Scientist, California, May 2016.
+Speaker, "[AI at the Frontier: A Global Viewpoint](https://www.youtube.com/watch?v=NPk-y_tH7JY)," Fortune Brainstorm Tech, July, 2019.
 
-Invited speaker “Breaking Barriers: Changing the Landscape.” Andela, Lagos, Nigeria, January 2016.
+Keynote, "[A new vision for the global brain: Deep learning with people instead of machines](https://youtu.be/Teq3pa1L7Tg)," O'Reilly Velocity Conf, London, October 2018.
 
-Keynote “Moonshot Thinking.” Joint Board of Advisors Meeting, Purdue School of Engineering and Technology, IUPUI, Indiana, October 2015.
-
-Keynote, “[Inventing the Mythical Creature: Or How to Stay, Lead, and Delight in Tech as a Woman.](https://www.youtube.com/watch?v=owXez6sIRbY&ab_channel=IUCEWIT)” Annual Celebration of the IU Center of Excellence for Women in Technology (CEWiT), Indiana, October 2014.
-
-Invited presenter, “#ThisIsGrit.” White House Department of Education EdDataPalooza, Washington DC, January 2014.
-
-### Publications
+Speaker, "[Opening Keynote - GitHub Universe](https://www.youtube.com/watch?v=vB5nTx5fUXM)," GitHub Universe, San Francisco, October 2018.
 
 ---
-
-### Highly Cited Publications
-D.J. Russomanno, C. Kothari and O. Thomas. 2005. “Building a Sensor Ontology: A Practical Approach Leveraging ISO and OGC Models.” *The 2005 International Conference on Artificial Intelligence, Las Vegas, NV* 637–643. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&sortby=pubdate&citation_for_view=E7z_wrwAAAAJ:u5HHmVD_uO8C)    
-<span style="text-decoration: underline;"><strong>209 Citations</strong></span>
-
----
-
-### Conference proceedings
-
-
-Omoju Miller. 2016. “Gaining Insights into the Effects of Culturally Responsive Curriculum on Historically Underrepresented Students’ Desire for Computer Science.” *Proceedings of the 123rd ASEE Annual Conference, New Orleans, LA*.
-
-
-D.J. Russomanno, C. Kothari and O. Thomas. 2005. “Sensor Ontologies: From Shallow to Deep Models.” *Proceedings of the 37th Southeastern Symposium on Systems Theory, IEEE
-Press, Tuskegee, AL* 107–112. [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&citation_for_view=E7z_wrwAAAAJ:u-x6o8ySG0sC)
-
-O. Thomas and D.J. Russomanno. 2005. “Applying the Semantic Web Expert System Shell to Sensor Fusion using Dempster-Shafer Theory.” *Proceedings of the 37th Southeastern Symposium on Systems Theory, IEEE Press, Tuskegee, AL*. 11–14. [Link](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&citation_for_view=E7z_wrwAAAAJ:d1gkVwhDpl0C)
-
-O.A. Thomas and D.J. Russomanno. 2004. “SWEXSYS: A Semantic Web Expert System Shell.” *Proceedings of the IASTED International Conference on Artificial Intelligence and Applications, part of the 23rd Multi-Conference on Applied Informatics, Innsbruck, Austria* 240–245.[Link](http://scholar.google.com/citations?view_op=view_citation&hl=en&user=E7z_wrwAAAAJ&citation_for_view=E7z_wrwAAAAJ:2osOgNQ5qMEC)
-
----
-
-### Grants, Honors, & Awards
-
-- Member, World Economic Forum (Expert Network: AI and Robotics), Davos, Switzerland, 2017.
-- Levo 100: Transformer, Levo League, California, 2015.
-- Bloomberg Beta Future Founder, Bloomberg Beta, California, 2014.
-- Winner, White House Dept of Edu EdDataPalooza, Washington DC, January 2014
-- Kapor Capital Fellows, California, 2012.
-- Invited participant, TEDxSummit, Doha, Qatar, 2011.
-- Google CS Grad Forum Scholarship, California, 2010.
-- SESAME Graduate Division Fellowship, UC Berkeley, 2010–2011
-- Herff College of Engineering fellowship, Memphis, 2002–2006.
-
----
+<br>
 
 ### Press, Podcast & Coverage
+- [Startups to Watch: Fimio wants to help you trust crypto and Web3](https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2023/01/13/startups-to-watch.html), The Business Journal, January, 2023.
+
+- [Machine Learning at GitHub with Omoju Miller](https://twimlai.com/podcast/twimlai/machine-learning-github-omoju-miller/), Featured in TWIML Podcast, #313, October, 2019.
+
+- [Working AI: At the Office with Senior MLE Omoju Miller](https://www.deeplearning.ai/blog/working-ai-at-the-office-with-senior-mle-omoju-miller/), DeepLearning.AI, August, 2019.
+
+
+- [Africa Is Tech’s Next Great Frontier, Github A.I. Expert Says](https://fortune.com/2019/07/17/africa-is-techs-next-great-frontier-github-ai/), Fortune, July, 2019.
+
+- [GitHub wants AI to help developers code](https://venturebeat.com/ai/github-wants-ai-to-help-developers-code/), Venture Beat, October, 2018.
+
+- [What Data Scientists Really Do, Accordingto 35 Data Scientists](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists), Harvard Business Review,  August, 2018.
+
+- [Machine Learning & Data Science at Github (with Omoju Miller)](https://www.datacamp.com/community/podcast/machine-learning-github), DataFramed Podcast, #29,  July, 2018.
 
 - [Berkeley PhD's 4-Step Plan to a STEM Pipeline That Works for Everyone](http://observer.com/2017/02/omoju-miller-etsy-stem-pipeline/) The Observer, February 16, 2017.
 
