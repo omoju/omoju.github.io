@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-title: "HelloWorldFimio"
+title: "Hello World It's Fimio"
 description: "Introducing Fimio."
 comments: true
 category: articles
