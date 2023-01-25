@@ -13,10 +13,12 @@ description:
 ## Talks
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Bufm7VR4nfg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bufm7VR4nfg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </center>
 
-
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BFWVHSeakkg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</center>
 
 <br>
 
