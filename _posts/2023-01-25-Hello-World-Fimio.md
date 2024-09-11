@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
 title: "Hello World It's Fimio"
-description: "A did a thing in 2022, I founded a Web3 Startup!"
+description: "I did a thing in 2022, I founded a Web3 Startup!"
 comments: true
 category: articles
 ---
