@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }}{% endblock %}
+
+{% block content %}
+    {% for article in articles %}
+        <article>
+            <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+            <div class="date">{{ article.date.strftime('%B %d, %Y') }}</div>
+            {% if article.summary %}
+                <p>{{ article.summary }}</p>
+            {% endif %}
+        </article>
+    {% endfor %}
+{% endblock %} 

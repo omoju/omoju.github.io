@@ -1,7 +1,14 @@
 # omojumiller.com
 
-A personal blog deployed using Github pages
+A python pelican personal blog deployed using Github pages
 
 ## License
 
 The contents of this repository are covered under the [GNU GENERAL PUBLIC LICENSE](License.md).
+
+## Install
+```bash
+python3 -m venv new_pelican_env
+source new_pelican_env/bin/activate
+pip install -r requirements.txt
+```
