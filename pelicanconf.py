@@ -1,6 +1,6 @@
 AUTHOR = 'Omoju Miller'
 SITENAME = 'Omoju Miller'
-SITEURL = "http://localhost:8001"
+SITEURL = ""
 
 PATH = "content"
 

@@ -12,6 +12,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Pelican build artifacts (but keep output/ for GitHub Pages)
+*.pyc
+pelican_env/
+new_pelican_env/
 
 # Distribution / packaging
 .Python
