@@ -12,7 +12,7 @@ DEFAULT_LANG = 'en'
 THEME = 'themes/minimalist'
 
 # Static files
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'themes/minimalist/static']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
