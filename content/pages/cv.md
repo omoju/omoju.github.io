@@ -3,17 +3,47 @@ Date: 2024-01-15
 Category: Pages
 Tags: cv, resume
 
-<a href="https://www.linkedin.com/in/omojumiller">LinkedIn</a> |
-<a href="https://github.com/omoju">Github</a> |
-[CV](http://omojumiller.com/Omoju_Miller_MasterCV.pdf)
+## Professional Profile
 
-## Talks
+Founder and CEO of Fimio, Inc, building 21st century developer tools. Senior Technical Advisor and AI/ML Expert with 20+ years of experience in machine learning, open source development, and technical leadership. Currently focused on the intersection of AI, blockchain, and permissionless technologies.
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bufm7VR4nfg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</center>
+**Connect with me:**
+- [LinkedIn](https://www.linkedin.com/in/omojumiller)
+- [GitHub](https://github.com/omoju)
+- [Download Full CV (PDF)](https://github.com/omoju/omoju.github.io/blob/main/Omoju_Miller_MasterCV.pdf)
 
-<br>
+## Current Focus
+
+**Agent Ops**  
+Exploring the convergence of new test and deploy environments, both centralized and decentralized. Particulary interested in exploring and creating new permissionless economic models around digital infrastructure.
+
+**Key Areas of Expertise:**   
+ - AI/ML Engineering & Product Development   
+ - Open Source Community Building   
+ - Technical Strategy & Leadership   
+ - Blockchain & Web3 Technologies   
+ - Developer Tools & Platforms  
+ 
+## Recent Work & Achievements
+
+**Fimio** (2022-Present)   
+- **Co-founder and CEO**, Fimio is a platform that transforms GitHub repositories into fully deployed applications with complete server metadata visibility.    
+- We specialize in ML applications that require GPU resources, automatically building and serving them through in our sandboxed environment.    
+- My focus is on providing developers unprecedented transparency into their application's resource usage, dependencies, and system requirements to enable seamless migration and reproduction across servers.
+
+**Technical Advisor & Consultant** (2020-Present)    
+- Advising startups on AI/ML strategy and implementation    
+- Exploring emerging technologies in the Web3 space    
+- Contributing to open source projects and developer communities    
+
+**GitHub** (2017-2022)    
+- **Technical Advisor to CEO**: Supported the development of GitHub Copilot, the world's first AI pair programmer    
+- **Senior Machine Learning Engineer**: Built ML systems serving millions of developers   
+- **Open Source Advocate**: Fostered community growth and developer engagement   
+     
+## Speaking & Thought Leadership    
+    
+### Recent Keynotes & Talks
 
 Keynote, "[Cognitive Apprenticeship - Experience in Open Source](https://www.youtube.com/watch?v=JShvXcL66NQ)," Linux Conference Australia - Linux.conf.au, January, 2021.
 
@@ -58,4 +88,22 @@ Speaker, "[Opening Keynote - GitHub Universe](https://www.youtube.com/watch?v=vB
 - [RoadTrip Nation: Omoju's Open Road](http://roadtripnation.com/leader/omoju-miller), Pivot TV, March, 2015.
 - [African Americans on the role of Higher Education in Innovation](https://www.blacksintechnology.net/the-road-to-50-podcast-african-americans-on-the-role-of-higher-education-in-innovation/), #BITTechTalk, December, 2014.
 - [Fortune-Tellers, Step Aside: Big Data Looks For Future Entrepreneurs](http://www.npr.org/sections/alltechconsidered/2014/10/05/351851015/fortune-tellers-step-aside-big-data-looks-for-future-entrepreneurs), NPR's All Tech Considered, October 5, 2014.
-- [Q&A with CS Ed Reformer and PhD Candidate Omoju Miller](http://best.berkeley.edu/2015/03/11/best-labber-in-berkeley-byte-qa-with-cs-ed-reformer-and-phd-candidate-omoju-miller/), Berkeley Bytes, March 11, 2014. 
+- [Q&A with CS Ed Reformer and PhD Candidate Omoju Miller](http://best.berkeley.edu/2015/03/11/best-labber-in-berkeley-byte-qa-with-cs-ed-reformer-and-phd-candidate-omoju-miller/), Berkeley Bytes, March 11, 2014.          
+<br>
+
+## Education & Background
+
+**Ph.D. in Computer Science Education** - University of California, Berkeley  
+**Research Focus:** Machine Learning, Human-Computer Interaction, and Educational Technology
+
+## Current Interests
+
+- **AI-Powered Development Tools** - Exploring the future of human-AI collaboration in software development
+- **Permissionless Technologies** - Blockchain, Web3, and decentralized systems
+- **Mini-Apps & Platform Ecosystems** - Web3 first new app distribution models
+- **Open Source Innovation** - Community-driven development and knowledge sharing
+- **Global Tech Access** - Democratizing technology and creating opportunities worldwide
+
+<br>
+
+*For the complete professional history, detailed project descriptions, and full list of publications, please download the [PDF version of my CV](https://github.com/omoju/omoju.github.io/blob/main/Omoju_Miller_MasterCV.pdf).* 
