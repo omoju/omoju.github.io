@@ -31,10 +31,10 @@ Exploring the convergence of new test and deploy environments, both centralized 
 - We specialize in ML applications that require GPU resources, automatically building and serving them through in our sandboxed environment.    
 - My focus is on providing developers unprecedented transparency into their application's resource usage, dependencies, and system requirements to enable seamless migration and reproduction across servers.
 
-**Technical Advisor & Consultant** (2020-Present)    
+**Technical Advisor & Mentor** (2020-Present)    
+- Mentor, Neo Accelerator (2022, 2023)
 - Advising startups on AI/ML strategy and implementation    
-- Exploring emerging technologies in the Web3 space    
-- Contributing to open source projects and developer communities    
+- Exploring emerging technologies in the Web3 space     
 
 **GitHub** (2017-2022)    
 - **Technical Advisor to CEO**: Supported the development of GitHub Copilot, the world's first AI pair programmer    
