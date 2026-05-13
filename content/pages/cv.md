@@ -5,7 +5,7 @@ Tags: cv, resume
 
 ## Professional Profile
 
-Founder and CEO of Fimio, Inc, building 21st century developer tools. Senior Technical Advisor and AI/ML Expert with 20+ years of experience in machine learning, open source development, and technical leadership. Currently focused on the intersection of AI, blockchain, and permissionless technologies.
+Founder and former CEO of Fimio, Inc. Senior Technical Advisor and AI/ML Expert with 20+ years of experience in machine learning, open source development, and technical leadership. Most recently built AI infrastructure for sandboxed inference deployments. Passionate about permissionless systems, open source, and building tools for developers. Currently exploring what's next.
 
 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/omojumiller)
@@ -26,7 +26,7 @@ Exploring the convergence of new test and deploy environments, both centralized 
  
 ## Recent Work & Achievements
 
-**Fimio** (2022-Present)   
+**Fimio** (2022-2026)   
 - **Co-founder and CEO**, Fimio is a platform that transforms GitHub repositories into fully deployed applications with complete server metadata visibility.    
 - We specialize in ML applications that require GPU resources, automatically building and serving them through in our sandboxed environment.    
 - My focus is on providing developers unprecedented transparency into their application's resource usage, dependencies, and system requirements to enable seamless migration and reproduction across servers.
