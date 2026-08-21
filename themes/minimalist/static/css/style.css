@@ -1,7 +1,21 @@
-/* Google Fonts Import */
-@import url('https://fonts.googleapis.com/css2?family=Martel+Serif:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;1,200;1,300;1,400;1,600;1,700;1,800&family=Martel+Sans:wght@200;300;400;500;600;700;800&display=swap');
+/* ---------------------------------------------------------------------------
+   Omoju Miller — a bookish, gwern-adjacent treatment.
+   EB Garamond (after Claude Garamond, c. 1540) with old-style figures,
+   small caps, justified and hyphenated text, and drop caps on essays.
+   --------------------------------------------------------------------------- */
 
-/* Base Styles */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+:root {
+    --ink:        #23211d;
+    --ink-soft:   #57534c;
+    --ink-faint:  #8a857c;
+    --paper:      #fdfdfa;
+    --rule:       #ddd9d0;
+    --accent:     #5a3e2b;
+    --link:       #2a4d69;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -9,79 +23,105 @@
 }
 
 body {
-    font-family: 'Martel Serif', Georgia, serif;
-    line-height: 1.8;
-    color: #333333;
-    background: #fff;
-    max-width: 680px;
+    font-family: 'EB Garamond', Garamond, Georgia, serif;
+    font-size: 20px;
+    line-height: 1.62;
+    font-weight: 400;
+    color: var(--ink);
+    background: var(--paper);
+    max-width: 40rem;
     margin: 0 auto;
     padding: 4rem 2rem;
-    font-size: 14px;
-    font-weight: 400;
+    /* Old-style figures: numerals sit on the baseline as they do in old books. */
+    font-variant-numeric: oldstyle-nums proportional-nums;
+    font-feature-settings: "onum" 1, "kern" 1, "liga" 1;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
 }
 
-/* Typography */
+/* --- Headings ------------------------------------------------------------ */
+
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Martel Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-family: 'EB Garamond', Garamond, Georgia, serif;
     font-weight: 600;
-    line-height: 1.3;
+    line-height: 1.25;
+    color: var(--ink);
 }
 
 h1 {
-    font-size: 35px;
-    margin-bottom: 1.5rem;
-    color: #0D2A49;
+    font-size: 1.85rem;
+    font-weight: 500;
+    font-variant-caps: small-caps;
+    letter-spacing: 0.06em;
+    text-align: center;
+    margin-bottom: 0.4rem;
 }
 
 h1 a {
     color: inherit;
     text-decoration: none;
+    border-bottom: none;
 }
 
 h2 {
-    font-size: 30px;
-    margin-bottom: 1rem;
+    font-size: 1.32rem;
+    font-variant-caps: small-caps;
+    letter-spacing: 0.045em;
+    margin-top: 2.6rem;
+    margin-bottom: 0.7rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid var(--rule);
 }
 
 h3 {
-    font-size: 24px;
-    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: 600;
+    margin-top: 1.9rem;
+    margin-bottom: 0.4rem;
 }
 
-/* Header */
+main > h2:first-child,
+article > h2:first-child {
+    margin-top: 0;
+}
+
+/* --- Masthead ------------------------------------------------------------ */
+
 header {
-    margin-bottom: 4rem;
-    text-align: left;
-    border-bottom: none;
-    padding-bottom: 0;
+    margin-bottom: 3rem;
+    text-align: center;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 1.2rem;
 }
 
-/* Navigation */
 nav {
-    margin-top: 2rem;
+    margin-top: 0.9rem;
 }
 
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: flex-start;
-    gap: 2rem;
+    justify-content: center;
+    gap: 1.9rem;
     padding: 0;
 }
 
 nav a {
-    color: #666;
+    color: var(--ink-soft);
     text-decoration: none;
-    font-weight: 400;
-    font-size: 16px;
-    font-family: 'Martel Serif', Georgia, serif;
+    font-variant-caps: small-caps;
+    letter-spacing: 0.07em;
+    font-size: 0.95rem;
+    border-bottom: none;
 }
 
 nav a:hover {
-    color: #000;
+    color: var(--accent);
 }
 
-/* Main Content */
+/* --- Body copy ----------------------------------------------------------- */
+
 main {
     margin-bottom: 4rem;
 }
@@ -90,161 +130,55 @@ article {
     margin-bottom: 4rem;
 }
 
-article h2 a {
-    color: inherit;
-    text-decoration: none;
-}
-
-article h2 a:hover {
-    text-decoration: underline;
-}
-
-/* Date */
-.date {
-    color: #666;
-    font-size: 16px;
-    margin-bottom: 1.5rem;
-    font-family: 'Martel Serif', Georgia, serif;
-}
-
-/* Paragraphs */
 p {
-    margin-bottom: 1.5rem;
-    font-family: 'Martel Serif', Georgia, serif;
+    margin-bottom: 1.15rem;
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
 }
 
-/* Blockquotes */
-blockquote {
-    margin: 2rem 0;
-    padding: 1.5rem 2rem;
-    border-left: 4px solid #0D2A49;
-    background-color: #f8f9fa;
-    font-style: italic;
-    color: #555;
-    font-family: 'Martel Serif', Georgia, serif;
-}
-
-blockquote p {
-    margin-bottom: 0.5rem;
-}
-
-blockquote p:last-child {
-    margin-bottom: 0;
-}
-
-/* Figures */
-figure {
-    margin: 2rem 0;
-    text-align: center;
-}
-
-figure img {
-    max-width: 100%;
-    height: auto;
-    max-height: 600px;
-    min-height: 300px;
-    border-radius: 4px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-/* Footer */
-footer {
-    text-align: left;
-    color: #666;
-    font-size: 16px;
-    border-top: none;
-    padding-top: 0;
-    margin-top: 4rem;
-    font-family: 'Martel Serif', Georgia, serif;
-}
-
-/* Responsive Design */
-@media (max-width: 600px) {
-    body {
-        padding: 2rem 1rem;
-        font-size: 17px;
-    }
-    
-    h1 {
-        font-size: 29px;
-    }
-    
-    nav ul {
-        flex-direction: column;
-        gap: 1rem;
-    }
-    
-    article h2 {
-        font-size: 24px;
-    }
-}
-
-/* Writing archive */
-.archive-intro {
-    color: #777;
-    font-size: 0.9em;
-    margin-bottom: 2.5rem;
-}
-
-.year {
-    margin-bottom: 2.5rem;
-}
-
-.year h3 {
-    font-size: 0.85em;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: #999;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 0.4rem;
-    margin-bottom: 1rem;
-}
-
-.post-list {
-    list-style: none;
-}
-
-.post-list li {
-    margin-bottom: 1.1rem;
-    line-height: 1.6;
-}
-
-.post-list time {
-    display: inline-block;
-    width: 4.5rem;
-    color: #aaa;
-    font-size: 0.85em;
-    font-family: 'Martel Sans', sans-serif;
-}
-
-.post-list a {
-    font-family: 'Martel Sans', sans-serif;
+/* Drop cap, but only where an essay genuinely opens with prose. */
+.post-body > p:first-child::first-letter {
+    float: left;
+    font-size: 3.4em;
+    line-height: 0.82;
+    padding: 0.06em 0.08em 0 0;
+    margin-right: 0.04em;
+    color: var(--accent);
     font-weight: 500;
 }
 
-.post-list .post-desc {
-    display: block;
-    margin-left: 4.5rem;
-    color: #777;
-    font-size: 0.92em;
+.post-body > p:first-child::first-line {
+    font-variant-caps: small-caps;
+    letter-spacing: 0.03em;
 }
 
-@media (max-width: 600px) {
-    .post-list time { display: block; width: auto; }
-    .post-list .post-desc { margin-left: 0; }
+.date {
+    color: var(--ink-faint);
+    font-size: 0.92rem;
+    font-variant-caps: small-caps;
+    letter-spacing: 0.06em;
+    margin-bottom: 1.8rem;
 }
 
-/* Links in body copy */
-main a {
-    color: #1a4d8f;
+article h2 a {
+    color: inherit;
     text-decoration: none;
-    border-bottom: 1px solid #cfd9e6;
+    border-bottom: none;
+}
+
+/* --- Links --------------------------------------------------------------- */
+
+main a {
+    color: var(--link);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(42, 77, 105, 0.28);
     transition: border-color 0.15s ease, color 0.15s ease;
 }
 
 main a:hover {
-    color: #0d2d57;
-    border-bottom-color: #1a4d8f;
+    color: var(--accent);
+    border-bottom-color: var(--accent);
 }
 
 main h2 a,
@@ -253,7 +187,164 @@ main h3 a,
     border-bottom: none;
 }
 
-/* Start here list on the landing page */
-main ul li {
+main ul li,
+main ol li {
+    margin-bottom: 0.55rem;
+}
+
+main ul,
+main ol {
+    margin-bottom: 1.15rem;
+    padding-left: 1.4rem;
+}
+
+/* --- Quotations ---------------------------------------------------------- */
+
+blockquote {
+    margin: 1.6rem 1.8rem;
+    font-style: italic;
+    color: var(--ink-soft);
+    border-left: none;
+    background: none;
+    padding: 0;
+}
+
+blockquote p {
+    margin-bottom: 0.5rem;
+    text-align: left;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+/* A fleuron, rather than a bar, to divide sections. */
+hr {
+    border: none;
+    text-align: center;
+    margin: 2.6rem 0;
+}
+
+hr::before {
+    content: "❧";
+    color: var(--ink-faint);
+    font-size: 1.2rem;
+}
+
+/* --- Figures ------------------------------------------------------------- */
+
+figure {
+    margin: 2rem 0;
+    text-align: center;
+}
+
+figure img,
+p img {
+    max-width: 100%;
+    height: auto;
+    max-height: 600px;
+}
+
+figcaption {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--ink-faint);
+    margin-top: 0.5rem;
+}
+
+/* --- Writing archive ----------------------------------------------------- */
+
+.archive-intro {
+    color: var(--ink-faint);
+    font-size: 0.95rem;
+    font-style: italic;
+    text-align: left;
+    margin-bottom: 2.4rem;
+}
+
+.year {
+    margin-bottom: 2.2rem;
+}
+
+.year h3 {
+    margin-top: 0;
+    font-size: 0.95rem;
+    font-style: normal;
+    font-variant-caps: small-caps;
+    letter-spacing: 0.12em;
+    color: var(--ink-faint);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.3rem;
     margin-bottom: 0.9rem;
+}
+
+.post-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.post-list li {
+    display: grid;
+    grid-template-columns: 4.4rem 1fr;
+    column-gap: 0.5rem;
+    margin-bottom: 0.95rem;
+    line-height: 1.45;
+}
+
+.post-list time {
+    grid-column: 1;
+    padding-top: 0.15em;
+    color: var(--ink-faint);
+    font-size: 0.88rem;
+    font-variant-numeric: oldstyle-nums;
+}
+
+.post-list a {
+    grid-column: 2;
+}
+
+.post-list .post-desc {
+    grid-column: 2;
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+    font-style: italic;
+}
+
+/* --- Footer -------------------------------------------------------------- */
+
+footer {
+    text-align: center;
+    color: var(--ink-faint);
+    font-size: 0.9rem;
+    border-top: 1px solid var(--rule);
+    padding-top: 1.2rem;
+    margin-top: 4rem;
+}
+
+footer a {
+    color: inherit;
+}
+
+/* --- Small screens ------------------------------------------------------- */
+
+@media (max-width: 600px) {
+    body {
+        padding: 2rem 1.1rem;
+        font-size: 18px;
+    }
+
+    h1 { font-size: 1.6rem; }
+    h2 { font-size: 1.2rem; }
+
+    p { text-align: left; }
+
+    nav ul {
+        flex-wrap: wrap;
+        gap: 1.1rem;
+    }
+
+    .post-list li { grid-template-columns: 1fr; }
+    .post-list time,
+    .post-list a,
+    .post-list .post-desc { grid-column: 1; }
 }

@@ -1,3 +1,6 @@
+import hashlib as _hashlib
+import pathlib as _pathlib
+
 AUTHOR = 'Omoju Miller'
 SITENAME = 'Omoju Miller'
 SITEURL = ""
@@ -53,3 +56,9 @@ IGNORE_FILES = ["cv-redirect.html", "about-redirect.html", "blog-redirect.html"]
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+
+# Cache-busting: the stylesheet URL carries a hash of its contents, so a deploy
+# with changed CSS is picked up instead of served from a stale browser cache.
+_css = _pathlib.Path(__file__).parent / "themes/minimalist/static/css/style.css"
+CSS_VERSION = _hashlib.md5(_css.read_bytes()).hexdigest()[:8] if _css.exists() else "0"

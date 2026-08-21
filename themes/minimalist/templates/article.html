@@ -6,6 +6,6 @@
     <article>
         <h2>{{ article.title }}</h2>
         <div class="date">{{ article.date.strftime('%B %d, %Y') }}</div>
-        {{ article.content }}
+        <div class="post-body">{{ article.content }}</div>
     </article>
 {% endblock %} 
