@@ -12,7 +12,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Pelican build artifacts (but keep output/ for GitHub Pages)
+# Pelican build artifacts.
+# output/ is NOT tracked: .github/workflows/deploy.yml rebuilds the site from
+# content/ with publishconf.py and deploys that artifact to GitHub Pages.
+output/
 *.pyc
 pelican_env/
 new_pelican_env/
