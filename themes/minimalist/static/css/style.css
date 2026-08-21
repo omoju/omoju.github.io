@@ -7,11 +7,11 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
 
 :root {
-    --ink:        #23211d;
-    --ink-soft:   #57534c;
-    --ink-faint:  #8a857c;
+    --ink:        #211f1b;
+    --ink-soft:   #3d3931;
+    --ink-faint:  #56514a;
     --paper:      #fdfdfa;
-    --rule:       #ddd9d0;
+    --rule:       #cdc8bd;
     --accent:     #5a3e2b;
     --link:       #2a4d69;
 }
@@ -279,7 +279,7 @@ figcaption {
     font-style: normal;
     font-variant-caps: small-caps;
     letter-spacing: 0.12em;
-    color: var(--ink-faint);
+    color: var(--ink-soft);
     border-bottom: 1px solid var(--rule);
     padding-bottom: 0.3rem;
     margin-bottom: 0.9rem;
@@ -313,7 +313,7 @@ figcaption {
 
 .post-list .post-desc {
     grid-column: 2;
-    color: #4b463e;
+    color: #3f3b34;
     font-size: 0.97rem;
     font-style: normal;
     line-height: 1.5;
