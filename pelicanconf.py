@@ -29,5 +29,13 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = 8
 
+# The CV page is the landing page (see content/pages/cv.md), so the article
+# listing that normally lives at / moves to /blog.html.
+INDEX_SAVE_AS = "blog.html"
+
+# Keep the old /pages/cv.html URL alive as a redirect to the new homepage.
+TEMPLATE_PAGES = {"cv-redirect.html": "pages/cv.html"}
+IGNORE_FILES = ["cv-redirect.html"]
+
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

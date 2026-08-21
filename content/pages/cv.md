@@ -2,6 +2,8 @@ Title: CV
 Date: 2024-01-15
 Category: Pages
 Tags: cv, resume
+save_as: index.html
+url:
 
 ## Professional Profile
 

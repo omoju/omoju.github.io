@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+{% block title %}{% if page.save_as == 'index.html' %}{{ SITENAME }}{% else %}{{ page.title }} - {{ SITENAME }}{% endif %}{% endblock %}
 
 {% block content %}
     <article>
