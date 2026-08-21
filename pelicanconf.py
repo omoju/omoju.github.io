@@ -37,11 +37,19 @@ DRAFT_SAVE_AS = "drafts/{slug}/index.html"
 
 # The CV page is the landing page (see content/pages/cv.md), so the article
 # listing that normally lives at / moves to /blog.html.
-INDEX_SAVE_AS = "blog.html"
+# The landing page is content/pages/home.md, so there is no paginated index.
+# /writing/ is the full year-grouped archive.
+INDEX_SAVE_AS = ""
+ARCHIVES_SAVE_AS = "writing/index.html"
+ARCHIVES_URL = "writing/"
 
 # Keep the old /pages/cv.html URL alive as a redirect to the new homepage.
-TEMPLATE_PAGES = {"cv-redirect.html": "pages/cv.html"}
-IGNORE_FILES = ["cv-redirect.html"]
+TEMPLATE_PAGES = {
+    "cv-redirect.html": "pages/cv.html",
+    "about-redirect.html": "pages/about.html",
+    "blog-redirect.html": "blog.html",
+}
+IGNORE_FILES = ["cv-redirect.html", "about-redirect.html", "blog-redirect.html"]
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

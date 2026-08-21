@@ -4,7 +4,7 @@
 
 {% block content %}
     <article>
-        <h2>{{ page.title }}</h2>
+        {% if page.save_as != 'index.html' %}<h2>{{ page.title }}</h2>{% endif %}
         {{ page.content }}
     </article>
 {% endblock %} 
