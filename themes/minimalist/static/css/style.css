@@ -198,6 +198,14 @@ main ol {
     padding-left: 1.4rem;
 }
 
+/* CV entries: a header line then a short description, set ragged-right so the
+   two-line blocks do not stretch. */
+.page-cv p,
+.page-cv li {
+    text-align: left;
+    hyphens: none;
+}
+
 /* --- Quotations ---------------------------------------------------------- */
 
 blockquote {
@@ -255,9 +263,8 @@ figcaption {
 /* --- Writing archive ----------------------------------------------------- */
 
 .archive-intro {
-    color: var(--ink-faint);
+    color: var(--ink-soft);
     font-size: 0.95rem;
-    font-style: italic;
     text-align: left;
     margin-bottom: 2.4rem;
 }
@@ -301,13 +308,16 @@ figcaption {
 
 .post-list a {
     grid-column: 2;
+    font-weight: 500;
 }
 
 .post-list .post-desc {
     grid-column: 2;
-    color: var(--ink-soft);
-    font-size: 0.95rem;
-    font-style: italic;
+    color: #4b463e;
+    font-size: 0.97rem;
+    font-style: normal;
+    line-height: 1.5;
+    margin-top: 0.15rem;
 }
 
 /* --- Footer -------------------------------------------------------------- */

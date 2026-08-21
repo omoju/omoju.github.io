@@ -15,7 +15,13 @@ DEFAULT_LANG = 'en'
 THEME = 'themes/minimalist'
 
 # Static files
-STATIC_PATHS = ['images', 'themes/minimalist/static']
+# 'themes/...' resolved against content/ and never existed; dropping it also
+# silences the dev server's watch warning. The CV PDF is served from the site
+# root so the CV page can point at it as the full record.
+STATIC_PATHS = ['images', 'Omoju_Miller_MasterCV.pdf']
+EXTRA_PATH_METADATA = {
+    'Omoju_Miller_MasterCV.pdf': {'path': 'Omoju_Miller_CV.pdf'},
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
