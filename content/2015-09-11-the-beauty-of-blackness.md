@@ -1,9 +1,8 @@
 Title: The Beauty of Blackness
 Date: 2015-09-11
 Category: Blog
-Tags: nigeria, culture, identity
+Tags: identity, culture
 Description: The US has a great Black life tradition. Unfortunately, most outsiders are acquainted with only the negative aspects of Black American life.
-Status: draft
 
 This is an excerpt from a series of correspondences I had with a dear Nigerian friend who lives in Europe. In this letter, he had asked me why I love things that are Black, without actually using those terms.
 

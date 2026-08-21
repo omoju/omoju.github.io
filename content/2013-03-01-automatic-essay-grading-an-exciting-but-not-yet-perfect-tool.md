@@ -1,7 +1,7 @@
 Title: Automatic Essay Grading: An Exciting - But Not Yet Perfect - Tool
 Date: 2013-03-01
 Category: Blog
-Tags: test, grading
+Tags: machine-learning, education, research
 
 In April 2012, the Hewlett Foundation hosted a competition on Kaggle, the predictive modeling competition site, to find the most effective system for automated grading of essays. These systems are based on principles of artificial intelligence, and those of us in the artificial intelligence community are always excited to see useful applications of our work. Our excitement, however, should be tempered by the recognition of some unintended consequences of automated essay grading.
 

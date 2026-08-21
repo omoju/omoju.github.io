@@ -1,8 +1,7 @@
 Title: The Winner Tonight Diversity
 Date: 2012-11-07
 Category: Blog
-Tags: education, diversity
-Status: draft
+Tags: politics, diversity, education
 
 We the people have just re-elect the 44th president of the United States. But I would like to point out that the real winner tonight is diversity and inclusion. A look at Governor Romney's acceptance crowd versus POTUS tells the whole story.
 

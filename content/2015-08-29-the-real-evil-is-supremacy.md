@@ -1,9 +1,8 @@
 Title: The Real Evil is Supremacy
 Date: 2015-08-29
 Category: Blog
-Tags: nigeria, identity
+Tags: identity, culture, essay
 Description: At the root of many of these ills lies supremacist ideals. This is not an America problem, it is not an European problem, it is not an African problem, it is a human problem.
-Status: draft
 
 I find myself confronted more and more with the issue of inequality, in particular its manifestation around race. I often ask myself why is it that I can no longer ignore these issues? What has happened to make me more sensitive to it now? It might be because I live in the Bay Area where we have been wrestling with this issue, it could also be that I am that worn cliche, a woman in tech and all its attendant isms.
 

@@ -1,9 +1,8 @@
 Title: My Tears, Movies, and the Age of Obama.
 Date: 2016-08-17
 Category: Blog
-Tags: cs-education, education, diversity, career
+Tags: culture, film, identity, nigeria
 Description: I am a film fanatic. I suspect my father is too. Growing up in Lagos we were fed a steady diet of films from the golden age of Hollywood.
-Status: draft
 
 We had a vast library of RKO movies. I grew up watching Ginger Rogers and Fred Astaire fly down to Rio.
 
