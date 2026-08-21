@@ -8,13 +8,16 @@ After 4 years of building, I've made the decision to wind down Fimio, Inc., the 
 
 First, I want to thank my investors for believing in me and backing this journey. I'm grateful for your trust, and I'm proud that we were able to return remaining capital rather than burn through it.
 
-When I left GitHub, I wasn't sure what was next. In the language of Jim Collins in *What to Make of a Life*, I was facing a cliff. I had been pushing hard for 16 years straight, driven by an inner fire to survive and build something of myself. Instead of sitting in the fog, I plowed headlong into what I thought was next: founding a venture-backed startup.
+When I left GitHub, I wasn't sure what was next. In the language of Jim Collins in _What to Make of a Life_, I was facing a cliff. I had been pushing hard for 16 years straight, driven by an inner fire to survive and build something of myself. Instead of sitting in the fog, I plowed headlong into what I thought was next: founding a venture-backed startup.
 
 I love building. And through building Fimio, I learned a few things about myself that I hadn't fully recognized before:
 
 1. I really REALLY believe in permissionless systems.
+    
 2. I believe die-hard in open source.
+    
 3. I love builders.
+    
 
 I started Fimio to focus on web3 security, then took my infrastructure learnings and pivoted post-SBF into AI infrastructure (sandboxed inference deployments). What I was building turned out to be exactly what the world needs now.
 

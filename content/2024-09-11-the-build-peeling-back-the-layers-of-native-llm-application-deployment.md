@@ -1,7 +1,7 @@
 Title: The Build - Peeling back the layers of native LLM application deployments
 Date: 2024-09-11
 Category: Blog
-Tags: SDLC, LLM, deployment, software-engineering
+Tags: sdlc, llm, deployment, software-engineering
 Description: A story birthed at the intersection of Computer Science and Software Engineering.
 
 I have been wanting to write this blog post for a very long time. So bear with me. I started my academic career as a Computer Science major, this was back in the late 90s. And that meant that most of the code I wrote was written exclusively for teachers to determine whether I had mastered some algorithm or data structure. So even though I was writing code, the truth was, I was not building applications. I didn't have to build and ship anything to production. I would submit a C program or a C++ program, maybe the 'exe' too, and that was that.
@@ -25,7 +25,7 @@ Deployment is the process of making software available to users. Practically it 
 Whereas programming languages like python are interpreted languages, meaning that there is no compilation required. For these types of languages, the source code is translated to machine code on-the-fly. As you run the program, it is being translated block by block to machine code. To build a python application, you install python, write the code and as you write the code, you will realize that you need to use the capabilities in external libraries, so you will need to also install those, and then once all of that is done, then you run the application. By default, there are no artifacts generated as part of the process. So to deploy a python application, a developer needs to install dependencies, i.e. libraries that the application depends on, and then package and build the application. Managing dependencies and building and packaging the application is the process that makes deploying the application often tedious and difficult. And to make matters worse, there are multiple ways to achieve the goal of each of the steps which is a nightmare scenario for reproducibility.
 
 <figure>
-  <img src="/images/py-build-hell.png" alt="python dev environment hell">
+  <img src="{static}/images/py-build-hell.png" alt="python dev environment hell">
 </figure>
 
 There is a lot of emphasis paid to code but not enough paid to the final artifacts that are run by processors; the actual thing that the end user interacts with. For compiled programs these artifacts are application binaries. For interpreted programs on the other hand since they don't go through compilation, developers have to find another way to ship these applications to production.
@@ -48,4 +48,4 @@ So to fully reproduce an application in a staging environment where teammates an
 
 When the application is successfully migrated to the staging environment, the stakeholders examine it and give their feedback. Usually there is some more work to be done, something or the other to patch or update, and the process starts over again. As in a scientific experiment, every run of that process is a unique experiment and the work of a modern build system is to capture all the information about the experiments in a way that is free from manipulation from external entities, so that we can successfully validate the hypothesis that is the application and invariably when something goes wrong we can quickly answer the question of what changed.
 
-Creating the modern build system is equivalent to productizing the scientific process and that is exactly what my team and I are doing at [Fimio](https://www.fimio.xyz). If you found this post interesting and want to chat more about it feel free to reach out to me on X [@omojumiller](https://x.com/omojumiller). 
+Creating the modern build system is equivalent to productizing the scientific process and that is exactly what my team and I are doing at [Fimio](https://www.fimio.xyz). If you found this post interesting and want to chat more about it feel free to reach out to me on X [@omojumiller](https://x.com/omojumiller).

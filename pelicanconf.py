@@ -29,6 +29,12 @@ SOCIAL = ()
 
 DEFAULT_PAGINATION = 8
 
+# Posts keep the date-first shape of the original blog: /2016/11/24/slug/
+ARTICLE_URL = "{date:%Y}/{date:%m}/{date:%d}/{slug}/"
+ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
+DRAFT_URL = "drafts/{slug}/"
+DRAFT_SAVE_AS = "drafts/{slug}/index.html"
+
 # The CV page is the landing page (see content/pages/cv.md), so the article
 # listing that normally lives at / moves to /blog.html.
 INDEX_SAVE_AS = "blog.html"

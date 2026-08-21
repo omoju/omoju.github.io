@@ -1,7 +1,7 @@
 Title: Vibecoding Mini Apps, an under-tapped opportunity
 Date: 2025-08-25
 Category: Blog
-Tags: vibecoding, web3, mini apps, AI, apps
+Tags: vibecoding, web3, mini-apps, ai, apps
 Description: Just had a light bulb moment
 
 Wow!!! Ding, ding, ding, vibecoding mini apps
@@ -33,4 +33,3 @@ Now add vibecoding. And you have the perfect set of conditions to bring on massi
 
 
 [^1]: At the creation of GitHub Copilot, I was the Technical Advisor to the CEO, and helped bring that product to market.
-
