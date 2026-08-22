@@ -4,8 +4,8 @@
 
 {% block content %}
     <article>
-        <h2>{{ article.title }}</h2>
+        <h2 class="entry-title">{{ article.title }}</h2>
         <div class="date">{{ article.date.strftime('%B %d, %Y') }}</div>
-        <div class="post-body">{{ article.content }}</div>
+        <div class="post-body article-body">{{ article.content }}</div>
     </article>
 {% endblock %} 

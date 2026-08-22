@@ -3,7 +3,7 @@
 {% block title %}Writing - {{ SITENAME }}{% endblock %}
 
 {% block content %}
-    <h2>Writing</h2>
+    <h2 class="entry-title">Writing</h2>
     <p class="archive-intro">{{ dates|length }} posts, {{ dates|last|attr('date')|attr('year') }}&ndash;{{ dates|first|attr('date')|attr('year') }}.</p>
 
     {% for year, posts in dates|groupby('date.year')|reverse %}

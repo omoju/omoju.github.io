@@ -4,7 +4,7 @@
 
 {% block content %}
     <article class="page-{{ page.slug }}">
-        {% if page.save_as != 'index.html' %}<h2>{{ page.title }}</h2>{% endif %}
-        {{ page.content }}
+        {% if page.save_as != 'index.html' %}<h2 class="entry-title">{{ page.title }}</h2>{% endif %}
+        <div class="post-body">{{ page.content }}</div>
     </article>
 {% endblock %} 
