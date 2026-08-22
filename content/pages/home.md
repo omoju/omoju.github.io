@@ -25,16 +25,16 @@ done](/cv/), and [what I am thinking about today](/now/).
 
 If you are new to my writing, these five are a good way in.
 
-- [**What is luxury? And what has that got to do with software?**](/2026/08/14/what-is-luxury-and-what-has-that-got-to-do-with-software/)
-  What the damier canvas taught me about craft. The most recent thing on my mind.
+- [**Winding Down Fimio**](/2026/05/12/winding-down-fimio/)
+  Four years of building, and choosing clarity over a go-to-market motion that
+  was not me. The most recent thing on my mind.
+
+- [**Vibecoding Mini Apps**](/2025/08/25/vibecoding-mini-apps-an-under-tapped-opportunity/)
+  An under-tapped opportunity, and where I think app distribution goes next.
 
 - [**The Build**](/2024/09/11/the-build-peeling-back-the-layers-of-native-llm-application-deployments/)
   Peeling back the layers of native LLM application deployments. The longest and
   most technical thing I have written.
-
-- [**Winding Down Fimio**](/2026/05/12/winding-down-fimio/)
-  Four years of building, and choosing clarity over a go-to-market motion that
-  was not me.
 
 - [**#20YearsACoder**](/2017/06/28/20yearsacoder/)
   A retrospective on the first twenty years, written in 2017.
