@@ -23,11 +23,14 @@ done](/cv/), and [what I am thinking about today](/now/).
 
 ## Start here
 
-If you are new to my writing, these five are a good way in.
+If you are new to my writing, these are a good way in.
 
+- **[What is luxury? And what has that got to do with software?](/2026/08/14/what-is-luxury-and-what-has-that-got-to-do-with-software/)**
+Start here. A bag in Madrid, and what it says about the code we are now
+generating faster than anyone can understand it.
 - **[Winding Down Fimio](/2026/05/12/winding-down-fimio/)**
 Four years of building, and choosing clarity over a go-to-market motion that
-was not me. The most recent thing on my mind.
+was not me.
 - **[Vibecoding Mini Apps](/2025/08/25/vibecoding-mini-apps-an-under-tapped-opportunity/)**
 An under-tapped opportunity, and where I think app distribution goes next.
 - **[The Build](/2024/09/11/the-build-peeling-back-the-layers-of-native-llm-application-deployments/)** Peeling back the layers of native LLM application deployments. I wrote this because I wanted to demystify the process.

@@ -1,6 +1,52 @@
 Title: What is luxury? And what has that got to do with software?
 Date: 2026-08-14
 Category: Blog
-Tags: craft
-Description: What the damier canvas says about software
-Status: draft
+Tags: craft, ai, software-engineering
+Description: What the Damier canvas says about software
+
+I helped usher in the era of machine written code. I put that up front because what follows reads like a warning, and a warning means something different coming from one of the people who built the thing. This is an essay about a bag. It is also, eventually, an essay about software, and about one idea that turns out to sit underneath both. Bear with the shopping trip. It goes somewhere.
+
+There is something that has been chewing at me for quite a while: the definition of the term "luxury."
+
+I recently came back from a trip to Madrid. In Madrid, like every other city with a high-end luxe district, the streets are lined with familiar brands like Louis Vuitton (LV), Max Mara, Dior, Chanel, Gucci, and so on. The street looks pretty, all the storefronts look pretty and pristine, and yet something feels off somewhere. I just can't put my finger on it yet. My first inkling is that there is no excitement. The clothes, the staging, the lights, something about it all feels very rehearsed, prosaic, and pedestrian. Or I might just be getting older and suffering from a case of "been there, done that."
+
+Nevertheless, the feeling kept gnawing at me, so I decided to give it its time.
+
+So I fired up Claude and typed these words into the prompt: "Something has been on my mind for a while, and it's the definition of luxury. What does a luxury product really mean? Let's unpack it." First came the lazy definition: expensive. That's not it. Something can be expensive and crappy. For instance, a last-minute economy ticket from San Francisco to Seattle on United will run you about $720, something that should ordinarily cost $200. So that is not it.
+
+On I went in my search: terms like the visible presence of the unnecessary, sacrifice made legible, something most people can't have, and so forth. But still, that wasn't it. Take the visible presence of the unnecessary. Claude's example was "hand-stitching that a machine could do," or "a watch mechanism that keeps worse time than a quartz." 👀 Patek Philippe. Maybe. But Patek doesn't offend me the way I'm offended by the LV Damier canvas item cluttering my visual field as I make my way around the world. And that difference is the first clue: Patek's uselessness is honest. It is [status signaling with nothing to hide](https://paulgraham.com/brandage.html). The Damier's is not.
+
+Permit a small digression. One of my favorite essays is by the late Om Malik (I still can't believe he's gone) on [Brunello Cucinelli](https://om.co/2015/04/27/brunello-cucinelli-2/). Cucinelli is a small luxury brand still owned and run by the same family that founded it. Whatever Cucinelli captures or evokes is the exact opposite of the LV Damier canvas duffle.
+
+Cucinelli is family-owned; LV is owned by a conglomerate. That conglomerate spends ridiculous amounts of money marketing the brand. There is no personal relationship between the conglomerate and the buyers of the brand; its goal is to maximize shareholder value. If I'm correct, then how can we consider this a luxury brand? No care, no relationship, just expensive. One brand contains value; the other merely points at it. I can hear you clap back: "One minute, Omoju, some mass-marketed brands like Hermès manage to retain luxury." And you would be correct. The Hermès Birkin is a fine product, albeit an artificially supply-controlled one. Nevertheless, the gnawing is not resolved; it goes on chewing at me.
+
+As I push myself further to get at the core of what's nagging me, with the help of Claude pushing back, I finally arrive at the definition I've been looking for:
+
+> A luxury item is any object worth being a steward of.
+
+A $40 coated-canvas bag sold for $2,700 is not worthy of stewardship, mainly because it is a lie. It is inauthentic. It is enshittification as a bag. Objects worthy of stewardship are built to last. They are designed to be repaired, because the maker anticipates that in 20 years you will still be using the item. This brings up two things: breaking and aging. A thing that ages accrues. Leather will darken, copper will take on a patina, raw denim requires your devotion before it truly becomes yours, and so on. A thing that breaks, on the other hand, doesn't age, it fails. Coated canvas will crack, plastic will yellow and snap, and your Shein dress will not survive multiple machine washes; it will more than likely unravel.
+
+Stewardship reframes you, not just the object you acquire. So as I stroll through the luxury shopping district of Madrid, I go from "what do I want to have?" to "what am I willing to be responsible for?"
+
+![A two-by-two chart. The vertical axis runs expensive to cheap, the horizontal disposable to enduring. Expensive and disposable: a Louis Vuitton Damier canvas duffle. Expensive and enduring: a Brunello Cucinelli cashmere sweater. Cheap and disposable: Shein and H&M. Cheap and enduring: an L.L.Bean canvas boat tote.]({static}/images/luxury/quadrant-goods.png)  
+Plot it and the point stops being arguable: price and endurance are independent axes. A cheap thing can endure and an expensive thing can be disposable; we know this because they sit in opposite corners of the same square. This means cost was never what decided whether something was worth keeping.
+
+The main problem with the LV bag is that it deceives you into thinking you are a "steward" when you are only a "consumer." You are paying to hollow away your integrity, one false product at a time.
+
+This tension, disposable versus enduring, is a mind-bug that refuses to go away. Applied to software, it creates a very strange picture indeed. At Fimio (my last startup), this tension was the key fount from which everything we built flowed. I was chasing reproducible software. I wanted to build a system where software written today could still be run 20 years from now, trapping all the dependencies, the APIs, the version of the OS, even down to the type of hardware that ran it. Without such a system, all software eventually rots from the drift between the artifact and its context. Which means software endurance is never a property of the code alone; it is a property of the relationship between artifact and context being maintained. Endurance, in other words, is stewardship. The same word that unlocked the bag.
+
+For the whole history of software, writing code was an expensive, slow, human task.  And that time expenditure quietly did a second job. Every hour you spent making the code also deposited an understanding of it into your head. Code **production and comprehension were tightly coupled**, and nobody designed it that way. It was an accident of the medium, a subsidy we were all living on without noticing, the way you don't notice your breathing. Code review, mentorship, the open source apprenticeship, the whole culture of maintenance; all of it was built on top of that free comprehension. 
+
+AI didn't make code worse. It repealed the subsidy. As production costs approach zero, comprehension costs don't; in some cases they rise. The understanding that used to ride along with the labor, bundled, at no extra charge, stops arriving. It has to be bought separately now, and most people don't yet know they are supposed to buy it. They watch the code appear, cheap and fast and passing its tests, and they assume the comprehension came with it the way it always did. News flash, it does not. The maintainer drowning in agent PRs isn't drowning because the code is bad; she is drowning because the contributions now arrive without a human who understands them attached. The generation of code has become industrialized (and I helped make that happen), while the maintenance of code is still artisanal. That is the bill coming due, and the maintainer is the one holding it.
+
+![The same chart, animating as every label morphs from a physical good into its software equivalent. The Louis Vuitton duffle becomes the six-figure consultancy rebuild; the Cucinelli sweater becomes the bank core, SQLite and Postgres; Shein and H&M become the vibe-coded weekend app; the L.L.Bean tote becomes grep, cron, and the 200-line script.]({static}/images/luxury/quadrant-morph.gif)
+
+Swap the bag for the codebase and it is the same map, corner for corner. The six-figure consultancy rebuild is the LV duffle; the vibe-coded weekend app is Shein, cheap and honest about it; the thirty-year bank core is the Birkin; grep and cron are the canvas tote no one thinks to replace. And the villain lands in the identical corner both times, expensive and disposable, the one cell that lies, disposability priced and posed as permanence.
+
+Code maintenance, basically another word for repair, requires understanding. Code that no one understands is unrepairable by definition; it can only be regenerated. And "it broke, just let the model rewrite it" is basically "it broke, buy a new one." This in itself isn't bad if the software is a prototype; a paper plate should be a paper plate. It only becomes dangerous when it does the software equivalent of disposability priced as permanence. Agents make software look so good that even bad software makes it through to prod. In the world of software, the passing tests and the confident PR description are the monogram stamped on the coated canvas.
+
+For most of my intellectual life I have been wrestling with the idea of code as craft versus code as science, aka is Computer Science an art or a science? And the breakdown between production and comprehension brings that tension roaring back. Code was never only instructions for a machine. It was always human-to-human transmission of computational reasoning; [Knuth's Literate Programming](https://www-cs-faculty.stanford.edu/~knuth/lp.html). Reading good code is one of the main ways the craft propagates. And permissionless participation in open source created a path the novice could walk, advancing slowly, over time, to expertise.
+
+I have come to accept that the agentic codegen era has fundamentally broken the transmission chain of computational thinking from human to human. Am not quite sure where the new location for comprehension is, perhaps its reading diffs, but after a while, they are just boring, and hard to force yourself to read a giant migration PR with all its diffs. There has to be a new place. And that has now become my quest.
+
+Onwards.
