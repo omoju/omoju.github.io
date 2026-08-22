@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "omojumiller-site",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "exec ./new_pelican_env/bin/pelican -lr content -o output -s pelicanconf.py -p 8000"
+      ],
+      "port": 8000
+    }
+  ]
+}

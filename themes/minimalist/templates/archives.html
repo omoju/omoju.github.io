@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Writing - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+    <h2 class="entry-title">Writing</h2>
+    <p class="archive-intro">{{ dates|length }} posts, {{ dates|last|attr('date')|attr('year') }}&ndash;{{ dates|first|attr('date')|attr('year') }}.</p>
+
+    {% for year, posts in dates|groupby('date.year')|reverse %}
+        <section class="year">
+            <h3>{{ year }}</h3>
+            <ul class="post-list">
+                {% for article in posts %}
+                    <li>
+                        <time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime('%b %d') }}</time>
+                        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                        {% if article.description %}<span class="post-desc">{{ article.description }}</span>{% endif %}
+                    </li>
+                {% endfor %}
+            </ul>
+        </section>
+    {% endfor %}
+{% endblock %}
