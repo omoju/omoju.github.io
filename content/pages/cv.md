@@ -12,25 +12,22 @@ Also on [LinkedIn](https://www.linkedin.com/in/omojumiller) and
 
 ## Selected Experience
 
-**Fimio** — *Founder and CEO*, 2022–2026<br>
-Built and shipped a sandboxed AI inference deployment platform and a malicious
-smart-contract detection API as a solo technical founder. Backed by Redpoint
-Ventures, Protocol Labs, and Neo, with angels including Nat Friedman. Wound the
-company down in 2026 and returned remaining capital to investors.
+**Fimio** — *Founder and CEO*, 2022–2026  
+ Built and shipped a sandboxed AI inference deployment platform and a malicious smart-contract detection API. Backed by Redpoint Ventures, Protocol Labs, and Neo, with angels including Nat Friedman. Wound the company down in 2026 and returned remaining capital to investors.
 
-**GitHub** — *Technical Advisor to the CEO*, 2020–2022<br>
+**GitHub** — *Technical Advisor to the CEO*, 2020–2022  
 Supported the CEO in bringing GitHub Copilot to market, the first mainstream AI
 coding assistant, and led tiger teams prototyping for product leadership.
 
-**GitHub** — *Senior Data Scientist, Machine Learning*, 2017–2020<br>
+**GitHub** — *Senior Data Scientist, Machine Learning*, 2017–2020  
 Applied machine learning to the software development lifecycle. Co-built
 GitHub's first repository recommendation engine, reaching a 20% click-through
 rate.
 
-**Google** — *Technology Portfolio Manager*, 2014–2015<br>
+**Google** — *Technology Portfolio Manager*, 2014–2015  
 Co-led Google's $15M Computer Science Education portfolio, growing it by 25%.
 
-**UC Berkeley** — *CSEd Doctoral Candidate*, 2013–2016<br>
+**UC Berkeley** — *CSEd Doctoral Candidate*, 2013–2016  
 Designed a machine learning study of gender in intro CS, and built a data
 science unit inside CS10.
 
@@ -39,22 +36,24 @@ Advanced Sensors, and Thoughtware are in the [PDF](/Omoju_Miller_CV.pdf).*
 
 ## Advisory & Public Service
 
-**U.S. Department of State** — *Expert Speaker, AI Diplomacy*, Lagos, 2026<br>
+**U.S. Department of State** — *Expert Speaker, AI Diplomacy*, Lagos, 2026  
 Keynoted on the future of AI at the University of Lagos and led responsible-AI
 training for 300+ staff and students at YABATECH with the U.S. Consulate
 General.
 
-**Neo** — *Accelerator Mentor*, 2022–2023<br>
+**Neo** — *Accelerator Mentor*, 2022–2023  
 Mentored founders across two cohorts of Ali Partovi's Neo Accelerator.
 
-**The White House** — *Advisor, Presidential Innovation Fellows*, 2013–2015<br>
+**The White House** — *Advisor, Presidential Innovation Fellows*, 2013–2015  
 Volunteer advisor to the Obama Administration, and invited speaker at
 convenings on unintended bias and education data.
 
 ## Education
 
-**Ph.D., Computer Science Education** — UC Berkeley, 2016<br>
-**M.S., Electrical and Computer Engineering** — University of Memphis, 2004<br>
+**Ph.D., Computer Science Education** — UC Berkeley, 2016  
+
+**M.S., Electrical and Computer Engineering** — University of Memphis, 2004  
+
 **B.S., Computer Science** — University of Memphis, 2001
 
 ## Selected Talks

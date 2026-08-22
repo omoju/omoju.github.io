@@ -25,22 +25,14 @@ done](/cv/), and [what I am thinking about today](/now/).
 
 If you are new to my writing, these five are a good way in.
 
-- [**Winding Down Fimio**](/2026/05/12/winding-down-fimio/)
-  Four years of building, and choosing clarity over a go-to-market motion that
-  was not me. The most recent thing on my mind.
-
-- [**Vibecoding Mini Apps**](/2025/08/25/vibecoding-mini-apps-an-under-tapped-opportunity/)
-  An under-tapped opportunity, and where I think app distribution goes next.
-
-- [**The Build**](/2024/09/11/the-build-peeling-back-the-layers-of-native-llm-application-deployments/)
-  Peeling back the layers of native LLM application deployments. The longest and
-  most technical thing I have written.
-
-- [**#20YearsACoder**](/2017/06/28/20yearsacoder/)
-  A retrospective on the first twenty years, written in 2017.
-
-- [**Babasola Thomas, my Father at 80**](/2016/11/24/babasola-thomas-my-father-at-80/)
-  My father is that rare breed of humanity born with a capacity to tolerate high
-  risk.
+- **[Winding Down Fimio](/2026/05/12/winding-down-fimio/)**
+Four years of building, and choosing clarity over a go-to-market motion that
+was not me. The most recent thing on my mind.
+- **[Vibecoding Mini Apps](/2025/08/25/vibecoding-mini-apps-an-under-tapped-opportunity/)**
+An under-tapped opportunity, and where I think app distribution goes next.
+- **[The Build](/2024/09/11/the-build-peeling-back-the-layers-of-native-llm-application-deployments/)** Peeling back the layers of native LLM application deployments. I wrote this because I wanted to demystify the process.
+- **[#20YearsACoder](/2017/06/28/20yearsacoder/)**
+A retrospective on the first twenty years, written in 2017.
+- **[Babasola Thomas, my Father at 80](/2016/11/24/babasola-thomas-my-father-at-80/)** My father was that rare breed of humanity born with a capacity to tolerate high risk.
 
 There are [forty-odd more](/writing/), going back to 2012.
