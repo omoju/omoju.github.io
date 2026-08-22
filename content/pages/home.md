@@ -3,8 +3,7 @@ Date: 2026-08-21
 save_as: index.html
 url:
 
-I started college in Memphis in 1997 having never used a computer. I didn't know
-where the on button was. That year I discovered the internet, and I have been
+I started college in Memphis in 1997 having never really used a computer. That year I discovered the internet, and I have been
 building ever since.
 
 Since then I have applied machine learning to the software development lifecycle
@@ -26,7 +25,7 @@ done](/cv/), and [what I am thinking about today](/now/).
 If you are new to my writing, these are a good way in.
 
 - **[What is luxury? And what has that got to do with software?](/2026/08/14/what-is-luxury-and-what-has-that-got-to-do-with-software/)**
-Start here. A bag in Madrid, and what it says about the code we are now
+A bag in Madrid, and what it says about the code we are now
 generating faster than anyone can understand it.
 - **[Winding Down Fimio](/2026/05/12/winding-down-fimio/)**
 Four years of building, and choosing clarity over a go-to-market motion that
