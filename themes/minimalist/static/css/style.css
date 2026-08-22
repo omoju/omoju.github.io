@@ -13,7 +13,7 @@
     --paper:      #fdfdfa;
     --rule:       #cdc8bd;
     --accent:     #AA0000;
-    --link:       #8a2226;
+    --link:       #483D8B;
     --sans:       'Inter', -apple-system, 'Helvetica Neue', sans-serif;
 }
 
@@ -175,7 +175,8 @@ p {
 }
 
 /* Drop cap, but only where an essay genuinely opens with prose. */
-.article-body > p:first-child::first-letter {
+.article-body > p:first-of-type::first-letter,
+.page-home .post-body > p:first-of-type::first-letter {
     float: left;
     font-size: 3.4em;
     line-height: 0.82;
@@ -185,7 +186,8 @@ p {
     font-weight: 500;
 }
 
-.article-body > p:first-child::first-line {
+.article-body > p:first-of-type::first-line,
+.page-home .post-body > p:first-of-type::first-line {
     font-variant-caps: small-caps;
     letter-spacing: 0.03em;
 }
@@ -209,7 +211,7 @@ article h2 a {
 main a {
     color: var(--link);
     text-decoration: none;
-    border-bottom: 1px solid rgba(42, 77, 105, 0.28);
+    border-bottom: 1px solid rgba(72, 61, 139, 0.3);
     transition: border-color 0.15s ease, color 0.15s ease;
 }
 
