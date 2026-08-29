@@ -14,13 +14,28 @@ This launch gave me the final push I needed to write this kinda case study on re
 
 First, my product wish. I want a product that is a marriage of GH and AWS. I want one seamless experience from intent to prod, and I think SpaceX is the only company that can build it; a true vertically integrated developer experience around tooling. My desire for this came from working on the two separate halves of that marriage. At Fimio, we built a platform that was like Vercel but for Python ML load backends. You can see the demo below.
 
-Building a FastAPI chatbot with LlamaIndex on Fimio, from repo to a live deployment. 8 min 6 sec.
+<figure>
+  <div class="video-embed">
+    <iframe src="https://player.vimeo.com/video/1222256645?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            title="Building a FastAPI chatbot with LlamaIndex on Fimio"></iframe>
+  </div>
+  <figcaption>Building a FastAPI chatbot with LlamaIndex on Fimio, from repo to a live
+  deployment. 8 min 6 sec.</figcaption>
+</figure>
 
 Instead of hosting the deployment forever, I made the decision to keep it live for an hour (we built Fimio as a testing platform), but we could have kept it up forever. Why did I make that call? I didn't want the product creep: I was building the solution for "but it worked on my machine, and now it's broken in prod," not becoming a Neo Cloud.
 
-![A pipeline running left to right, labelled Code, then Build Test Deploy, then Live. The outline is wide open at Code, where yellow blocks of work pile up several deep, then pinches to a narrow waist through Build, Test and Deploy, so only a thin column of blocks reaches Live.]({static}/images/cursor-origin/fimio-pipeline-bottleneck.png)![The same pipeline, now labelled Coding, Build Test Deploy, Live. A dark green block covers the Build, Test and Deploy stage, holding it open to full width. Twelve yellow blocks move through it in even rows, and the flow arriving at Live matches the flow leaving Coding.]({static}/images/cursor-origin/fimio-pipeline-unblocked.png)
-
-Fimio investor deck, February 2025. The argument was that AI widens the front of the pipeline, which turns build, test and deploy into the bottleneck rather than the formality it used to be.
+<figure class="pair">
+  <img src="{static}/images/cursor-origin/fimio-pipeline-bottleneck.png"
+       alt="A pipeline running left to right, labelled Code, then Build Test Deploy, then Live. The outline is wide open at Code, where yellow blocks of work pile up several deep, then pinches to a narrow waist through Build, Test and Deploy, so only a thin column of blocks reaches Live.">
+  <img src="{static}/images/cursor-origin/fimio-pipeline-unblocked.png"
+       alt="The same pipeline, now labelled Coding, Build Test Deploy, Live. A dark green block covers the Build, Test and Deploy stage, holding it open to full width. Twelve yellow blocks move through it in even rows, and the flow arriving at Live matches the flow leaving Coding.">
+  <figcaption>Fimio investor deck, February 2025. The argument was that AI widens the front of
+  the pipeline, which turns build, test and deploy into the bottleneck rather than the
+  formality it used to be.</figcaption>
+</figure>
 
 The code-build-deploy loop for an agentic era is a chance to own the entire surface under one banner and make trivial what used to be tedious.
 
@@ -44,7 +59,15 @@ Origin has already built most of the machinery for this without calling it that.
 
 One final note for Origin, even if they manage to thread the needle from intent to prod, they will still not be home free for they need to address the issue of the **status economy**. OG GH was invented in the era where coding was humans writing for other humans. And in that transmission, we passed along way more than syntax. Without knowing it, we passed along status, judgment, and standard. And out of that emerged reputation. You can see all these lovely authorship metrics beautifully rendered in this realtime visualization.
 
-Gitmos, a realtime visualization of GitHub authorship.
+<figure>
+  <div class="video-embed">
+    <iframe src="https://player.vimeo.com/video/951284486?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            title="GitHub — Gitmos Data Visualization"></iframe>
+  </div>
+  <figcaption>Gitmos, a realtime visualization of GitHub authorship.</figcaption>
+</figure>
 
 *An aside, because I earned it: I shipped this while at GH, and it is something I am proud of. How it came to be is a post for another day.*
 
@@ -52,7 +75,7 @@ Back to the matter at hand.
 
 Now here is the kicker, every authorship metric in software is about to die. All those commits, green squares, PR counts and so on, all of them measure developer velocity, and agents make velocity infinite; which devalues the status of those metrics. Infinite things can't carry status. What survives is anything that measures the scarcity that remains: what depends on you, what you maintain, what you decided, what you refused to merge. Status in software is undergoing a migration from proof-of-output to proof-of-judgment, and no platform has built the instruments for it yet.
 
-This is wildly important because **status** is one of the three legs holding up open source alongside learning and corporate sponsorship. And the leg the agent age breaks first is reputation-as-hiring-signal: when employers stop reading GitHub profiles because code is cheap, the strongest private incentive to do public work evaporates. Whoever builds the credential that replaces it captures the motivation flow of an entire profession. And that credential needs to be a legible, gaming-resistant record of judgment that employers actually trust.
+This is wildly important because **status** is one of the three legs holding up open source alongside learning and corporate sponsorship. And the leg the agent age breaks first is reputation-as-hiring-signal: when employers stop reading GitHub profiles because code is cheap, the strongest private incentive to do public work evaporates. That mechanism is not hypothetical; it is how @vmg got hired. He picked up [libgit2](https://github.com/libgit2/libgit2) through Google Summer of Code, and GH contracted him off the strength of that public work. Whoever builds the credential that replaces it captures the motivation flow of an entire profession. And that credential needs to be a legible, gaming-resistant record of judgment that employers actually trust.
 
 Open source is drowning in contributions: maintainers are burning out under floods of plausible agent-generated PRs and slop vulnerability reports. The scarce resource is not code, it's **[stewardship](https://omojumiller.com/2026/08/14/what-is-luxury-and-what-has-that-got-to-do-with-software/)** aka review, maintenance, governance, and taste. A platform that makes human judgment legible and status-bearing isn't just building bragging rights; it's building the economic layer that keeps the commons alive when judgment is the bottleneck.
 
