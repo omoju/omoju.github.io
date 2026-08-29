@@ -2,6 +2,7 @@ Title: AI At The Frontier, Global Viewpoint
 Date: 2019-07-19
 Category: Blog
 Tags: machine-learning, ai, research, nigeria
+Description: A frontier is the limit of settled land. What planetary-scale inference looks like from sub-Saharan Africa.
 
 ![[omoju-fortune-brainstorm.jpg]]
 _I spoke at Fortune’s Brainstorm Tech conference on AI at the frontier. Below is a fleshed-out version of my talk._

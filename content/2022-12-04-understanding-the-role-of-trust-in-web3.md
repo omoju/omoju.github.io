@@ -2,6 +2,7 @@ Title: Understanding the Role of Trust in Web3
 Date: 2022-12-04
 Category: Blog
 Tags: web3, trust
+Description: It is winter in web3. Trust broke at layer-0, the human layer, and that is not a problem you can fix with better infrastructure.
 
 It is winter in the northern hemisphere, and also it is winter in web3. The usual cycle of cryptocurrency is that of busts and booms, but this low cycle, or “winter” as it’s commonly called, has been more brutal because the lows have been really low. I am talking about the collapse of Celsius, Luna, and FTX to name a few. The impact of these failures has been a deserved loss of trust in the cryptocurrency space by the main-stream audience. 
 

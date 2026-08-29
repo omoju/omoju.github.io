@@ -2,6 +2,7 @@ Title: Machine Learning for Web3
 Date: 2023-06-12
 Category: Blog
 Tags: web3, machine-learning, llms
+Description: We built the internet of ownership when we should have been building the internet of censorship-resistant, verifiable connections.
 
 Machine Learning For Web3: Realizing The Potential and The Challenge of Censorship Resistance
 
