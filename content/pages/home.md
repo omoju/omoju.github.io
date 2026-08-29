@@ -24,14 +24,15 @@ done](/cv/), and [what I am thinking about today](/now/).
 
 If you are new to my writing, these are a good way in.
 
+- **[Notes on Origin](/2026/08/28/on-origin/)**
+What GitHub actually owns was never the git server. On custody, provenance, and
+why every authorship metric in software is about to die.
 - **[What is luxury? And what has that got to do with software?](/2026/08/14/what-is-luxury-and-what-has-that-got-to-do-with-software/)**
 A bag in Madrid, and what it says about the code we are now
 generating faster than anyone can understand it.
 - **[Winding Down Fimio](/2026/05/12/winding-down-fimio/)**
 Four years of building, and choosing clarity over a go-to-market motion that
 was not me.
-- **[Vibecoding Mini Apps](/2025/08/25/vibecoding-mini-apps-an-under-tapped-opportunity/)**
-An under-tapped opportunity, and where I think app distribution goes next.
 - **[The Build](/2024/09/11/the-build-peeling-back-the-layers-of-native-llm-application-deployments/)** Peeling back the layers of native LLM application deployments. I wrote this because I wanted to demystify the process.
 - **[#20YearsACoder](/2017/06/28/20yearsacoder/)**
 A retrospective on the first twenty years, written in 2017.
