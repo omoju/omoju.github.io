@@ -23,6 +23,17 @@ EXTRA_PATH_METADATA = {
     'Omoju_Miller_MasterCV.pdf': {'path': 'Omoju_Miller_CV.pdf'},
 }
 
+# Used for share metadata (<meta description>, Open Graph, Twitter cards) on
+# any page that is not a single article or page. SITEIMAGE is the fallback
+# preview image; set it to a path under content/images and posts can override
+# it with an "Image:" metadata line. Left empty, previews render as text-only
+# summary cards rather than large-image ones.
+SITEDESCRIPTION = (
+    "I think about how people learn to build things, who gets to build them, "
+    "and what we are actually making when we make software."
+)
+SITEIMAGE = ""
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
