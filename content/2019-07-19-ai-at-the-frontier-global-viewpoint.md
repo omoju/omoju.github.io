@@ -3,7 +3,7 @@ Date: 2019-07-19
 Category: Blog
 Tags: machine-learning, ai, research, nigeria
 
-![[omoju-fortune-brainstorm.jpg]]
+![Omoju Miller on stage at Fortune's Brainstorm Tech conference, speaking in a yellow and green print dress against a wall of screens showing a sunflower field and the Brainstorm Tech logo. Her image is relayed on an overhead screen to the seated audience.]({static}/images/ai-at-the-frontier/omoju-fortune-brainstorm.jpg)
 _I spoke at Fortune’s Brainstorm Tech conference on AI at the frontier. Below is a fleshed-out version of my talk._
 
 
