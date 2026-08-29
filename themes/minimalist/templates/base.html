@@ -4,6 +4,62 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+
+    {# Share metadata. `article` and `page` are only defined in their own
+       templates. Anything else (the archive, and Pelican's tags/authors/
+       categories direct templates) has no URL we can infer, so it declares one
+       via the meta_path block; without one we emit no canonical and no og:url
+       rather than a wrong one pointing at the homepage.
+       Autoescaping is off in this project, so attribute values take |e. #}
+    {% set meta_path = self.meta_path()|trim %}
+    {% if article %}
+        {% set meta_title = article.title %}
+        {% set meta_desc = article.description or article.summary|striptags|replace('\n', ' ')|truncate(200, true, '…') %}
+        {% set meta_url = SITEURL + '/' + article.url %}
+        {% set meta_type = 'article' %}
+        {% set meta_image = article.image %}
+    {% elif page %}
+        {% set meta_title = SITENAME if page.save_as == 'index.html' else page.title %}
+        {% set meta_desc = page.description or page.summary|striptags|replace('\n', ' ')|truncate(200, true, '…') %}
+        {% set meta_url = SITEURL + '/' + page.url %}
+        {% set meta_type = 'website' %}
+        {% set meta_image = page.image %}
+    {% else %}
+        {% set meta_title = self.title()|trim|striptags or SITENAME %}
+        {% set meta_desc = SITEDESCRIPTION %}
+        {% set meta_url = (SITEURL + '/' + meta_path) if meta_path else none %}
+        {% set meta_type = 'website' %}
+        {% set meta_image = none %}
+    {% endif %}
+    {% set meta_image = meta_image or SITEIMAGE %}
+
+    <meta name="description" content="{{ meta_desc|striptags|e }}">
+    {% if meta_url %}
+    <link rel="canonical" href="{{ meta_url }}">
+    {% endif %}
+
+    <meta property="og:type" content="{{ meta_type }}">
+    <meta property="og:site_name" content="{{ SITENAME|e }}">
+    <meta property="og:title" content="{{ meta_title|striptags|e }}">
+    <meta property="og:description" content="{{ meta_desc|striptags|e }}">
+    {% if meta_url %}
+    <meta property="og:url" content="{{ meta_url }}">
+    {% endif %}
+    {% if meta_image %}
+    <meta property="og:image" content="{{ meta_image if '://' in meta_image else SITEURL + '/' + meta_image.lstrip('/') }}">
+    {% endif %}
+    {% if article %}
+    <meta property="article:published_time" content="{{ article.date.isoformat() }}">
+    {% for tag in article.tags %}
+    <meta property="article:tag" content="{{ tag|striptags|e }}">
+    {% endfor %}
+    {% endif %}
+
+    <meta name="twitter:card" content="{{ 'summary_large_image' if meta_image else 'summary' }}">
+    <meta name="twitter:title" content="{{ meta_title|striptags|e }}">
+    <meta name="twitter:description" content="{{ meta_desc|striptags|e }}">
+
+    {% block meta_path %}{% endblock %}
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css?v={{ CSS_VERSION }}">
 </head>
 <body>
