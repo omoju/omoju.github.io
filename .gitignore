@@ -141,3 +141,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local research artifacts: source captures kept as verification for quotes in
+# posts. Never deployed (not a STATIC_PATH) and never pushed.
+_research/

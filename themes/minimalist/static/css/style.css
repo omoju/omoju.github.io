@@ -314,6 +314,42 @@ figcaption {
     margin-top: 0.5rem;
 }
 
+/* --- Video and paired figures --------------------------------------------- */
+
+/* A before/after pair reads as one figure under a single caption. They stack
+   rather than sitting side by side: these are slides, and at half column width
+   the stage labels stop being legible. */
+figure.pair img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    max-height: none;
+    height: auto;
+    margin: 0 0 0.6rem;
+}
+
+figure.pair img:last-of-type {
+    margin-bottom: 0;
+}
+
+/* Third-party players (Vimeo, YouTube) come as fixed-size iframes. The wrapper
+   holds the aspect ratio open so the iframe can fill it responsively. */
+.video-embed {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: var(--ink);
+}
+
+.video-embed iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
 /* --- Writing archive ----------------------------------------------------- */
 
 .archive-intro {
