@@ -32,7 +32,7 @@ SITEDESCRIPTION = (
     "I think about how people learn to build things, who gets to build them, "
     "and what we are actually making when we make software."
 )
-SITEIMAGE = ""
+SITEIMAGE = "images/og-card.jpg"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
