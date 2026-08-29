@@ -2,6 +2,7 @@ Title: The GetYourLife Reading List
 Date: 2015-06-02
 Category: Blog
 Tags: reading, reflection
+Description: The books I hand people who have stopped hearing the sound of the drums.
 
 <center>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/0i1XnnQ-LQg" frameborder="0" allowfullscreen></iframe>
