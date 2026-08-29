@@ -1,10 +1,9 @@
-Title: Notes on Origin  
- Date: 2026-08-28  
- Category: Blog  
- Tags: ai, developer-tools, software-engineering  
- Slug: on-origin  
- Description:  
- Status: draft
+Title: Notes on Origin
+Date: 2026-08-28
+Category: Blog
+Tags: ai, developer-tools, software-engineering
+Slug: on-origin
+Description:
 
 Recently SpaceX (Cursor) released Origin, a large scale git hosting service. This is something I have been thinking about for a while. What I pitched at Fimio was the other end of it, the CI/CD problem, but the way we were solving that was to make every single thing a SHA and store it.
 
