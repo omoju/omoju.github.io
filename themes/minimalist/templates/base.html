@@ -17,7 +17,9 @@
         {% set meta_desc = article.description or article.summary|striptags|replace('\n', ' ')|truncate(200, true, '…') %}
         {% set meta_url = SITEURL + '/' + article.url %}
         {% set meta_type = 'article' %}
-        {% set meta_image = article.image %}
+        {# Articles get their own card, generated per slug by tools/make-cards.py.
+           An explicit Image: in the post still wins. #}
+        {% set meta_image = article.image or 'images/cards/' ~ article.slug ~ '.jpg' %}
     {% elif page %}
         {% set meta_title = SITENAME if page.save_as == 'index.html' else page.title %}
         {% set meta_desc = page.description or page.summary|striptags|replace('\n', ' ')|truncate(200, true, '…') %}
