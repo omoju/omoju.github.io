@@ -15,6 +15,9 @@
     --accent:     #AA0000;
     --link:       #483D8B;
     --sans:       'Inter', -apple-system, 'Helvetica Neue', sans-serif;
+    --mono:       ui-monospace, 'SF Mono', Menlo, Monaco, Consolas,
+                  'Liberation Mono', monospace;
+    --chip:       #efede6;
 }
 
 * {
@@ -291,6 +294,49 @@ hr::before {
     content: "❧";
     color: var(--ink-faint);
     font-size: 1.2rem;
+}
+
+/* --- Code ----------------------------------------------------------------
+
+   Matches the CodeStories gallery at /comprehension/stories/, so a commit hash
+   or identifier reads the same in an essay as it does there. Inline code is a
+   chip in the accent red; blocks stay in ink, since red over a whole listing
+   is noise rather than emphasis.
+
+   The variant resets undo the old-style figures and small caps that body copy
+   turns on globally -- an identifier like `atcs2` should not get Garamond's
+   descending numerals.
+   -------------------------------------------------------------------------- */
+
+code {
+    font-family: var(--mono);
+    font-size: 0.78em;
+    color: var(--accent);
+    background: var(--chip);
+    padding: 0.12em 0.4em;
+    border-radius: 4px;
+    font-variant-numeric: normal;
+    font-variant-caps: normal;
+    font-feature-settings: normal;
+    letter-spacing: 0;
+}
+
+pre {
+    font-family: var(--mono);
+    font-size: 0.82rem;
+    line-height: 1.5;
+    background: var(--chip);
+    padding: 0.9rem 1.1rem;
+    border-radius: 4px;
+    overflow-x: auto;
+    margin-bottom: 1.15rem;
+}
+
+pre code {
+    color: var(--ink);
+    background: none;
+    padding: 0;
+    font-size: inherit;
 }
 
 /* --- Figures ------------------------------------------------------------- */
