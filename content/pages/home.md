@@ -7,8 +7,8 @@ I started college in Memphis in 1997 having never really used a computer. That y
 building ever since.
 
 Since then I have applied machine learning to the software development lifecycle
-at GitHub and supported our CEO in bringing Copilot to market, co-led Google's
-$15M computer science education portfolio, advised the Obama administration's
+at GitHub and supported our CEO in bringing Copilot to market, co-led Google's 
+computer science education portfolio, advised the Obama administration's
 Presidential Innovation Fellows, and founded Fimio, an AI infrastructure company
 I ran from 2022 until winding it down in 2026. I hold a Ph.D. from UC Berkeley in
 Computer Science Education. I am Nigerian, from Lagos.
