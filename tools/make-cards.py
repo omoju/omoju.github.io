@@ -33,7 +33,7 @@ CHROME = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 OUT_DIR = "content/images/cards"
 W, H = 1200, 630
 BATCH = 16          # keeps each captured page well inside Chrome's height limit
-PAD = 40            # see render(): keeps the final slice off the bottom edge
+PAD = 40            # see render(): keeps every slice off both edges of the page
 JPEG_QUALITY = 88
 
 CARD_CSS = """
@@ -114,21 +114,27 @@ def render(batch, workdir, index):
             "<!doctype html><meta charset='utf-8'>"
             "<link href='https://fonts.googleapis.com/css2?"
             "family=EB+Garamond:wght@400;500&display=swap' rel='stylesheet'>"
-            f"<style>{CARD_CSS}</style>" + "".join(cards)
+            f"<style>{CARD_CSS}</style>"
+            f'<div style="height:{PAD}px"></div>' + "".join(cards)
         )
     shot = os.path.join(workdir, f"page{index}.png")
-    # PAD matters: sips silently returns the *whole* image, exit code 0, when a
-    # crop region ends flush with the bottom edge. Padding the page keeps the
-    # last slice off that boundary.
+    # PAD matters, at both ends. sips fails silently at the edges of an image,
+    # exit code 0 both times:
+    #   - a crop ending flush with the bottom edge returns the *whole* image;
+    #   - --cropOffset 0 is read as "no offset" and the crop is centred instead,
+    #     so the first card of every batch came back as a slice from mid-page.
+    # A spacer above the first card and slack below the last keep every offset
+    # strictly inside the page. The size check below cannot catch the second
+    # case: a centred slice is still exactly W x H.
     subprocess.run(
         [CHROME, "--headless", "--disable-gpu", "--hide-scrollbars",
-         f"--window-size={W},{H * len(batch) + PAD}", f"--screenshot={shot}",
+         f"--window-size={W},{PAD + H * len(batch) + PAD}", f"--screenshot={shot}",
          "--virtual-time-budget=15000", f"file://{os.path.abspath(page)}"],
         check=True, capture_output=True,
     )
     for i, (slug, _, _) in enumerate(batch):
         crop = os.path.join(workdir, f"{slug}.png")
-        subprocess.run(["sips", "-c", str(H), str(W), "--cropOffset", str(i * H), "0",
+        subprocess.run(["sips", "-c", str(H), str(W), "--cropOffset", str(PAD + i * H), "0",
                         shot, "--out", crop], check=True, capture_output=True)
         out = os.path.join(OUT_DIR, f"{slug}.jpg")
         subprocess.run(["sips", "-s", "format", "jpeg", "-s", "formatOptions",
