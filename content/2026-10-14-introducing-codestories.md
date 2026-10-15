@@ -3,7 +3,7 @@ Date: 2026-10-14
 Category: Blog
 Tags: ai, developer-tools, comprehension, research
 Slug: introducing-codestories
-Description: I built stories of codebases, pinned to real lines and run like tests. My preregistered rule said kill. I read it as ship, and published both.
+Description: What if we could make stories out of codebases? I built them, pinned to real lines and checked like tests. A model reader understood the code better than with docs.
 Status: draft
 
 <figure>
