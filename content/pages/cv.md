@@ -13,7 +13,7 @@ Also on [LinkedIn](https://www.linkedin.com/in/omojumiller) and
 ## Selected Experience
 
 **Fimio** — *Founder and CEO*, 2022–2026  
- Built and shipped a sandboxed AI inference deployment platform and a malicious smart-contract detection API. Backed by Redpoint Ventures, Protocol Labs, and Neo, with angels including Nat Friedman. Wound the company down in 2026 and returned remaining capital to investors.
+ Built and shipped a sandboxed AI inference deployment platform and a malicious smart-contract detection API. Backed by Neo, Redpoint Ventures, Protocol Labs, and The House Fund, with angels including Nat Friedman. Wound the company down in 2026 and returned remaining capital to investors.
 
 **GitHub** — *Technical Advisor to the CEO*, 2020–2022  
 Supported the CEO in bringing GitHub Copilot to market, the first mainstream AI
