@@ -61,7 +61,9 @@
     <meta name="twitter:title" content="{{ meta_title|striptags|e }}">
     <meta name="twitter:description" content="{{ meta_desc|striptags|e }}">
 
-    {% block meta_path %}{% endblock %}
+    {# Defined here so child templates can fill it, but never printed: text
+       inside <head> is moved into the page body by the browser. #}
+    {% if false %}{% block meta_path %}{% endblock %}{% endif %}
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/style.css?v={{ CSS_VERSION }}">
 </head>
 <body>

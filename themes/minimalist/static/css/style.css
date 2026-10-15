@@ -74,8 +74,6 @@ h2,
     letter-spacing: 0.045em;
     margin-top: 2.6rem;
     margin-bottom: 0.7rem;
-    padding-bottom: 0.25rem;
-    border-bottom: 1px solid var(--rule);
 }
 
 /*
@@ -168,6 +166,9 @@ footer {
 
 article {
     margin-bottom: 4rem;
+    /* A long unbroken string, such as a bare URL, wraps rather than widening
+       the page on a phone. Ordinary words are unaffected. */
+    overflow-wrap: break-word;
 }
 
 p {
@@ -339,6 +340,50 @@ pre code {
     font-size: inherit;
 }
 
+/* --- Tables ---------------------------------------------------------------
+
+   Booktabs, as in a printed paper: a rule above and below, a hairline under
+   the header, no vertical rules. Figures switch to lining and tabular so a
+   column of numbers lines up -- body copy's old-style proportional figures
+   would give 0.71 and 0.54 different widths and baselines. That has to go
+   through font-feature-settings, because body sets "onum" there, and that
+   overrides font-variant-numeric.
+   -------------------------------------------------------------------------- */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.6rem 0 2rem;
+    line-height: 1.45;
+    font-variant-numeric: lining-nums tabular-nums;
+    font-feature-settings: "lnum" 1, "tnum" 1, "kern" 1, "liga" 1;
+    border-top: 1.5px solid var(--ink);
+    border-bottom: 1.5px solid var(--ink);
+}
+
+th,
+td {
+    padding: 0.5rem 1rem 0.5rem 0;
+    text-align: left;
+    vertical-align: top;
+    hyphens: manual;
+    -webkit-hyphens: manual;
+}
+
+th:last-child,
+td:last-child {
+    padding-right: 0;
+}
+
+thead th {
+    font-weight: 500;
+    font-variant-caps: small-caps;
+    letter-spacing: 0.04em;
+    color: var(--ink-soft);
+    vertical-align: bottom;
+    border-bottom: 1px solid var(--rule);
+}
+
 /* --- Figures ------------------------------------------------------------- */
 
 figure {
@@ -474,6 +519,13 @@ footer a {
 /* --- Small screens ------------------------------------------------------- */
 
 @media (max-width: 600px) {
+    /* A wide table scrolls inside itself rather than pushing the page sideways. */
+    table {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
     body {
         padding: 2rem 1.1rem;
         font-size: 18px;
