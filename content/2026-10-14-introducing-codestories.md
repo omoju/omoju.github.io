@@ -4,7 +4,6 @@ Category: Blog
 Tags: ai, developer-tools, comprehension, research
 Slug: introducing-codestories
 Description: What if we could make stories out of codebases? I built them, pinned to real lines and checked like tests. A model reader understood the code better than with docs.
-Status: draft
 
 <figure>
   <a href="https://omojumiller.com/comprehension/stories/bench/rich/">

@@ -6,27 +6,37 @@ url:
 I started college in Memphis in 1997 having never really used a computer. That year I discovered the internet, and I have been
 building ever since.
 
-Since then I have applied machine learning to the software development lifecycle
-at GitHub and supported our CEO in bringing Copilot to market, co-led Google's 
-computer science education portfolio, advised the Obama administration's
-Presidential Innovation Fellows, and founded Fimio, an AI infrastructure company
-I ran from 2022 until winding it down in 2026. I hold a Ph.D. from UC Berkeley in
-Computer Science Education. I am Nigerian, from Lagos.
+At GitHub I applied machine learning to how software gets built, co-building its
+first repository recommendation engine. As technical advisor to the CEO, I helped
+bring Copilot to market, the product that made AI part of how developers write
+code, and led the CEO's prototyping teams. Before that I co-led Google's computer
+science education portfolio and advised the Obama administration's Presidential
+Innovation Fellows.
+
+In 2022 I founded Fimio, an AI infrastructure company backed by Neo, Redpoint
+Ventures, Protocol Labs, and The House Fund, with angels including Nat Friedman.
+Fimio shipped a sandboxed inference platform and a malicious smart-contract
+detection API. When I wound it down in 2026, I returned the remaining capital to
+our investors. I have given more than thirty talks, including the opening keynote
+at GitHub Universe and a talk at Fortune Brainstorm Tech. I hold a Ph.D. from UC
+Berkeley in Computer Science Education. I am Nigerian, from Lagos.
 
 I think about how people learn to build things, who gets to build them, and what
 we are actually making when we make software.
 
-Right now I am between things — reading, writing, and working out what comes
-next. This site holds both halves of that: the [record of what I have
-done](/cv/), and [what I am thinking about today](/now/).
+That question matters more now that code is generated faster than anyone can read
+it. I am working on where understanding goes next, and my first answer is
+[CodeStories](/2026/10/14/introducing-codestories/): a codebase told as a story, pinned to real
+lines and checked like tests. I write about this here, speak about it, and advise
+founders working on the same problem. The [record of what I have done](/cv/) and
+[what I am working on now](/now/) are both here.
 
 ## Start here
 
 If you are new to my writing, these are a good way in.
 
-- **[Notes on Origin](/2026/08/28/on-origin/)**
-What GitHub actually owns was never the git server. On custody, provenance, and
-why every authorship metric in software is about to die.
+- **[Where Comprehension Goes: Introducing CodeStories](/2026/10/14/introducing-codestories/)**
+What if we could make stories out of codebases? I did exactly that. I turned repos into CodeStories, pinned the story claims to real lines and ran them as tests. Turns out I understood the code better with a story than with docs.
 - **[What is luxury? And what has that got to do with software?](/2026/08/14/what-is-luxury-and-what-has-that-got-to-do-with-software/)**
 A bag in Madrid, and what it says about the code we are now
 generating faster than anyone can understand it.
