@@ -104,7 +104,7 @@ User stories were never a correctness tool; nobody writes them to reduce bugs. T
 
 **Then a friend pointed it at a pull request**
 
-Throughout building this prototype I would bounce ideas off of a friend. At some point, when I got the first few stories out, I sent them to him. He read them, and said, “You know what I really need? To see if this can work on a pull request.” Hmm, I thought. So I said, why not. I gave him access to the repository, he opened the pull requests himself, and the first change story was created. It was tested on a massive PR that had been sitting there. We both got online and did a walkthrough of the feature. The first thing I noticed was that, instead of feeling overwhelmed and not even knowing where to start with the PR, with a change story you know where to start. There is the premise, there is a clear path you can walk to know what changed, and then reason about the change.
+Throughout building this prototype I would bounce ideas off of a friend, Dunni. At some point, when I got the first few stories out, I sent them to him. He read them, and said, “You know what I really need? To see if this can work on a pull request.” Hmm, I thought. So I said, why not. I gave him access to the repository, he opened the pull requests himself, and the first change story was created. It was tested on a massive PR that had been sitting there. We both got online and did a walkthrough of the feature. The first thing I noticed was that, instead of feeling overwhelmed and not even knowing where to start with the PR, with a change story you know where to start. There is the premise, there is a clear path you can walk to know what changed, and then reason about the change.
 
 **What’s next**
 
