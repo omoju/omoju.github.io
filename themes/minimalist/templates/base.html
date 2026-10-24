@@ -49,6 +49,11 @@
     {% endif %}
     {% if meta_image %}
     <meta property="og:image" content="{{ meta_image if '://' in meta_image else SITEURL + '/' + meta_image.lstrip('/') }}">
+    {% set meta_image_size = meta_image|image_size %}
+    {% if meta_image_size %}
+    <meta property="og:image:width" content="{{ meta_image_size[0] }}">
+    <meta property="og:image:height" content="{{ meta_image_size[1] }}">
+    {% endif %}
     {% endif %}
     {% if article %}
     <meta property="article:published_time" content="{{ article.date.isoformat() }}">
