@@ -79,3 +79,40 @@ RELATIVE_URLS = True
 # with changed CSS is picked up instead of served from a stale browser cache.
 _css = _pathlib.Path(__file__).parent / "themes/minimalist/static/css/style.css"
 CSS_VERSION = _hashlib.md5(_css.read_bytes()).hexdigest()[:8] if _css.exists() else "0"
+
+
+# Pixel size of a share image, read from the file's header (JPEG or PNG) so the
+# theme can emit og:image:width/height. Facebook's crawler, which WhatsApp also
+# uses, tends to skip the image on a link's first share unless those are set.
+# Returns None for anything it can't read, and the theme then omits the tags.
+def _image_size(rel_path):
+    import struct
+    if not rel_path or '://' in rel_path:
+        return None
+    p = _pathlib.Path(__file__).parent / 'content' / rel_path.lstrip('/')
+    try:
+        data = p.read_bytes()
+    except OSError:
+        return None
+    if data[:8] == b'\x89PNG\r\n\x1a\n':
+        w, h = struct.unpack('>II', data[16:24])
+        return (w, h)
+    if data[:2] == b'\xff\xd8':
+        i = 2
+        while i + 9 < len(data):
+            if data[i] != 0xFF:
+                i += 1
+                continue
+            marker = data[i + 1]
+            if marker in (0xD8, 0x01) or 0xD0 <= marker <= 0xD7:
+                i += 2
+                continue
+            length = struct.unpack('>H', data[i + 2:i + 4])[0]
+            if marker in (0xC0, 0xC1, 0xC2):
+                h, w = struct.unpack('>HH', data[i + 5:i + 9])
+                return (w, h)
+            i += 2 + length
+    return None
+
+
+JINJA_FILTERS = {'image_size': _image_size}

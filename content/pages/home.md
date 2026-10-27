@@ -35,6 +35,11 @@ founders working on the same problem. The [record of what I have done](/cv/) and
 
 If you are new to my writing, these are a good way in.
 
+- **[Mission Control for Open Source: The Story of GitHub Gitmos](/2026/10/23/gitmos/)**
+It is a delight that developers keep finding their own names on the live
+dashboard at GitHub HQ. I built it in 2020. This is the story of how it
+got made, and why. It is also a story of data, of taste, and of stewardship of
+a beloved brand.
 - **[Where Comprehension Goes: Introducing CodeStories](/2026/10/14/introducing-codestories/)**
 What if we could make stories out of codebases? I did exactly that. I turned repos into CodeStories, pinned the story claims to real lines and ran them as tests. Turns out I understood the code better with a story than with docs.
 - **[What is luxury? And what has that got to do with software?](/2026/08/14/what-is-luxury-and-what-has-that-got-to-do-with-software/)**
@@ -43,9 +48,6 @@ generating faster than anyone can understand it.
 - **[Winding Down Fimio](/2026/05/12/winding-down-fimio/)**
 Four years of building, and choosing clarity over a go-to-market motion that
 was not me.
-- **[The Build](/2024/09/11/the-build-peeling-back-the-layers-of-native-llm-application-deployments/)** Peeling back the layers of native LLM application deployments. I wrote this because I wanted to demystify the process.
-- **[#20YearsACoder](/2017/06/28/20yearsacoder/)**
-A retrospective on the first twenty years, written in 2017.
 - **[Babasola Thomas, my Father at 80](/2016/11/24/babasola-thomas-my-father-at-80/)** My father was that rare breed of humanity born with a capacity to tolerate high risk.
 
 There are [forty-odd more](/writing/), going back to 2012.
